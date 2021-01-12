@@ -1,0 +1,6445 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-13 21:43-0400\n"
+"PO-Revision-Date: 2021-01-12 17:46-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+#: src/AffinityPetDefense.cpp:12
+msgid "Pet Bond"
+msgstr "Conexão com Pet"
+
+#: src/AffinityPetDefense.cpp:13
+msgid "Share Potion"
+msgstr "Compartilhar Poção"
+
+#: src/AffinityPetDefense.cpp:13
+msgid "Share beneficial potions with your pet."
+msgstr "Compartilha poções benéficas com seu Pet."
+
+#: src/AffinityPetDefense.cpp:14
+msgid "Command Aura"
+msgstr "Aura de Comando"
+
+#: src/AffinityPetDefense.cpp:14
+msgid "You now have an aura that increases your pets stats when near."
+msgstr ""
+"Você agora tem uma aura que aumenta os Status do seu pet quando próximo."
+
+#: src/AffinityPetDefense.cpp:15
+msgid "Substitute"
+msgstr "Substituto"
+
+#: src/AffinityPetDefense.cpp:15
+msgid "Damage you take is split between you and your pet."
+msgstr "O Dano que você recebe é dividido entre você e seu Pet."
+
+#: src/AffinityPetDefense.cpp:16
+msgid "Item Bond"
+msgstr "Conexão de Item"
+
+#: src/AffinityPetDefense.cpp:16
+msgid "Your equipped weapon and chest armor gives bonuses to your pet."
+msgstr "Sua arma equipada e armadura da bônus ao seu pet."
+
+#: src/Background.cpp:35
+msgid "No Background"
+msgstr "Sem historia"
+
+#: src/Background.cpp:36
+msgid "There's nothing special about you."
+msgstr "Não há nada de especial sobre você."
+
+#: src/Background.cpp:39 src/Stats.cpp:106 src/ItemAttribute.cpp:269
+msgid "Strong"
+msgstr "Forte"
+
+#: src/Background.cpp:40
+msgid ""
+"You might not be the sharpest tool in the shed, but you're stronger than "
+"most."
+msgstr ""
+"Você pode não ser a ferramenta mais afiada disponível, mas é mais forte que "
+"a maioria."
+
+#: src/Background.cpp:41
+msgid "Heavy throws"
+msgstr "Arremessos fortes"
+
+#: src/Background.cpp:42
+msgid "+2 STR"
+msgstr "FOR +2"
+
+#: src/Background.cpp:43
+msgid "-2 INT"
+msgstr "INT -2"
+
+#: src/Background.cpp:46 src/Stats.cpp:103
+msgid "Experienced"
+msgstr "Experiente"
+
+#: src/Background.cpp:47
+msgid ""
+"You're older and more experienced than the average adventurer, but you've "
+"used up most of your beginner's luck."
+msgstr ""
+"Você é mais velho e mais experiente do que a maioria dos aventureiros, mas "
+"já usou a maioria da sua sorte de iniciante."
+
+#: src/Background.cpp:48
+msgid "+1 Starting Level"
+msgstr "Inicia com +1 Level"
+
+#: src/Background.cpp:49
+msgid "-3 LUK"
+msgstr "SOR -3"
+
+#: src/Background.cpp:52 src/Stats.cpp:109
+msgid "Bookworm"
+msgstr "Leitor Faminto"
+
+#: src/Background.cpp:53
+msgid ""
+"Due to your sickly nature, you've spent most of your life indoors reading "
+"books."
+msgstr ""
+"Devido à sua natureza doentia, você passou a maior parte da sua vida lendo "
+"livros dentro de casa."
+
+#: src/Background.cpp:54
+msgid "+1 Spellbook Starting Level"
+msgstr "As Magias começam com +1 lvl"
+
+#: src/Background.cpp:55
+msgid "-1 STR"
+msgstr "-1 FOR"
+
+#: src/Background.cpp:56
+msgid "-1 DEX"
+msgstr "-1 DES"
+
+#: src/Background.cpp:59 src/Stats.cpp:104
+msgid "Survivor"
+msgstr "Sobrevivente"
+
+#: src/Background.cpp:60
+msgid ""
+"Years of living in the harsh wilderness have left you with impressive "
+"survival skills."
+msgstr ""
+"Anos vivendo na natureza Selvagem deixaram você com habilidades "
+"impressionantes de Sobrevivência."
+
+#: src/Background.cpp:61
+msgid "+5 Bonfire Healing"
+msgstr "+ 5 de Cura na Fogueira"
+
+#: src/Background.cpp:64 src/Stats.cpp:111
+msgid "Illiterate"
+msgstr "Analfabeto"
+
+#: src/Background.cpp:65
+msgid ""
+"Instead of going to school and learning how to read, you spent your time "
+"tinkering with explosives."
+msgstr ""
+"Invés de ir para escola aprender como ler, você gastava seu tempo aprendendo "
+"sobre explosivos."
+
+#: src/Background.cpp:66
+msgid "+5 Bombs"
+msgstr "+5 Bombas"
+
+#: src/Background.cpp:67
+msgid "Cannot read scrolls or books"
+msgstr "Não pode ler/usar livros e pergaminhos"
+
+#: src/Background.cpp:70
+msgid "Raised by Merchant"
+msgstr "Criado por Comerciantes"
+
+#: src/Background.cpp:71
+msgid ""
+"Growing up as a merchant's child has taught you how to bargain effectively."
+msgstr ""
+"Crescer como filho de um comerciante lhe ensinou como negociar com eficácia."
+
+#: src/Background.cpp:72
+msgid "+25 Starting Gold"
+msgstr "+25 de Ouro"
+
+#: src/Background.cpp:73
+msgid "Discount at Shops"
+msgstr "Desconto nos Vendedores"
+
+#: src/Background.cpp:76 src/Stats.cpp:116
+msgid "Wanted"
+msgstr "Procurado"
+
+#: src/Background.cpp:77
+msgid ""
+"You were caught stealing something you shouldn't have. Now, you have a price "
+"on your head."
+msgstr ""
+"Você foi visto roubando algo que não devia. Agora, há um preço pela sua "
+"cabeça."
+
+#: src/Background.cpp:78
+msgid "+Item: Stolen Ring"
+msgstr "+Item: Anel Roubado"
+
+#: src/Background.cpp:79
+msgid "Shopkeepers attack on sight"
+msgstr "Lojistas atacam ao te verem"
+
+#: src/Background.cpp:82 src/Stats.cpp:114
+msgid "Farsighted"
+msgstr "Olho Afiado"
+
+#: src/Background.cpp:83
+msgid ""
+"You have exceptional long-ranged vision which lets you aim much better with "
+"ranged weapons."
+msgstr ""
+"Você tem uma ótima visão a distancia, que te permite mirar muito melhor com "
+"armas de longa distancia."
+
+#: src/Background.cpp:84
+msgid "+1 Light Radius"
+msgstr "+1 de Campo de Visão"
+
+#: src/Background.cpp:85
+msgid "Increased Ranged Damage"
+msgstr "Aumenta o Dano de Longe"
+
+#: src/Background.cpp:88 src/Stats.cpp:113 src/ItemAttribute.cpp:479
+msgid "Ascetic"
+msgstr "Asceta"
+
+#: src/Background.cpp:89
+msgid ""
+"You've taken an ascetic vow. Wearing equipment will break your holy vow."
+msgstr ""
+"Você fez um voto Ascético. Vestir equipamentos quebra seu voto Sagrado."
+
+#: src/Background.cpp:90
+msgid "Increased stats for each floor beaten without equipment"
+msgstr ""
+"Aumenta os Status para cada andar Vencido sem usar equipamentos. (Usa de "
+"Armas/Livros e pergaminhos)"
+
+#: src/Background.cpp:91
+msgid "Breaking holy vow is permanent"
+msgstr "Quebrar o voto Sagrado é Permanente"
+
+#: src/Background.cpp:94
+msgid "Snake Eater"
+msgstr "Comedor de Cobra"
+
+#: src/Background.cpp:95
+msgid ""
+"Years of ingesting poisons to train your body has changed your metabolism."
+msgstr "Anos ingerindo venenos para treinar o corpo mudaram seu metabolismo."
+
+#: src/Background.cpp:96
+msgid "+ Poison Potions"
+msgstr "+3 Poções de Veneno"
+
+#: src/Background.cpp:97
+msgid "+1 POISRES"
+msgstr "+1 VENENO RES"
+
+#: src/Background.cpp:98
+msgid "Poison Potions heal"
+msgstr "Poções de Veneno Curam"
+
+#: src/Background.cpp:99
+msgid "Healing Potion effect reduced"
+msgstr "Poções de Cura tem efeito Reduzido"
+
+#: src/Background.cpp:102 src/Stats.cpp:107
+msgid "Nimble"
+msgstr "Ágil"
+
+#: src/Background.cpp:103
+msgid "You're generally quicker and nimbler than normal."
+msgstr "Você é mais rápido e ágil que o normal."
+
+#: src/Background.cpp:104
+msgid "+2 SPD"
+msgstr "+2 AGI"
+
+#: src/Background.cpp:105
+msgid "Reduced fall damage"
+msgstr "Dano de Queda Reduzido"
+
+#: src/Background.cpp:108
+msgid "Wisp Curse"
+msgstr "Maldição dos Espiritos"
+
+#: src/Background.cpp:109
+msgid ""
+"They've followed you for most of your life, but you've learned to deal with "
+"it."
+msgstr ""
+"Você foi assombrado a maior parte da sua vida, mas aprendeu a lidar com isso."
+
+#: src/Background.cpp:112
+msgid "Synchronized"
+msgstr "Sincronizado"
+
+#: src/Background.cpp:113
+msgid "The world moves in step with you."
+msgstr "O Mundo se move junto a você."
+
+#: src/Background.cpp:116 src/Stats.cpp:139
+msgid "Death's Acolyte"
+msgstr "Acólito da Morte"
+
+#: src/Background.cpp:117
+msgid ""
+"Two tattoos of demonic dragons etched into your skin fill your body with "
+"deadly strength, at great cost. The souls of mortals tremble from your "
+"presence."
+msgstr ""
+"Duas tatuagens demoníacas de Dragão na sua pele preenchem seu corpo com uma "
+"força mortífera, a um grande custo. A alma dos mortais tremem em sua "
+"presença."
+
+#: src/Background.cpp:118 src/Background.cpp:119
+msgid "Death is easier to encounter"
+msgstr "Encontro marcado com a Morte"
+
+#: src/Background.cpp:122 src/ItemGenerator.cpp:505 src/Stats.cpp:151
+msgid "Heirloom"
+msgstr "Hernaça"
+
+#: src/Background.cpp:123
+msgid ""
+"You're not sure how old this ring is, but it's been passed down within the "
+"family for generations."
+msgstr ""
+"Você não tem certeza do quão antigo esse anel é, mas certamente passou por "
+"gerações na Família."
+
+#: src/Background.cpp:124
+msgid "+Item: Heirloom Ring"
+msgstr "+Item: Anel de Herança"
+
+#: src/Background.cpp:127 src/Item.cpp:865
+msgid "Crossbow"
+msgstr "Besta"
+
+#: src/Background.cpp:128
+msgid ""
+"Instead of spending your hard-earned money on a regular bow, you decided to "
+"invest in an enchanted crossbow."
+msgstr ""
+"Invés de gastar seu dinheiro suado em um arco, você decidiu investir em uma "
+"Besta Encantada."
+
+#: src/Background.cpp:129
+msgid "+Item: Enchanted Crossbow"
+msgstr "+Item: Besta Encantada"
+
+#: src/Background.cpp:130
+msgid "-Item: Short Bow"
+msgstr "-Item: Arco Curto"
+
+#: src/Background.cpp:133 src/Stats.cpp:143
+msgid "Armored"
+msgstr "Armadurado"
+
+#: src/Background.cpp:134
+msgid ""
+"You used your inheritance to purchase a full plate of the finest armor you "
+"could buy."
+msgstr ""
+"Você usou sua herança para comprar a melhor armadura que poderia comprar."
+
+#: src/Background.cpp:135
+msgid "+Item: Full Plate Armor"
+msgstr "+Item: Armadura Completa"
+
+#: src/Background.cpp:138 src/Stats.cpp:155
+msgid "Will of the Elements"
+msgstr "Vontade dos Elementos"
+
+#: src/Background.cpp:139
+msgid "Start with a caestus blessed by the elements."
+msgstr "Inicia com uma Soqueira abençoada pelos Elementos."
+
+#: src/Background.cpp:140
+msgid "+Item: Elemental Caestus"
+msgstr "+Item: Soqueira Elemental"
+
+#: src/Background.cpp:143 src/Stats.cpp:117
+msgid "Potion Addict"
+msgstr "Viciado em Poções"
+
+#: src/Background.cpp:144
+msgid "You *really* love drinking potions."
+msgstr "Você \"realmente\" ama beber poções."
+
+#: src/Background.cpp:145
+msgid "Heal +4 when drinking any potion"
+msgstr "Cura +4 quando bebe qualquer poção"
+
+#: src/Background.cpp:148 src/Stats.cpp:118
+msgid "Stoic"
+msgstr "Estóico"
+
+#: src/Background.cpp:149
+msgid ""
+"With your well-disciplined body, you can shrug off damage quicker than "
+"others."
+msgstr ""
+"Com seu corpo Disciplinado, você consegue Não se Abalar a danos mais fácil "
+"do que outros."
+
+#: src/Background.cpp:150
+msgid "Status Effect Duration -33%"
+msgstr "Efeitos Negativos duram 33% menos"
+
+#: src/Background.cpp:151
+msgid "Reduced received knockback"
+msgstr "Empurrão recebido reduzido"
+
+#: src/Background.cpp:154 src/Stats.cpp:135
+msgid "Tinkerer"
+msgstr "Consertador"
+
+#: src/Background.cpp:155
+msgid ""
+"You've compensated for your bad leg by crafting something to help out your "
+"mobility."
+msgstr ""
+"Você compensou sua perna fraca criando algo que te ajudaria em sua "
+"mobilidade."
+
+#: src/Background.cpp:156
+msgid "+Item: Grappling Hook"
+msgstr "+Item: Arpão de Arremesso"
+
+#: src/Background.cpp:157
+msgid "-1 SPD"
+msgstr "-1 VEL"
+
+#: src/Background.cpp:160 src/Item.cpp:884 src/Stats.cpp:119
+msgid "Boomerang"
+msgstr "Boomerang"
+
+#: src/Background.cpp:161
+msgid ""
+"You decided to use your spare time on the journey here carve a pair of "
+"throwing sticks."
+msgstr ""
+"Você decidiu usar seu tempo livre em uma jornada na vida para esculpir "
+"vários Paus de Arremesso."
+
+#: src/Background.cpp:162
+msgid "+Item: Boomerangs"
+msgstr "+Item: Boomerangs"
+
+#: src/Background.cpp:165 src/Stats.cpp:159
+msgid "Flail Wielder"
+msgstr "Mangual"
+
+#: src/Background.cpp:166
+msgid "You're not a fan of conventional weapons."
+msgstr "Você não é fan de armas convencionais."
+
+#: src/Background.cpp:168
+msgid "+Item: Heavy Flail"
+msgstr "+Item: Mangual Pesado"
+
+#: src/Background.cpp:169
+msgid "-Item: Wooden Club"
+msgstr "-Item: Porrete de Madeira"
+
+#: src/Background.cpp:172 src/Stats.cpp:122
+msgid "Mimic Whisperer"
+msgstr "Sussurro do Mimico"
+
+#: src/Background.cpp:173
+msgid "You've learned the secret behind the origin of mimics."
+msgstr "Você aprendeu o segredo por trás da origem dos mímicos."
+
+#: src/Background.cpp:176 src/Stats.cpp:123
+msgid "Bloody Adherent"
+msgstr "Adepto do Sangue"
+
+#: src/Background.cpp:177
+msgid ""
+"Followers of The God of Blood and War are most holy when in the thick of "
+"combat."
+msgstr ""
+"Os seguidores do Deus do Sangue e da Guerra são santos quando estão no meio "
+"do combate."
+
+#: src/Background.cpp:178
+msgid "Heal in combat when low on health"
+msgstr "Cura em combate quando com pouca vida"
+
+#: src/Background.cpp:181 src/Stats.cpp:124
+msgid "Disciple of the Smith"
+msgstr "Discípulo do Ferreiro"
+
+#: src/Background.cpp:182
+msgid ""
+"The Smith looks favorably upon devotees that take care of their equipment."
+msgstr ""
+"O Ferreiro parece favorável para os devotos dos cuidados com seus "
+"equipamentos."
+
+#: src/Background.cpp:183
+msgid ""
+"Bonfires have a chance to grant stacking bonus to equipped items until "
+"unequipped"
+msgstr ""
+"Fogueiras tem a chance de garantir bônus acumulativos para os equipamentos "
+"até desequipalos"
+
+#: src/Background.cpp:186 src/Stats.cpp:125
+msgid "Disciple of the Scholar"
+msgstr "Discípulo do Estudioso"
+
+#: src/Background.cpp:187
+msgid "Followers of The Scholar strive to comprehend the language of magic."
+msgstr ""
+"Seguidores do Estudioso se esforçam para compreender a linguagem da magia."
+
+#: src/Background.cpp:188
+msgid "Magic scrolls and books can increase Int"
+msgstr "Pergaminhos Mágicos e livros podem aumentar sua INT"
+
+#: src/Background.cpp:191 src/Stats.cpp:126
+msgid "Cursed Adherent"
+msgstr "Adepto das Maldições"
+
+#: src/Background.cpp:192
+msgid ""
+"Adherents to the Shackled are blessed with more opportunities to embrace "
+"cursedness."
+msgstr ""
+"Adeptos do Acorrentado são abençoados com mais oportunidades de abraçar "
+"maldições."
+
+#: src/Background.cpp:193
+msgid "Greatly increased chance of cursed items from chests"
+msgstr "Aumentam Grandemente a chance de encontrar itens amaldiçoados em Baús"
+
+#: src/Background.cpp:196 src/Stats.cpp:127
+msgid "Acolyte of Light"
+msgstr "Acólito da Luz"
+
+#: src/Background.cpp:197
+msgid "Acolytes of Light can heal their allies through the use of holy light."
+msgstr ""
+"Acólitos da Luz podem curar seus aliados através do uso da Luz Sagrada."
+
+#: src/Background.cpp:198
+msgid "Ability: Circle of Light"
+msgstr "Habilidade: Circulo de Luz"
+
+#: src/Background.cpp:201 src/Stats.cpp:128
+msgid "Acolyte of Chaos"
+msgstr "Acólito do Caos"
+
+#: src/Background.cpp:202
+msgid "The Deranged finds you interesting."
+msgstr "O Enlouquecido te acha interessante."
+
+#: src/Background.cpp:207
+msgid "Faithless Heathen"
+msgstr "Pagãos sem Fé"
+
+#: src/Background.cpp:208
+msgid "You reject the gods and they reject you."
+msgstr "Você rejeitou os Deuses e eles rejeitaram você."
+
+#: src/Background.cpp:209
+msgid "Gain stats from destroying shrines"
+msgstr "Ganha Status destruindo altares"
+
+#: src/Background.cpp:210
+msgid "Very Unlucky"
+msgstr "Extremamente sem Sorte"
+
+#: src/AffinityBerserk.cpp:12 src/StatusEffect.cpp:123
+msgid "Berserk"
+msgstr "Furioso"
+
+#: src/AffinityBerserk.cpp:13 src/AffinityStats.cpp:109
+msgid "Berserker's Blood"
+msgstr "Sangue Fervente"
+
+#: src/AffinityBerserk.cpp:13
+msgid "Continuous attacks will cause you to go berserk!"
+msgstr "Atacar continuamente deixa você enfurecido!"
+
+#: src/AffinityBerserk.cpp:14
+msgid "Pain Tolerance"
+msgstr "Resistencia a Dor"
+
+#: src/AffinityBerserk.cpp:14
+msgid "Take less damage while berserking."
+msgstr "Toma menos dano enquanto Furioso."
+
+#: src/AffinityBerserk.cpp:15
+msgid "Berserker's Blood 2"
+msgstr "Sangue Fervente 2"
+
+#: src/AffinityBerserk.cpp:15
+msgid "Attacks while berserking steal life. Increased berserk duration."
+msgstr "Atacar enquanto estiver Furioso rouba vida. Aumenta duração da Fúria."
+
+#: src/AffinityBerserk.cpp:16
+msgid "Killing Bonus"
+msgstr "Matar da Bônus"
+
+#: src/AffinityBerserk.cpp:16
+msgid "Each enemy killed while berserking will increase your strength."
+msgstr "Cada inimigo morto enquanto em fúria irá aumentar sua força."
+
+#: src/AffinityBerserk.cpp:17
+msgid "Berserker's Blood 3"
+msgstr "Sangue Fervente 3"
+
+#: src/AffinityBerserk.cpp:17
+msgid "Increase the effect of berserk."
+msgstr "Aumenta o efeito da Fúria."
+
+#: src/AffinityArchery.cpp:15
+msgid "Advanced Movement"
+msgstr "Movimento Avançado"
+
+#: src/AffinityArchery.cpp:15
+msgid "Enables strafing and jumping while drawing a bow."
+msgstr "Permite correr e pular enquanto pressiona o Arco."
+
+#: src/AffinityArchery.cpp:16
+msgid "Rebound"
+msgstr "Rebote"
+
+#: src/AffinityArchery.cpp:16
+msgid "Arrows bounce off the first surface hit."
+msgstr "Flechas rebatem após acertarem uma primeira superfície."
+
+#: src/AffinityArchery.cpp:17
+msgid "Penetrate"
+msgstr "Penetrar"
+
+#: src/AffinityArchery.cpp:17
+msgid "Arrows penetrate the first target."
+msgstr "Flechas penetram o primeiro alvo."
+
+#: src/AffinityArchery.cpp:18
+msgid "Pierce"
+msgstr "Atravessar"
+
+#: src/AffinityArchery.cpp:18
+msgid "Arrows pierce through two targets."
+msgstr "Flechas atravessam através de dois alvos."
+
+#: src/AffinityArchery.cpp:19
+msgid "Ricochet"
+msgstr "Ricochetear"
+
+#: src/AffinityArchery.cpp:19
+msgid "Arrows bounce many times."
+msgstr "Flechas ricocheteiam varias vezes."
+
+#: src/AffinityAcrobatics.cpp:16
+msgid "Acrobatics"
+msgstr "Acrobracia"
+
+#: src/AffinityAcrobatics.cpp:17
+msgid "Tumbling"
+msgstr "Rolamento"
+
+#: src/AffinityAcrobatics.cpp:17
+msgid ""
+"Press [Interact] while holding left or right to roll. Holding a direction "
+"when taking fall damage will roll."
+msgstr ""
+"Aperte [Interagir] enquanto Pressiona para esquerda ou direita para rolar. "
+"Segurar uma direção quando tomar um dano de queda faz você rolar."
+
+#: src/AffinityAcrobatics.cpp:18
+msgid "Advanced Maneuvers"
+msgstr "Manobras avançadas"
+
+#: src/AffinityAcrobatics.cpp:18
+msgid "Jump off of walls. Also, rolls can be canceled by jumping."
+msgstr "Salta contra paredes. Saltos também cancelam rolamentos."
+
+#: src/AffinityAcrobatics.cpp:19
+msgid "Evasion 1"
+msgstr "Evasão 1"
+
+#: src/AffinityAcrobatics.cpp:19
+msgid "Gain a 20% chance to evade any physical attack."
+msgstr "Ganha 20% de chance de desviar de qualquer Dano Físico."
+
+#: src/AffinityAcrobatics.cpp:20
+msgid "Evasion 2"
+msgstr "Evasão 2"
+
+#: src/AffinityAcrobatics.cpp:20
+msgid "Gain a 40% chance to evade any physical attack."
+msgstr "Ganha 40% de chance de desviar de qualquer Dano Físico."
+
+#: src/ItemGenerator.cpp:14
+msgid "Red Potion"
+msgstr "Poção Vermelha"
+
+#: src/ItemGenerator.cpp:14
+msgid "As red as fresh blood."
+msgstr "Vermelha como sangue fresco."
+
+#: src/ItemGenerator.cpp:15
+msgid "Blue Potion"
+msgstr "Poção Azul"
+
+#: src/ItemGenerator.cpp:15
+msgid "Looks refreshing."
+msgstr "Parece refrescante."
+
+#: src/ItemGenerator.cpp:16
+msgid "Green Potion"
+msgstr "Poção Verde"
+
+#: src/ItemGenerator.cpp:16
+msgid "Doesn't look completely natural."
+msgstr "Não parece totalmente natural."
+
+#: src/ItemGenerator.cpp:17
+msgid "Orange Potion"
+msgstr "Poção Laranja"
+
+#: src/ItemGenerator.cpp:17
+msgid "Almost looks like juice."
+msgstr "Quase parece com um suco."
+
+#: src/ItemGenerator.cpp:18
+msgid "Brown Potion"
+msgstr "Poção Marron"
+
+#: src/ItemGenerator.cpp:18
+msgid "Doesn't look very appetizing."
+msgstr "Não parece muito apetitoso."
+
+#: src/ItemGenerator.cpp:19
+msgid "Cyan Potion"
+msgstr "Poção Ciano"
+
+#: src/ItemGenerator.cpp:19
+msgid "It's slightly transluscent."
+msgstr "É levemente transluzente."
+
+#: src/ItemGenerator.cpp:20
+msgid "Purple Potion"
+msgstr "Poção Rocha"
+
+#: src/ItemGenerator.cpp:20
+msgid "Reminds you of eggplants."
+msgstr "Te lembra a Berinjelas."
+
+#: src/ItemGenerator.cpp:21
+msgid "Yellow Potion"
+msgstr "Poção Amarela"
+
+#: src/ItemGenerator.cpp:21
+msgid "Captured sunshine."
+msgstr "Lembra o nascer do Sol."
+
+#: src/ItemGenerator.cpp:23
+msgid "Black Elixer"
+msgstr "Elixir Negro"
+
+#: src/ItemGenerator.cpp:23
+msgid "Completely opaque."
+msgstr "Completamente Escuro."
+
+#: src/ItemGenerator.cpp:24
+msgid "Indigo Elixer"
+msgstr "Elixir Indigo"
+
+#: src/ItemGenerator.cpp:24
+msgid "Almost looks black."
+msgstr "Um pouco parecido com Preto."
+
+#: src/ItemGenerator.cpp:25
+msgid "Pink Elixer"
+msgstr "Elixir Rosa"
+
+#: src/ItemGenerator.cpp:25
+msgid "It looks unnatural."
+msgstr "Isto parece não natural."
+
+#: src/ItemGenerator.cpp:26
+msgid "White Elixer"
+msgstr "Elixir Branco"
+
+#: src/ItemGenerator.cpp:26
+msgid "Is it milk?"
+msgstr "Isto é Leite?"
+
+#: src/ItemGenerator.cpp:27
+msgid "Red Elixer"
+msgstr "Elixir Vermelho"
+
+#: src/ItemGenerator.cpp:27
+msgid "It looks spicy. "
+msgstr "Parece Picante. "
+
+#: src/ItemGenerator.cpp:28
+msgid "Blue Elixer"
+msgstr "Elixir Azul"
+
+#: src/ItemGenerator.cpp:28
+msgid "It feels cold to the touch."
+msgstr "Sensação de frio ao se tocar."
+
+#: src/ItemGenerator.cpp:29
+msgid "Green Elixer"
+msgstr "Elixir Verde"
+
+#: src/ItemGenerator.cpp:29
+msgid "Feels surprisingly heavy."
+msgstr "Sinto surpreendentemente pesado."
+
+#: src/ItemGenerator.cpp:30
+msgid "Orange Elixer"
+msgstr "Elixir Laranja"
+
+#: src/ItemGenerator.cpp:30
+msgid "It feels warm to the touch."
+msgstr "Sinto isto quente quando toco."
+
+#: src/ItemGenerator.cpp:32
+msgid "Red Tincture"
+msgstr "Tintura Vermelha"
+
+#: src/ItemGenerator.cpp:32
+msgid "It smells like roses."
+msgstr "Cheira como Rosas."
+
+#: src/ItemGenerator.cpp:33
+msgid "Teal Tincture"
+msgstr "Tinta Turquesa"
+
+#: src/ItemGenerator.cpp:33
+msgid "It smells like the mountains."
+msgstr "Isto cheira como as montanhas."
+
+#: src/ItemGenerator.cpp:34
+msgid "Purple Tincture"
+msgstr "Tintura Rocha"
+
+#: src/ItemGenerator.cpp:34
+msgid "It smells like violets."
+msgstr "Cheira como Violetas."
+
+#: src/ItemGenerator.cpp:35
+msgid "Yellow Tincture"
+msgstr "Tintura Amarela"
+
+#: src/ItemGenerator.cpp:35
+msgid "It smells like bananas."
+msgstr "Isto cheira a Bananas."
+
+#: src/ItemGenerator.cpp:36
+msgid "Black Tincture"
+msgstr "Tintura Negra"
+
+#: src/ItemGenerator.cpp:36
+msgid "It smells like death."
+msgstr "Isto tem cheiro de Morte."
+
+#: src/ItemGenerator.cpp:37
+msgid "Indigo Tincture"
+msgstr "Tintura Indigo"
+
+#: src/ItemGenerator.cpp:37
+msgid "It smells like the ocean."
+msgstr "Tem cheiro de oceano."
+
+#: src/ItemGenerator.cpp:38
+msgid "Pink Tincture"
+msgstr "Tintura Rosa"
+
+#: src/ItemGenerator.cpp:38
+msgid "It smells fruity."
+msgstr "Cheira a Frutas."
+
+#: src/ItemGenerator.cpp:39
+msgid "White Tincture"
+msgstr "Tintura Branca"
+
+#: src/ItemGenerator.cpp:39
+msgid "It smells like sugar."
+msgstr "Cheira a Açúcar."
+
+#: src/ItemGenerator.cpp:41
+msgid "Red Draught"
+msgstr "Garrafa Vermelha"
+
+#: src/ItemGenerator.cpp:41
+msgid "It glows faintly red in the darkness."
+msgstr "Isto brilha vermelho em meio as trevas."
+
+#: src/ItemGenerator.cpp:42
+msgid "Blue Draught"
+msgstr "Garrafa Azul"
+
+#: src/ItemGenerator.cpp:42
+msgid "It glows faintly blue in the darkness."
+msgstr "Brilha azul em meio as trevas."
+
+#: src/ItemGenerator.cpp:43
+msgid "Green Draught"
+msgstr "Garrafa Verde"
+
+#: src/ItemGenerator.cpp:43
+msgid "It glows faintly green in the darkness."
+msgstr "Isto brilha verde em meio as trevas."
+
+#: src/ItemGenerator.cpp:44
+msgid "Orange Draught"
+msgstr "Garrafa Laranja"
+
+#: src/ItemGenerator.cpp:44
+msgid "It glows faintly orange in the darkness."
+msgstr "Isto brilha laranja em meio as trevas."
+
+#: src/ItemGenerator.cpp:45
+msgid "Brown Draught"
+msgstr "Garrafa Marron"
+
+#: src/ItemGenerator.cpp:45
+msgid "It glows faintly brown in the darkness."
+msgstr "Isto brilha marron em meio as trevas."
+
+#: src/ItemGenerator.cpp:46
+msgid "Teal Draught"
+msgstr "Garrafa Turquesa"
+
+#: src/ItemGenerator.cpp:46
+msgid "It glows faintly teal in the darkness."
+msgstr "Isto brilha turquesa em meio as trevas."
+
+#: src/ItemGenerator.cpp:47
+msgid "Purple Draught"
+msgstr "Garrafa Rocha"
+
+#: src/ItemGenerator.cpp:47
+msgid "It glows faintly purple in the darkness."
+msgstr "Isto brilha rocho em meio as trevas."
+
+#: src/ItemGenerator.cpp:48
+msgid "Yellow Draught"
+msgstr "Garrafa Amarela"
+
+#: src/ItemGenerator.cpp:48
+msgid "It glows faintly yellow in the darkness."
+msgstr "Isto brilha amarelo em meio as trevas."
+
+#: src/ItemGenerator.cpp:62
+msgid "It is inscribed with mysterious arcane glyphs."
+msgstr "Está inscrito com misteriosos glifos arcanos."
+
+#: src/ItemGenerator.cpp:63
+msgid "Grey Scroll"
+msgstr "Pergaminho Cinza"
+
+#: src/ItemGenerator.cpp:64
+msgid "Light Brown Scroll"
+msgstr "Pergaminho Marron Claro"
+
+#: src/ItemGenerator.cpp:65
+msgid "Brown Scroll"
+msgstr "Pergaminho Marron"
+
+#: src/ItemGenerator.cpp:66
+msgid "Purple Scroll"
+msgstr "Pergaminho Rocho"
+
+#: src/ItemGenerator.cpp:67
+msgid "Pink Scroll"
+msgstr "Pergaminho Rosa"
+
+#: src/ItemGenerator.cpp:68
+msgid "Red Scroll"
+msgstr "Pergaminho Vermelho"
+
+#: src/ItemGenerator.cpp:69
+msgid "Light Green Scroll"
+msgstr "Pergaminho Verde Claro"
+
+#: src/ItemGenerator.cpp:70
+msgid "Blue Scroll"
+msgstr "Pergaminho Azul"
+
+#: src/ItemGenerator.cpp:71
+msgid "Tan Scroll"
+msgstr "Pergaminho Bronze"
+
+#: src/ItemGenerator.cpp:73
+msgid "Green Scroll"
+msgstr "Pergaminho Verde"
+
+#: src/ItemGenerator.cpp:74
+msgid "Teal Scroll"
+msgstr "Pergaminho Turquesa"
+
+#: src/ItemGenerator.cpp:75
+msgid "Golden Scroll"
+msgstr "Pergaminho Ouro"
+
+#: src/ItemGenerator.cpp:420
+msgid "Sparkling"
+msgstr ""
+
+#: src/ItemGenerator.cpp:421
+msgid "Shiny"
+msgstr ""
+
+#: src/ItemGenerator.cpp:422
+msgid "Glowing"
+msgstr ""
+
+#: src/ItemGenerator.cpp:423
+msgid "Shimmering"
+msgstr ""
+
+#: src/ItemGenerator.cpp:424
+msgid "Translucent"
+msgstr ""
+
+#: src/ItemGenerator.cpp:425
+msgid "Runed"
+msgstr ""
+
+#: src/ItemGenerator.cpp:426
+msgid "Blessed"
+msgstr ""
+
+#: src/ItemGenerator.cpp:427
+msgid "Artisan"
+msgstr ""
+
+#: src/ItemGenerator.cpp:428
+msgid "Masterwork"
+msgstr ""
+
+#: src/ItemGenerator.cpp:429
+msgid "Hallowed"
+msgstr ""
+
+#: src/ItemGenerator.cpp:430
+msgid "Unearthly"
+msgstr ""
+
+#: src/ItemGenerator.cpp:431
+msgid "Kingly"
+msgstr ""
+
+#: src/ItemGenerator.cpp:432
+msgid "Smoking"
+msgstr ""
+
+#: src/ItemGenerator.cpp:433
+msgid "Weird"
+msgstr ""
+
+#: src/ItemGenerator.cpp:434
+msgid "Strange"
+msgstr ""
+
+#: src/ItemGenerator.cpp:435
+msgid "Peculiar"
+msgstr ""
+
+#: src/ItemGenerator.cpp:436
+msgid "Unnatural"
+msgstr ""
+
+#: src/ItemGenerator.cpp:437
+msgid "Grotesque"
+msgstr ""
+
+#: src/ItemGenerator.cpp:438
+msgid "Fantastic"
+msgstr ""
+
+#: src/ItemGenerator.cpp:439
+msgid "Bizarre"
+msgstr ""
+
+#: src/ItemGenerator.cpp:440
+msgid "Uncanny"
+msgstr ""
+
+#: src/ItemGenerator.cpp:441
+msgid "Pale"
+msgstr ""
+
+#: src/ItemGenerator.cpp:442
+msgid "Magnificent"
+msgstr ""
+
+#: src/ItemGenerator.cpp:443
+msgid "Angelic"
+msgstr ""
+
+#: src/ItemGenerator.cpp:444 src/AffinityDemon.cpp:17
+msgid "Demonic"
+msgstr ""
+
+#: src/ItemGenerator.cpp:445
+msgid "Resplendent"
+msgstr ""
+
+#: src/ItemGenerator.cpp:448
+msgid "Terrible"
+msgstr ""
+
+#: src/ItemGenerator.cpp:449
+msgid "Possessed"
+msgstr ""
+
+#: src/ItemGenerator.cpp:450 src/ItemAttribute.cpp:629
+msgid "Haunted"
+msgstr ""
+
+#: src/ItemGenerator.cpp:451
+msgid "Unpleasant"
+msgstr ""
+
+#: src/ItemGenerator.cpp:452
+msgid "Inconvenient"
+msgstr ""
+
+#: src/ItemGenerator.cpp:453
+msgid "Unnerving"
+msgstr ""
+
+#: src/ItemGenerator.cpp:454
+msgid "Repulsive"
+msgstr ""
+
+#: src/ItemGenerator.cpp:455 src/ItemAttribute.cpp:824
+msgid "Unfortunate"
+msgstr ""
+
+#: src/ItemGenerator.cpp:456
+msgid "Fetid"
+msgstr ""
+
+#: src/ItemGenerator.cpp:457
+msgid "Rancid"
+msgstr ""
+
+#: src/ItemGenerator.cpp:458
+msgid "Stinking"
+msgstr ""
+
+#: src/ItemGenerator.cpp:459
+msgid "Foul-smelling"
+msgstr ""
+
+#: src/ItemGenerator.cpp:460
+msgid "Foul"
+msgstr ""
+
+#: src/ItemGenerator.cpp:461
+msgid "Malodorous"
+msgstr ""
+
+#: src/ItemGenerator.cpp:462
+msgid "Putrid"
+msgstr ""
+
+#: src/ItemGenerator.cpp:463
+msgid "Evil-smelling"
+msgstr ""
+
+#: src/ItemGenerator.cpp:464
+msgid "Unsightly"
+msgstr ""
+
+#: src/ItemGenerator.cpp:465
+msgid "Corrupt"
+msgstr ""
+
+#: src/ItemGenerator.cpp:466
+msgid "Malicious"
+msgstr ""
+
+#: src/ItemGenerator.cpp:467
+msgid "Wicked"
+msgstr ""
+
+#: src/ItemGenerator.cpp:468
+msgid "Vile"
+msgstr ""
+
+#: src/ItemGenerator.cpp:473
+msgid "Faena's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:474
+msgid "Atoru's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:475
+msgid "Odenar's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:476
+msgid "Vihena's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:477
+msgid "Zudite's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:478
+msgid "Yorr's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:479
+msgid "Galdir's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:480
+msgid "Zyheia's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:481
+msgid "Hyone's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:482
+msgid "Xiqzotl's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:483
+msgid "Imir's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:484
+msgid "Urist's"
+msgstr ""
+
+#: src/ItemGenerator.cpp:489
+msgid "Black"
+msgstr ""
+
+#: src/ItemGenerator.cpp:490
+msgid "White"
+msgstr ""
+
+#: src/ItemGenerator.cpp:491
+msgid "Lava-Forged"
+msgstr ""
+
+#: src/ItemGenerator.cpp:492
+msgid "Twilight"
+msgstr ""
+
+#: src/ItemGenerator.cpp:493
+msgid "Shining"
+msgstr ""
+
+#: src/ItemGenerator.cpp:494
+msgid "Winter"
+msgstr ""
+
+#: src/ItemGenerator.cpp:495
+msgid "Summer"
+msgstr ""
+
+#: src/ItemGenerator.cpp:496
+msgid "Forgotten"
+msgstr ""
+
+#: src/ItemGenerator.cpp:497
+msgid "Screaming"
+msgstr ""
+
+#: src/ItemGenerator.cpp:498
+msgid "Brooding"
+msgstr ""
+
+#: src/ItemGenerator.cpp:499
+msgid "Sentient"
+msgstr ""
+
+#: src/ItemGenerator.cpp:503
+msgid "Relic"
+msgstr ""
+
+#: src/ItemGenerator.cpp:504
+msgid "Curio"
+msgstr ""
+
+#: src/ItemGenerator.cpp:506
+msgid "Token"
+msgstr ""
+
+#: src/ItemGenerator.cpp:507 src/Stats.cpp:131
+msgid "Trophy"
+msgstr ""
+
+#: src/ItemGenerator.cpp:508
+msgid "Vestige"
+msgstr ""
+
+#: src/ItemGenerator.cpp:509
+msgid "Remnant"
+msgstr ""
+
+#: src/ItemGenerator.cpp:510
+msgid "Fragment"
+msgstr ""
+
+#: src/ItemGenerator.cpp:511
+msgid "Legacy"
+msgstr ""
+
+#: src/ItemGenerator.cpp:512
+msgid "Elation"
+msgstr ""
+
+#: src/ItemGenerator.cpp:513
+msgid "Disappointment"
+msgstr ""
+
+#: src/ItemGenerator.cpp:514
+msgid "Sorrow"
+msgstr ""
+
+#: src/ItemGenerator.cpp:806
+msgid "Courageous"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:12
+msgid "Animal"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:13
+msgid "Lion's Roar"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:13
+msgid "Tap interact while holding up to unleash an intimidating roar."
+msgstr ""
+
+#: src/AffinityAnimal.cpp:14
+msgid "Bear's Stomp"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:14
+msgid "While airborne, press down and jump to perform a crushing attack."
+msgstr ""
+
+#: src/AffinityAnimal.cpp:15
+msgid "Wolf's Sprint"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:15
+msgid ""
+"Press [Interact] while holding left or right to roll to enable inhuman "
+"sprint capabilities.  Cannot be used while exausted."
+msgstr ""
+
+#: src/AffinityAnimal.cpp:16
+msgid "Eagle's Rise"
+msgstr ""
+
+#: src/AffinityAnimal.cpp:16
+msgid "Hold up and press jump in mid-air to ascend!"
+msgstr ""
+
+#: src/GuiFriendBrowser.cpp:162
+msgid "Friends Playing Vagante"
+msgstr "Amigos Jogando Vagante"
+
+#: src/GuiFriendBrowser.cpp:187
+msgid "EMPTY"
+msgstr "VAZIO"
+
+#: src/GuiFriendBrowser.cpp:251
+msgid "JOIN GAME"
+msgstr "JUNTAR-SE AO JOGO"
+
+#: src/Item.cpp:460
+msgid "Treasure Key"
+msgstr ""
+
+#: src/Item.cpp:461
+msgid "This key opens up a hoard of treasure."
+msgstr ""
+
+#: src/Item.cpp:465
+msgid "Life Water"
+msgstr ""
+
+#: src/Item.cpp:466
+msgid "A single drop of water from the Fountain of Life."
+msgstr ""
+
+#: src/Item.cpp:473
+msgid "Arrow"
+msgid_plural "Arrows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Item.cpp:475
+msgid "Stone tipped, and fletched with an Ozir's feathers."
+msgstr ""
+
+#: src/Item.cpp:485
+msgid "Explosive Arrow"
+msgid_plural "Explosive Arrows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Item.cpp:487
+msgid "A common arrow, with a bomb attached to the end of it."
+msgstr ""
+
+#: src/Item.cpp:495
+msgid "Potion of Regeneration"
+msgstr ""
+
+#: src/Item.cpp:496
+msgid "Heals everything from papercuts to broken bones."
+msgstr ""
+
+#: src/Item.cpp:497
+msgid "You begin to regenerate."
+msgstr ""
+
+#: src/Item.cpp:500
+msgid "Potion of Poison"
+msgstr ""
+
+#: src/Item.cpp:501
+msgid "Best not drink this."
+msgstr ""
+
+#: src/Item.cpp:502
+msgid "That tasted strange."
+msgstr ""
+
+#: src/Item.cpp:505
+msgid "Potion of Featherfall"
+msgstr ""
+
+#: src/Item.cpp:506
+msgid "Grants a feeling of weightlessness."
+msgstr ""
+
+#: src/Item.cpp:507
+msgid "Your body feels weightless."
+msgstr ""
+
+#: src/Item.cpp:510
+msgid "Potion of Quickness"
+msgstr ""
+
+#: src/Item.cpp:511
+msgid "The very essence of wind is stoppered in this flask."
+msgstr ""
+
+#: src/Item.cpp:512
+msgid "You feel quicker."
+msgstr ""
+
+#: src/Item.cpp:515
+msgid "Potion of Defense"
+msgstr ""
+
+#: src/Item.cpp:516
+msgid "Drinking this hardens the skin."
+msgstr ""
+
+#: src/Item.cpp:517
+msgid "Your skin hardens."
+msgstr ""
+
+#: src/Item.cpp:520
+msgid "Potion of Vigor"
+msgstr ""
+
+#: src/Item.cpp:521
+msgid "It's imbued with the fortitude of a giant."
+msgstr ""
+
+#: src/Item.cpp:522
+msgid "You feel strong."
+msgstr ""
+
+#: src/Item.cpp:525
+msgid "Potion of Magic"
+msgstr ""
+
+#: src/Item.cpp:526
+msgid "Grants increased magic power and recharges your skills."
+msgstr ""
+
+#: src/Item.cpp:527
+msgid "Magic courses through you."
+msgstr ""
+
+#: src/Item.cpp:530
+msgid "Potion of Strength"
+msgstr ""
+
+#: src/Item.cpp:531
+msgid "Increases your STR by one."
+msgstr ""
+
+#: src/Item.cpp:532
+msgid "STR +1"
+msgstr ""
+
+#: src/Item.cpp:535
+msgid "Potion of Intelligence"
+msgstr ""
+
+#: src/Item.cpp:536
+msgid "Increases your INT by one."
+msgstr ""
+
+#: src/Item.cpp:537
+msgid "INT +1"
+msgstr ""
+
+#: src/Item.cpp:540
+msgid "Potion of Dexterity"
+msgstr ""
+
+#: src/Item.cpp:541
+msgid "Increases your DEX by one."
+msgstr ""
+
+#: src/Item.cpp:542
+msgid "DEX +1"
+msgstr ""
+
+#: src/Item.cpp:545
+msgid "Potion of Luck"
+msgstr ""
+
+#: src/Item.cpp:546
+msgid "Increases your LUK by one."
+msgstr ""
+
+#: src/Item.cpp:547
+msgid "LUK +1"
+msgstr ""
+
+#: src/Item.cpp:550
+msgid "Potion of Vitality"
+msgstr ""
+
+#: src/Item.cpp:551
+msgid "Increases your VIT by one."
+msgstr ""
+
+#: src/Item.cpp:552
+msgid "VIT +1"
+msgstr ""
+
+#: src/Item.cpp:555
+msgid "Potion of Speed"
+msgstr ""
+
+#: src/Item.cpp:556
+msgid "Increases your SPD by one."
+msgstr ""
+
+#: src/Item.cpp:557
+msgid "SPD +1"
+msgstr ""
+
+#: src/Item.cpp:560
+msgid "Potion of Fire Resistance"
+msgstr ""
+
+#: src/Item.cpp:561
+msgid "Increases your Fire Res by one."
+msgstr ""
+
+#: src/Item.cpp:562
+msgid "FIRERES +1"
+msgstr ""
+
+#: src/Item.cpp:565
+msgid "Potion of Cold Resistance"
+msgstr ""
+
+#: src/Item.cpp:566
+msgid "Increases your Cold Res by one."
+msgstr ""
+
+#: src/Item.cpp:567
+msgid "COLDRES +1"
+msgstr ""
+
+#: src/Item.cpp:570
+msgid "Potion of Lightning Resistance"
+msgstr ""
+
+#: src/Item.cpp:571
+msgid "Increases your Light Res by one."
+msgstr ""
+
+#: src/Item.cpp:572
+msgid "ELECRES +1"
+msgstr ""
+
+#: src/Item.cpp:575
+msgid "Potion of Poison Resistance"
+msgstr ""
+
+#: src/Item.cpp:576
+msgid "Increases your Poison Res by one."
+msgstr ""
+
+#: src/Item.cpp:577
+msgid "POISRES +1"
+msgstr ""
+
+#: src/Item.cpp:580
+msgid "Potion of Lower Strength"
+msgstr ""
+
+#: src/Item.cpp:581
+msgid "Decreases your STR by one."
+msgstr ""
+
+#: src/Item.cpp:582
+msgid "STR -1"
+msgstr ""
+
+#: src/Item.cpp:585
+msgid "Potion of Lower Intelligence"
+msgstr ""
+
+#: src/Item.cpp:586
+msgid "Decreases your INT by one."
+msgstr ""
+
+#: src/Item.cpp:587
+msgid "INT -1"
+msgstr ""
+
+#: src/Item.cpp:590
+msgid "Potion of Lower Dexterity"
+msgstr ""
+
+#: src/Item.cpp:591
+msgid "Decreases your DEX by one."
+msgstr ""
+
+#: src/Item.cpp:592
+msgid "DEX -1"
+msgstr ""
+
+#: src/Item.cpp:595
+msgid "Potion of Lower Luck"
+msgstr ""
+
+#: src/Item.cpp:596
+msgid "Decreases your LUK by one."
+msgstr ""
+
+#: src/Item.cpp:597
+msgid "LUK -1"
+msgstr ""
+
+#: src/Item.cpp:600
+msgid "Potion of Lower Vitality"
+msgstr ""
+
+#: src/Item.cpp:601
+msgid "Decreases your VIT by one."
+msgstr ""
+
+#: src/Item.cpp:602
+msgid "VIT -1"
+msgstr ""
+
+#: src/Item.cpp:605
+msgid "Potion of Lower Fire Resistance"
+msgstr ""
+
+#: src/Item.cpp:606
+msgid "Decreases your Fire Res by one."
+msgstr ""
+
+#: src/Item.cpp:607
+msgid "FIRERES -1"
+msgstr ""
+
+#: src/Item.cpp:610
+msgid "Potion of Lower Cold Resistance"
+msgstr ""
+
+#: src/Item.cpp:611
+msgid "Decreases your Cold Res by one."
+msgstr ""
+
+#: src/Item.cpp:612
+msgid "COLDRES -1"
+msgstr ""
+
+#: src/Item.cpp:615
+msgid "Potion of Lower Lightning Resistance"
+msgstr ""
+
+#: src/Item.cpp:616
+msgid "Decreases your Light Res by one."
+msgstr ""
+
+#: src/Item.cpp:617
+msgid "ELECRES -1"
+msgstr ""
+
+#: src/Item.cpp:620
+msgid "Potion of Lower Poison Resistance"
+msgstr ""
+
+#: src/Item.cpp:621
+msgid "Decreases your Poison Res by one."
+msgstr ""
+
+#: src/Item.cpp:622
+msgid "POISRES -1"
+msgstr ""
+
+#: src/Item.cpp:626
+msgid "Scroll of Magic Mapping"
+msgstr ""
+
+#: src/Item.cpp:627
+msgid "Reveals the layout of the current level."
+msgstr ""
+
+#: src/Item.cpp:628
+msgid "MAGIC MAPPING"
+msgstr ""
+
+#: src/Item.cpp:631
+msgid "Scroll of Enchant"
+msgstr ""
+
+#: src/Item.cpp:632
+msgid "Permanently enchant an item."
+msgstr ""
+
+#: src/Item.cpp:633
+msgid "ENCHANT"
+msgstr ""
+
+#: src/Item.cpp:638
+msgid "Scroll of Jump"
+msgstr ""
+
+#: src/Item.cpp:639
+msgid "Imbues the reader with the power to jump incredibly high once."
+msgstr ""
+
+#: src/Item.cpp:640
+msgid "JUMP"
+msgstr ""
+
+#: src/Item.cpp:643
+msgid "Scroll of Teleport"
+msgstr ""
+
+#: src/Item.cpp:644
+msgid "Randomly teleport to another location."
+msgstr ""
+
+#: src/Item.cpp:645
+msgid "TELEPORT"
+msgstr ""
+
+#: src/Item.cpp:648
+msgid "Scroll of Chaos"
+msgstr ""
+
+#: src/Item.cpp:649
+msgid "Unleashes powerful and unpredictable effects. Dangerous to the unlucky."
+msgstr ""
+
+#: src/Item.cpp:650
+msgid "CHAOS"
+msgstr ""
+
+#: src/Item.cpp:653
+msgid "Scroll of Recharge"
+msgstr ""
+
+#: src/Item.cpp:654
+msgid "Apply to wands to replenish their magic charges."
+msgstr ""
+
+#: src/Item.cpp:656
+msgid "RECHARGE"
+msgstr ""
+
+#: src/Item.cpp:659
+msgid "Scroll of Uncurse"
+msgstr ""
+
+#: src/Item.cpp:660
+msgid "Purifies all currently equipped items."
+msgstr ""
+
+#: src/Item.cpp:661
+msgid "UNCURSE"
+msgstr ""
+
+#: src/Item.cpp:664
+msgid "Scroll of Identify"
+msgstr ""
+
+#: src/Item.cpp:665
+msgid "Apply to unidentified items to reveal their secrets."
+msgstr ""
+
+#: src/Item.cpp:666
+msgid "IDENTIFY"
+msgstr ""
+
+#: src/Item.cpp:671
+msgid "Wooden Club"
+msgstr ""
+
+#: src/Item.cpp:672
+msgid "It's a stout stick of wood, with nails sticking out of its blunt end."
+msgstr ""
+
+#: src/Item.cpp:676
+msgid "Hammer"
+msgstr ""
+
+#: src/Item.cpp:677
+msgid "A crude hammer, its head fashioned from stone."
+msgstr ""
+
+#: src/Item.cpp:681
+msgid "Flanged Mace"
+msgstr ""
+
+#: src/Item.cpp:682
+msgid "Not the spicy kind of mace."
+msgstr ""
+
+#: src/Item.cpp:686
+msgid "Morning Star"
+msgstr ""
+
+#: src/Item.cpp:687
+msgid "Everything is better with spikes!"
+msgstr ""
+
+#: src/Item.cpp:691
+msgid "War Hammer"
+msgstr ""
+
+#: src/Item.cpp:692
+msgid "One blow from this would crush even the mightiest of armors."
+msgstr ""
+
+#: src/Item.cpp:696
+msgid "Bludgeon"
+msgstr ""
+
+#: src/Item.cpp:697
+msgid "VERY difficult to clean..."
+msgstr ""
+
+#: src/Item.cpp:701
+msgid "Spearheaded Baton"
+msgstr ""
+
+#: src/Item.cpp:702
+msgid "It looks like a spear, but swings like a club!"
+msgstr ""
+
+#: src/Item.cpp:706
+msgid "Flail"
+msgstr ""
+
+#: src/Item.cpp:707
+msgid "Difficult to control, but it packs a punch."
+msgstr ""
+
+#: src/Item.cpp:711
+msgid "Woodsman's Axe"
+msgstr ""
+
+#: src/Item.cpp:712
+msgid "Ideal for chopping wood and foes alike."
+msgstr ""
+
+#: src/Item.cpp:716
+msgid "Battle Axe"
+msgstr ""
+
+#: src/Item.cpp:717
+msgid "Heavy, yet perfectly balanced."
+msgstr ""
+
+#: src/Item.cpp:721
+msgid "Lightning Wand"
+msgstr ""
+
+#: src/Item.cpp:722
+msgid ""
+"A tool which converts magic charges into electricity.  The device appears to "
+"be magically grounded."
+msgstr ""
+
+#: src/Item.cpp:727
+msgid "Fire Wand"
+msgstr ""
+
+#: src/Item.cpp:728
+msgid "A tool which converts magic charges into balls of fire."
+msgstr ""
+
+#: src/Item.cpp:733
+msgid "Ice Wand"
+msgstr ""
+
+#: src/Item.cpp:734
+msgid "A tool which converts magic charges into shards of ice."
+msgstr ""
+
+#: src/Item.cpp:739
+msgid "Wand of Chaos"
+msgstr ""
+
+#: src/Item.cpp:740
+msgid ""
+"A tool which converts magic charges into unpredictable effects. Dangerous to "
+"the unlucky."
+msgstr ""
+
+#: src/Item.cpp:745
+msgid "Wand of Blink"
+msgstr ""
+
+#: src/Item.cpp:746
+msgid ""
+"A tool which uses magic charges to teleport the wielder a short distance."
+msgstr ""
+
+#: src/Item.cpp:751
+msgid "Wand of Pestilence"
+msgstr ""
+
+#: src/Item.cpp:752
+msgid ""
+"A tool which converts magic charges into particularly foul toxic clouds."
+msgstr ""
+
+#: src/Item.cpp:757
+msgid "Wand of Digging"
+msgstr ""
+
+#: src/Item.cpp:758
+msgid "A tool which uses magic charges to dismantle terrain."
+msgstr ""
+
+#: src/Item.cpp:763
+msgid "Wand of Healing"
+msgstr ""
+
+#: src/Item.cpp:764
+msgid "A tool which conjures magical healing orbs."
+msgstr ""
+
+#: src/Item.cpp:777
+msgid "Magic Rod"
+msgstr ""
+
+#: src/Item.cpp:778
+msgid "A magic weapon that recharges from hitting enemies. Hold attack to use."
+msgstr ""
+
+#: src/Item.cpp:783
+msgid "Spacer Rod"
+msgstr ""
+
+#: src/Item.cpp:784 src/Item.cpp:790
+msgid ""
+"A magic weapon that recharges from hitting enemies.  Hold attack to use."
+msgstr ""
+
+#: src/Item.cpp:789
+msgid "Wave Rod"
+msgstr ""
+
+#: src/Item.cpp:795
+msgid "Spear"
+msgstr ""
+
+#: src/Item.cpp:796
+msgid "It's just a knife at the end of a stick."
+msgstr ""
+
+#: src/Item.cpp:800
+msgid "Caestus"
+msgstr ""
+
+#: src/Item.cpp:801
+msgid "Drastically improve effectiveness of your punches."
+msgstr ""
+
+#: src/Item.cpp:805
+msgid "Claw"
+msgstr ""
+
+#: src/Item.cpp:806
+msgid "A savage device that rips flesh to shreds."
+msgstr ""
+
+#: src/Item.cpp:810
+msgid "Qatar"
+msgstr ""
+
+#: src/Item.cpp:811
+msgid "Hand-mounted blade that can be easily concealed."
+msgstr ""
+
+#: src/Item.cpp:815
+msgid "Copper Sword"
+msgstr ""
+
+#: src/Item.cpp:816
+msgid "Not the sharpest edge, but it does its job."
+msgstr ""
+
+#: src/Item.cpp:820
+msgid "Steel Sword"
+msgstr ""
+
+#: src/Item.cpp:821
+msgid "A perfectly balanced steel sword."
+msgstr ""
+
+#: src/Item.cpp:825
+msgid "Broad Sword"
+msgstr ""
+
+#: src/Item.cpp:826
+msgid "A little heavy, but still quite sharp."
+msgstr ""
+
+#: src/Item.cpp:830
+msgid "Dragon Slayer"
+msgstr ""
+
+#: src/Item.cpp:831
+msgid "It's simply TOO BIG."
+msgstr ""
+
+#: src/Item.cpp:835
+msgid "Bone Sword"
+msgstr ""
+
+#: src/Item.cpp:836
+msgid ""
+"Its jagged edge is carved from a large creature's bone. It looks well suited "
+"to ripping flesh."
+msgstr ""
+
+#: src/Item.cpp:840 src/AffinityDagger.cpp:16
+msgid "Dagger"
+msgstr ""
+
+#: src/Item.cpp:841
+msgid "Its small size belies its sharp point."
+msgstr ""
+
+#: src/Item.cpp:845
+msgid "Baselard"
+msgstr ""
+
+#: src/Item.cpp:846
+msgid "Its distinctive hilt fits easily in the hands."
+msgstr ""
+
+#: src/Item.cpp:850
+msgid "Glass Blade"
+msgstr ""
+
+#: src/Item.cpp:851
+msgid "It has an exceptionally sharp edge."
+msgstr ""
+
+#: src/Item.cpp:855
+msgid "Short Bow"
+msgstr ""
+
+#: src/Item.cpp:856
+msgid "A bow well-suited to a beginner archer."
+msgstr ""
+
+#: src/Item.cpp:860
+msgid "Longbow"
+msgstr ""
+
+#: src/Item.cpp:861
+msgid ""
+"Strung on the ends of a large piece of yew, this bow requires some strength "
+"to pull."
+msgstr ""
+
+#: src/Item.cpp:866
+msgid "Always ready to fire, as long as you reload it after shooting."
+msgstr ""
+
+#: src/Item.cpp:870
+msgid "Arm Cannon"
+msgstr ""
+
+#: src/Item.cpp:871
+msgid "Capable of destroying most military-grade biological AI constructs."
+msgstr ""
+
+#: src/Item.cpp:876
+msgid "Bomb"
+msgstr ""
+
+#: src/Item.cpp:877
+msgid "Packs quite a punch."
+msgstr ""
+
+#: src/Item.cpp:885
+msgid "It always seems to come back to you.  Sometimes..."
+msgstr ""
+
+#: src/Item.cpp:889
+msgid "Enchanted Boomerang"
+msgstr ""
+
+#: src/Item.cpp:890
+msgid "It always seems to come back to you!"
+msgstr ""
+
+#: src/Item.cpp:894
+msgid "Snowball"
+msgstr ""
+
+#: src/Item.cpp:895
+msgid "Fly straight and true, hit hard and square!"
+msgstr ""
+
+#: src/Item.cpp:901
+msgid "Throwing Dagger"
+msgstr ""
+
+#: src/Item.cpp:902
+msgid "A short and thin dagger, designed to fly straight when thrown."
+msgstr ""
+
+#: src/Item.cpp:909
+msgid "Kerchief"
+msgstr ""
+
+#: src/Item.cpp:910
+msgid ""
+"Whether you wear it around your head or your neck, it offers more in style "
+"than protection."
+msgstr ""
+
+#: src/Item.cpp:915
+msgid "Cross Amulet"
+msgstr ""
+
+#: src/Item.cpp:916
+msgid "Commonly used to ward off evil."
+msgstr ""
+
+#: src/Item.cpp:921
+msgid "Monster Tooth"
+msgstr ""
+
+#: src/Item.cpp:922
+msgid "Careful, it's still sharp."
+msgstr ""
+
+#: src/Item.cpp:927
+msgid "Magic Stone"
+msgstr ""
+
+#: src/Item.cpp:928
+msgid "Many adventurers carry one of these for good luck."
+msgstr ""
+
+#: src/Item.cpp:934
+msgid "Compass"
+msgstr ""
+
+#: src/Item.cpp:935
+msgid "An essential tool for every navigator."
+msgstr ""
+
+#: src/Item.cpp:941
+msgid "Bird Amulet"
+msgstr ""
+
+#: src/Item.cpp:942
+msgid "A tiny figurine of the mythological bird, Aketh."
+msgstr ""
+
+#: src/Item.cpp:948
+msgid "Feather Talisman"
+msgstr ""
+
+#: src/Item.cpp:949
+msgid "These feathers float as if unaffected by gravity."
+msgstr ""
+
+#: src/Item.cpp:955
+msgid "Scarf"
+msgstr ""
+
+#: src/Item.cpp:956
+msgid "Not as comfy as the one you left at home, but still quite warm."
+msgstr ""
+
+#: src/Item.cpp:962
+msgid "Skull Necklace"
+msgstr ""
+
+#: src/Item.cpp:963
+msgid "Its made of the tiny skulls of various animals."
+msgstr ""
+
+#: src/Item.cpp:969
+msgid "Locket"
+msgstr ""
+
+#: src/Item.cpp:970
+msgid "It protects the faded picture of a beautiful red-haired woman."
+msgstr ""
+
+#: src/Item.cpp:976
+msgid "Studded Collar"
+msgstr ""
+
+#: src/Item.cpp:977
+msgid "Perfect for those troubled by the thought of decapitation."
+msgstr ""
+
+#: src/Item.cpp:983
+msgid "Shrunken Head"
+msgstr ""
+
+#: src/Item.cpp:984
+msgid "It's impossible to tell whether it was once a man or woman."
+msgstr ""
+
+#: src/Item.cpp:991
+msgid "Lion Talisman"
+msgstr ""
+
+#: src/Item.cpp:992
+msgid "A common symbol carried by all Knights of Kernev."
+msgstr ""
+
+#: src/Item.cpp:998
+msgid "Pocket Watch"
+msgstr ""
+
+#: src/Item.cpp:999
+msgid "The seconds hand still moves, but the other parts remain frozen."
+msgstr ""
+
+#: src/Item.cpp:1005
+msgid "Wise Man's Beard"
+msgstr ""
+
+#: src/Item.cpp:1006
+msgid "You're not sure where this came from."
+msgstr ""
+
+#: src/Item.cpp:1012
+msgid "Scarab"
+msgstr ""
+
+#: src/Item.cpp:1013
+msgid "It appears to be made of solid gold."
+msgstr ""
+
+#: src/Item.cpp:1019
+msgid "Wooden Helm"
+msgstr ""
+
+#: src/Item.cpp:1020
+msgid "Better protection than nothing."
+msgstr ""
+
+#: src/Item.cpp:1025
+msgid "Old Hood"
+msgstr ""
+
+#: src/Item.cpp:1026
+msgid "An old, patched, fur-lined hood."
+msgstr ""
+
+#: src/Item.cpp:1031
+msgid "Wizard Hat"
+msgstr ""
+
+#: src/Item.cpp:1032
+msgid "Worn by many mages for its magic boosting capabilities."
+msgstr ""
+
+#: src/Item.cpp:1038
+msgid "Boar Head"
+msgstr ""
+
+#: src/Item.cpp:1039
+msgid "Made from the head of a common wild boar."
+msgstr ""
+
+#: src/Item.cpp:1044
+msgid "Studded Helm"
+msgstr ""
+
+#: src/Item.cpp:1045
+msgid "Large metal studs line the top of this helmet."
+msgstr ""
+
+#: src/Item.cpp:1051
+msgid "Vagabond Cap"
+msgstr ""
+
+#: src/Item.cpp:1052
+msgid "A large traveller's cap."
+msgstr ""
+
+#: src/Item.cpp:1058
+msgid "Bird Mask"
+msgstr ""
+
+#: src/Item.cpp:1059
+msgid "It magically rests without aid on the bridge of the nose."
+msgstr ""
+
+#: src/Item.cpp:1065
+msgid "Roc Head"
+msgstr ""
+
+#: src/Item.cpp:1066
+msgid "Crafted from the head of a giant roc."
+msgstr ""
+
+#: src/Item.cpp:1072
+msgid "Great Helm"
+msgstr ""
+
+#: src/Item.cpp:1073
+msgid ""
+"Although quite heavy, there's no better in terms of physical protection."
+msgstr ""
+
+#: src/Item.cpp:1079
+msgid "Flat Cap"
+msgstr ""
+
+#: src/Item.cpp:1080
+msgid "These hats are popular among merchants and traders."
+msgstr ""
+
+#: src/Item.cpp:1086
+msgid "Demon Mask"
+msgstr ""
+
+#: src/Item.cpp:1087
+msgid ""
+"Seeing this demonic visage can instill fear in even the bravest warriors."
+msgstr ""
+
+#: src/Item.cpp:1093
+msgid "Wolf Head"
+msgstr ""
+
+#: src/Item.cpp:1094
+msgid "Made from the head of a white dire wolf."
+msgstr ""
+
+#: src/Item.cpp:1100
+msgid "Royal Crown"
+msgstr ""
+
+#: src/Item.cpp:1101
+msgid "It's lined with the sigils of a kingdom long forgotten."
+msgstr ""
+
+#: src/Item.cpp:1108
+msgid "Assassin Hood"
+msgstr ""
+
+#: src/Item.cpp:1109
+msgid ""
+"This deceiving hood's pockets hide small sheets of metal to better protect "
+"the head."
+msgstr ""
+
+#: src/Item.cpp:1115
+msgid "Lunar Circlet"
+msgstr ""
+
+#: src/Item.cpp:1116
+msgid "It gleams unnaturally."
+msgstr ""
+
+#: src/Item.cpp:1123
+msgid "Dragon Head"
+msgstr ""
+
+#: src/Item.cpp:1124
+msgid "The head of a dragon."
+msgstr ""
+
+#: src/Item.cpp:1130
+msgid "Incomplete Ring"
+msgstr ""
+
+#: src/Item.cpp:1131
+msgid "The setting is missing its gemstone."
+msgstr ""
+
+#: src/Item.cpp:1136
+msgid "Ring"
+msgstr ""
+
+#: src/Item.cpp:1137
+msgid "A simple ring, set with a common gemstone."
+msgstr ""
+
+#: src/Item.cpp:1143
+msgid "Damaged Ring"
+msgstr ""
+
+#: src/Item.cpp:1144
+msgid "Part of its stone is chipped."
+msgstr ""
+
+#: src/Item.cpp:1150
+msgid "Gem Studded Ring"
+msgstr ""
+
+#: src/Item.cpp:1151
+msgid "It's lined with several smaller gemstones."
+msgstr ""
+
+#: src/Item.cpp:1157
+msgid "Wood Ring"
+msgstr ""
+
+#: src/Item.cpp:1164
+msgid "Leaf Ring"
+msgstr ""
+
+#: src/Item.cpp:1165
+msgid "A tiny bunch of intricately carved leaves adorn this ring."
+msgstr ""
+
+#: src/Item.cpp:1171
+msgid "Flower Ring"
+msgstr ""
+
+#: src/Item.cpp:1172
+msgid "Flowers."
+msgstr ""
+
+#: src/Item.cpp:1178
+msgid "Sun Ring"
+msgstr ""
+
+#: src/Item.cpp:1179
+msgid "It gleams with yellow light."
+msgstr ""
+
+#: src/Item.cpp:1185
+msgid "Bone Ring"
+msgstr ""
+
+#: src/Item.cpp:1186
+msgid "A ring adorned with a bone."
+msgstr ""
+
+#: src/Item.cpp:1192
+msgid "Skull Ring"
+msgstr ""
+
+#: src/Item.cpp:1193
+msgid "The likeness of a human skull adorns this ring."
+msgstr ""
+
+#: src/Item.cpp:1199
+msgid "Star Ring"
+msgstr ""
+
+#: src/Item.cpp:1200
+msgid "A ring adorned with a star."
+msgstr ""
+
+#: src/Item.cpp:1206
+msgid "Shield Ring"
+msgstr ""
+
+#: src/Item.cpp:1207
+msgid "A ring adorned with a shield."
+msgstr ""
+
+#: src/Item.cpp:1213
+msgid "Mystery Ring"
+msgstr ""
+
+#: src/Item.cpp:1214
+msgid "Who would make such a ring?"
+msgstr ""
+
+#: src/Item.cpp:1219
+msgid "Sword Ring"
+msgstr ""
+
+#: src/Item.cpp:1220
+msgid "A ring adorned with a sword."
+msgstr ""
+
+#: src/Item.cpp:1226
+msgid "Moon Ring"
+msgstr ""
+
+#: src/Item.cpp:1227
+msgid "The symbol of love and justice adorns this ring."
+msgstr ""
+
+#: src/Item.cpp:1233
+msgid "Eye Ring"
+msgstr ""
+
+#: src/Item.cpp:1234
+msgid "The eye on this ring meets your gaze no matter the angle you hold it."
+msgstr ""
+
+#: src/Item.cpp:1241
+msgid "Breast Plate"
+msgstr ""
+
+#: src/Item.cpp:1242
+msgid "The most basic protection worn by aspiring fighters."
+msgstr ""
+
+#: src/Item.cpp:1247
+msgid "Traveler's Tunic"
+msgstr ""
+
+#: src/Item.cpp:1248
+msgid "It's light and comfy, but doesn't offer much protection."
+msgstr ""
+
+#: src/Item.cpp:1253
+msgid "Robes"
+msgstr ""
+
+#: src/Item.cpp:1254
+msgid "Loose and flowing robes."
+msgstr ""
+
+#: src/Item.cpp:1259
+msgid "Animal Skin"
+msgstr ""
+
+#: src/Item.cpp:1260
+msgid "The pelt of some unfortunate beast."
+msgstr ""
+
+#: src/Item.cpp:1265
+msgid "Reinforced Armor"
+msgstr ""
+
+#: src/Item.cpp:1266
+msgid "Metal plates protect the wearer from basic attacks."
+msgstr ""
+
+#: src/Item.cpp:1272
+msgid "Ranger Uniform"
+msgstr ""
+
+#: src/Item.cpp:1273
+msgid "Designed to hold up even under the harshest of conditions."
+msgstr ""
+
+#: src/Item.cpp:1279
+msgid "Acolyte's Robes"
+msgstr ""
+
+#: src/Item.cpp:1280
+msgid "The sleeves of these robes have many hidden pockets."
+msgstr ""
+
+#: src/Item.cpp:1286
+msgid "Druid Cloak"
+msgstr ""
+
+#: src/Item.cpp:1287
+msgid "It's lined with numerous small totems and effigies."
+msgstr ""
+
+#: src/Item.cpp:1293
+msgid "Full Plate Armor"
+msgstr ""
+
+#: src/Item.cpp:1294
+msgid "Very heavy, but almost indestructible."
+msgstr ""
+
+#: src/Item.cpp:1300
+msgid "Leather Armor"
+msgstr ""
+
+#: src/Item.cpp:1301
+msgid ""
+"The armor of choice for those who value manueverability over pure defense."
+msgstr ""
+
+#: src/Item.cpp:1307
+msgid "High Priest's Robes"
+msgstr ""
+
+#: src/Item.cpp:1308
+msgid "These robes radiate soft white light."
+msgstr ""
+
+#: src/Item.cpp:1314
+msgid "Berserker's Armor"
+msgstr ""
+
+#: src/Item.cpp:1315
+msgid "This style of armor is famously worn by barbarians of the Northlands."
+msgstr ""
+
+#: src/Item.cpp:1322
+msgid "Half Plate"
+msgstr ""
+
+#: src/Item.cpp:1323
+msgid "Light, yet protects all the vitals."
+msgstr ""
+
+#: src/Item.cpp:1330
+msgid "Assassin's Leathers"
+msgstr ""
+
+#: src/Item.cpp:1331
+msgid "Masterly crafted with the highest quality hardened leather."
+msgstr ""
+
+#: src/Item.cpp:1337
+msgid "Conjurer's Robes"
+msgstr ""
+
+#: src/Item.cpp:1338
+msgid "Magically weaved to incorporate all the elemental magics."
+msgstr ""
+
+#: src/Item.cpp:1344
+msgid "Gold Plate"
+msgstr ""
+
+#: src/Item.cpp:1345
+msgid "Magically forged gold plates offer faultless protection."
+msgstr ""
+
+#: src/Item.cpp:1352
+msgid "Page Greaves"
+msgstr ""
+
+#: src/Item.cpp:1353
+msgid "Even pages need to protect their feet."
+msgstr ""
+
+#: src/Item.cpp:1358
+msgid "Peddler Boots"
+msgstr ""
+
+#: src/Item.cpp:1359
+msgid "Rugged boots perfect for travelers."
+msgstr ""
+
+#: src/Item.cpp:1365
+msgid "Peasant Shoes"
+msgstr ""
+
+#: src/Item.cpp:1366
+msgid "Old, worn out, and a little smelly. But they fit!"
+msgstr ""
+
+#: src/Item.cpp:1371
+msgid "Fighter Sandals"
+msgstr ""
+
+#: src/Item.cpp:1372
+msgid "Not to be worn with socks."
+msgstr ""
+
+#: src/Item.cpp:1377
+msgid "Mercenary Greaves"
+msgstr ""
+
+#: src/Item.cpp:1378
+msgid "Iconic greaves worn by the infamous \"Hawk\" mercenary group."
+msgstr ""
+
+#: src/Item.cpp:1384
+msgid "Highwayman Boots"
+msgstr ""
+
+#: src/Item.cpp:1385
+msgid "A necessity for those who need to ride their horse swiftly."
+msgstr ""
+
+#: src/Item.cpp:1391
+msgid "Mage Shoes"
+msgstr ""
+
+#: src/Item.cpp:1392
+msgid "They help channel magic, and they're quite comfy too."
+msgstr ""
+
+#: src/Item.cpp:1398
+msgid "Colosseum Clogs"
+msgstr ""
+
+#: src/Item.cpp:1399
+msgid "Gladiators who escape the colosseum often never stop wearing these."
+msgstr ""
+
+#: src/Item.cpp:1405
+msgid "Knight Greaves"
+msgstr ""
+
+#: src/Item.cpp:1406
+msgid "You'll be hard-pressed to find better foot protection."
+msgstr ""
+
+#: src/Item.cpp:1412
+msgid "Bandit Boots"
+msgstr ""
+
+#: src/Item.cpp:1413
+msgid "They hardly make any noise when you walk."
+msgstr ""
+
+#: src/Item.cpp:1419
+msgid "Warlock Shoes"
+msgstr ""
+
+#: src/Item.cpp:1420
+msgid "It's lined with the finest spidersilk."
+msgstr ""
+
+#: src/Item.cpp:1426
+msgid "Savage Sandals"
+msgstr ""
+
+#: src/Item.cpp:1427
+msgid "Reinforced sandals lined with the fur of a dire wolf."
+msgstr ""
+
+#: src/Item.cpp:1433
+msgid "Champion Greaves"
+msgstr ""
+
+#: src/Item.cpp:1434
+msgid ""
+"Tempered with a magical gold alloy, these greaves are fit for a true "
+"champion."
+msgstr ""
+
+#: src/Item.cpp:1440
+msgid "Assassin's Boots"
+msgstr ""
+
+#: src/Item.cpp:1441
+msgid "These boots hide a small sleeve, perfect for hiding a dagger in."
+msgstr ""
+
+#: src/Item.cpp:1448
+msgid "Witch's Boots"
+msgstr ""
+
+#: src/Item.cpp:1449
+msgid "Crafted from magical demon-hide."
+msgstr ""
+
+#: src/Item.cpp:1455
+msgid "Dragon Slayer Boots"
+msgstr ""
+
+#: src/Item.cpp:1456
+msgid "It fills you with courage and strength."
+msgstr ""
+
+#: src/Item.cpp:1463
+msgid "Page Gloves"
+msgstr ""
+
+#: src/Item.cpp:1464
+msgid "The leather is falling apart at the seams."
+msgstr ""
+
+#: src/Item.cpp:1469
+msgid "Peddler Mitts"
+msgstr ""
+
+#: src/Item.cpp:1470
+msgid "They're warm, but don't offer much else."
+msgstr ""
+
+#: src/Item.cpp:1476
+msgid "Apprentice Gloves"
+msgstr ""
+
+#: src/Item.cpp:1477
+msgid "It bears the sigil of some forgotten mage academy."
+msgstr ""
+
+#: src/Item.cpp:1482
+msgid "Fighter's Gloves"
+msgstr ""
+
+#: src/Item.cpp:1483
+msgid "They're thickly padded with leather and reinforced with bandages."
+msgstr ""
+
+#: src/Item.cpp:1488
+msgid "Knight Gauntlets"
+msgstr ""
+
+#: src/Item.cpp:1489
+msgid "Every knight who wields a sword needs also to protect their hands."
+msgstr ""
+
+#: src/Item.cpp:1495
+msgid "Thief Gloves"
+msgstr ""
+
+#: src/Item.cpp:1496
+msgid "The almost-sticky fingertips of these gloves have incredible grip."
+msgstr ""
+
+#: src/Item.cpp:1502
+msgid "Mystic Gloves"
+msgstr ""
+
+#: src/Item.cpp:1503
+msgid "These gloves are socketed with elemental stones to help channel magic."
+msgstr ""
+
+#: src/Item.cpp:1509
+msgid "Gladiator Gloves"
+msgstr ""
+
+#: src/Item.cpp:1510
+msgid ""
+"The thick backplates on these gloves can deflect steel, and even arrows."
+msgstr ""
+
+#: src/Item.cpp:1515
+msgid "Crusader Gloves"
+msgstr ""
+
+#: src/Item.cpp:1516
+msgid "Forged by a master blacksmith, then blessed by a high priest."
+msgstr ""
+
+#: src/Item.cpp:1522
+msgid "Rogue Gloves"
+msgstr ""
+
+#: src/Item.cpp:1523
+msgid ""
+"The hidden pocket on these gloves can be used to store lockpicks or a tiny "
+"blade."
+msgstr ""
+
+#: src/Item.cpp:1529
+msgid "Voodoo Gloves"
+msgstr ""
+
+#: src/Item.cpp:1530
+msgid "The eyes on these gloves only blink when their wearer does."
+msgstr ""
+
+#: src/Item.cpp:1537
+msgid "Savage Gloves"
+msgstr ""
+
+#: src/Item.cpp:1538
+msgid "Crafted from the thick fur of a monstrous yeti."
+msgstr ""
+
+#: src/Item.cpp:1544
+msgid "Champion Gauntlets"
+msgstr ""
+
+#: src/Item.cpp:1545
+msgid "Despite its age, somehow it gleams as if new."
+msgstr ""
+
+#: src/Item.cpp:1552
+msgid "Master Thief Gloves"
+msgstr ""
+
+#: src/Item.cpp:1553
+msgid "Wearing these gloves bestows a supernatural dexterity."
+msgstr ""
+
+#: src/Item.cpp:1559
+msgid "Sage Gloves"
+msgstr ""
+
+#: src/Item.cpp:1560
+msgid "Magic artificers can spend weeks infusing such gloves with magic."
+msgstr ""
+
+#: src/Item.cpp:1566
+msgid "Dragon Slayer Gloves"
+msgstr ""
+
+#: src/Item.cpp:1567
+msgid "Inpenetrable protection against the fiercest fires known to man."
+msgstr ""
+
+#: src/Item.cpp:1574
+msgid "Ring of Zygox"
+msgstr ""
+
+#: src/Item.cpp:1575
+msgid "Open your eyes and see your foes for what they are."
+msgstr ""
+
+#: src/Item.cpp:1585
+msgid "Ring of Elrien"
+msgstr ""
+
+#: src/Item.cpp:1586
+msgid "Creates physical after-images."
+msgstr ""
+
+#: src/Item.cpp:1593
+msgid "Ring of Calatris"
+msgstr ""
+
+#: src/Item.cpp:1594
+msgid ""
+"Reflect all incoming projectiles.  It can never be wielded correctly by "
+"mortals."
+msgstr ""
+
+#: src/Item.cpp:1601
+msgid "Stolen Ring"
+msgstr ""
+
+#: src/Item.cpp:1602
+msgid "You lifted this off of a sleazy merchant in Erifort."
+msgstr ""
+
+#: src/Item.cpp:1610
+msgid "Adherent's Ring of the Shackled"
+msgstr ""
+
+#: src/Item.cpp:1611
+msgid ""
+"This ring was gifted you by a god. Wearing cursed equipment empowers you."
+msgstr ""
+
+#: src/Item.cpp:1620
+msgid "Ring of Seltioc"
+msgstr ""
+
+#: src/Item.cpp:1621
+msgid "Only a strong mind can grasp the power of this ring."
+msgstr ""
+
+#: src/Item.cpp:1630
+msgid "Heirloom Ring"
+msgstr ""
+
+#: src/Item.cpp:1631
+msgid "Your grandfather gave you this ring before he passed away."
+msgstr ""
+
+#: src/Item.cpp:1639
+msgid "Grappling Hook"
+msgstr ""
+
+#: src/Item.cpp:1640
+msgid ""
+"A crossbow specially modified to launch a chain and hook. Hold up and range "
+"attack to use."
+msgstr ""
+
+#: src/Item.cpp:1648
+msgid "Pet Whistle"
+msgstr ""
+
+#: src/Item.cpp:1649
+msgid ""
+"Hold Up and Interact to use. Whistle once to summon your companion, twice to "
+"order them to wait."
+msgstr ""
+
+#: src/Item.cpp:1658
+msgid "Magic Quiver"
+msgstr ""
+
+#: src/Item.cpp:1659
+msgid ""
+"This mysterious item never runs out of arrows if it is powered by enough "
+"mana."
+msgstr ""
+
+#: src/Item.cpp:1667
+msgid "Blink Dagger"
+msgstr ""
+
+#: src/Item.cpp:1668
+msgid "If you stare into the blade, you can see a distant place."
+msgstr ""
+
+#: src/Item.cpp:1676
+msgid "Thunder God's Hammer"
+msgstr ""
+
+#: src/Item.cpp:1677
+msgid "Only a god can wield it correctly."
+msgstr ""
+
+#: src/Item.cpp:1695
+msgid "Pork Chop"
+msgstr ""
+
+#: src/Item.cpp:1696
+msgid "What's the worst that could happen?!"
+msgstr ""
+
+#: src/Item.cpp:1705 src/Item.cpp:1714 src/Item.cpp:1723 src/Item.cpp:1732
+msgid "Rune Orb"
+msgstr ""
+
+#: src/Item.cpp:1706 src/Item.cpp:1715 src/Item.cpp:1724 src/Item.cpp:1733
+msgid "It's inscribed with pulsing magic runes."
+msgstr ""
+
+#: src/Item.cpp:1741
+msgid "Backpack"
+msgstr ""
+
+#: src/Item.cpp:1742
+msgid "The belongings of an unfortunate traveler."
+msgstr ""
+
+#: src/Item.cpp:1748
+msgid "Shopkeeper's Stash"
+msgstr ""
+
+#: src/Item.cpp:1749
+msgid "It has to have SOMETHING valuable in it!..."
+msgstr ""
+
+#: src/Item.cpp:1755
+msgid "Roasted Chicken"
+msgstr ""
+
+#: src/Item.cpp:1756
+msgid "Organic, Cage-free, Dungeon Raised Grade A Chicken."
+msgstr ""
+
+#: src/Item.cpp:1762
+msgid "Rotten Chicken"
+msgstr ""
+
+#: src/Item.cpp:1763
+msgid "Check the expiration date."
+msgstr ""
+
+#: src/Item.cpp:1769
+msgid "Cooked Eye"
+msgstr ""
+
+#: src/Item.cpp:1770
+msgid "Juicy like a grape."
+msgstr ""
+
+#: src/Item.cpp:1776
+msgid "Sashimi"
+msgstr ""
+
+#: src/Item.cpp:1777
+msgid "Serve with soy sauce."
+msgstr ""
+
+#: src/Item.cpp:1783
+msgid "Candy"
+msgstr ""
+
+#: src/Item.cpp:1784
+msgid "Pure sugar goodness."
+msgstr ""
+
+#: src/Item.cpp:1790
+msgid "Sack of Loot"
+msgstr ""
+
+#: src/Item.cpp:1791
+msgid "It could contain *anything*."
+msgstr ""
+
+#: src/Item.cpp:1797
+msgid "Unarmed"
+msgstr ""
+
+#: src/Item.cpp:1882
+msgid "This doesn't belong to you!.. Thief!!!"
+msgstr ""
+
+#: src/Item.cpp:4442
+msgid "unidentified"
+msgstr ""
+
+#: src/Item.cpp:4447
+msgid "99 Damage On Explosion"
+msgstr ""
+
+#: src/Item.cpp:4451
+msgid "Deals 0 Damage"
+msgstr ""
+
+#: src/Item.cpp:4459
+msgctxt "3-7 Damage"
+msgid "{1}-{2} Damage"
+msgstr ""
+
+#: src/Item.cpp:4474
+msgid "Charges"
+msgstr ""
+
+#: src/Item.cpp:4498
+msgid "Vorpal Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4502
+msgid "Very Fast Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4506
+msgid "Fast Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4510
+msgid "Normal Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4514
+msgid "Slow Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4518
+msgid "Very Slow Attack Speed"
+msgstr ""
+
+#: src/Item.cpp:4615
+msgid "God Cursed!"
+msgstr ""
+
+#: src/Item.cpp:4619
+msgid "Cursed!"
+msgstr ""
+
+#: src/Item.cpp:4627
+msgid "Stolen"
+msgstr ""
+
+#: src/Item.cpp:4834
+msgctxt "item name order 1(prefix) 2(base item name) 3(suffix)"
+msgid "{1} {2} {3}"
+msgstr ""
+
+#: src/Item.cpp:4838
+msgctxt "item name order 1(prefix) 2(base item name)"
+msgid "{1} {2}"
+msgstr ""
+
+#: src/Item.cpp:4842
+msgctxt "item name order 1(base item name) 2(suffix)"
+msgid "{1} {2}"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:12
+msgid "Pet Utility"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:13
+msgid "Loud Bark"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:13
+msgid "Your pet's barks are more effective."
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:14
+msgid "Unceasing Din"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:14
+msgid "Your pet can bark more often."
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:15
+msgid "Noisy Passenger"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:15
+msgid "Your pet can bark at enemies while carried."
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:16
+msgid "Bouncy Missile"
+msgstr ""
+
+#: src/AffinityPetUtility.cpp:16
+msgid "Your pet bounces when thrown."
+msgstr ""
+
+#: src/AffinitySword.cpp:13
+msgid "Sword"
+msgstr ""
+
+#: src/AffinitySword.cpp:14
+msgid "Sword Dance"
+msgstr ""
+
+#: src/AffinitySword.cpp:14
+msgid ""
+"Slide backwards or forwards while stabbing. Hitting an enemy while sliding "
+"deals extra damage."
+msgstr ""
+
+#: src/AffinitySword.cpp:15
+msgid "Omnistab"
+msgstr ""
+
+#: src/AffinitySword.cpp:15
+msgid ""
+"Hold down and attack while falling for a falling attack. Hold up and attack "
+"to do a weaker overhead slash."
+msgstr ""
+
+#: src/AffinitySword.cpp:16
+msgid "Power Attack"
+msgstr ""
+
+#: src/AffinitySword.cpp:16
+msgid "Hold your attack button to gather strength."
+msgstr ""
+
+#: src/AffinitySword.cpp:17
+msgid "Quick Draw"
+msgstr ""
+
+#: src/AffinitySword.cpp:17
+msgid "Hone your dexterity.  Draw your sword faster than the enemy can react."
+msgstr ""
+
+#: src/AffinitySword.cpp:18
+msgid "Sword Spin"
+msgstr ""
+
+#: src/AffinitySword.cpp:18
+msgid "Hold up while jumping to perform a powerful sword spin attack."
+msgstr ""
+
+#: src/Credits.cpp:645
+msgid "PROGRAMMING"
+msgstr ""
+
+#: src/Credits.cpp:696
+msgid "GRAPHICS"
+msgstr ""
+
+#: src/Credits.cpp:745
+msgid "MUSIC & SOUND"
+msgstr ""
+
+#: src/Credits.cpp:802
+msgid "SPECIAL THANKS"
+msgstr ""
+
+#: src/Credits.cpp:807
+msgid "Our friends and family..."
+msgstr ""
+
+#: src/Credits.cpp:812
+msgid "Everyone who supported us during Early Access..."
+msgstr ""
+
+#: src/Credits.cpp:817
+msgid "And YOU!"
+msgstr ""
+
+#: src/Credits.cpp:825
+msgid "THE END"
+msgstr ""
+
+#: src/Skill.cpp:54
+msgid "Dash a short distance."
+msgstr ""
+
+#: src/Skill.cpp:63
+msgid ""
+"Temporarily gain a shield of fire that reduces damage and burns attackers."
+msgstr ""
+
+#: src/Skill.cpp:73
+msgid "Exert a mysterious force on surrounding entities."
+msgstr ""
+
+#: src/Skill.cpp:82
+msgid "Create a portal, or teleport to an existing one."
+msgstr ""
+
+#: src/Skill.cpp:93
+msgid "Instantly teleport to a new location."
+msgstr ""
+
+#: src/Skill.cpp:103
+msgid "Create Potion"
+msgstr ""
+
+#: src/Skill.cpp:104
+msgid "Create a new random potion."
+msgstr ""
+
+#: src/Skill.cpp:111
+msgid "Throw Potion"
+msgstr ""
+
+#: src/Skill.cpp:112
+msgid "Throw the first potion in your inventory."
+msgstr ""
+
+#: src/Skill.cpp:118
+msgid "Toss a ball of incredibly cold magic."
+msgstr ""
+
+#: src/Skill.cpp:130
+msgid "Launch a burning mass of destruction."
+msgstr ""
+
+#: src/Skill.cpp:140
+msgid "Charm a target enemy."
+msgstr ""
+
+#: src/Skill.cpp:151
+msgid "Summon a friendly monster that will attack enemies."
+msgstr ""
+
+#: src/Skill.cpp:160
+msgid "Summon the power of storms upon your enemies."
+msgstr ""
+
+#: src/Skill.cpp:173
+msgid "Powerful electricity will arc to multiple enemies."
+msgstr ""
+
+#: src/Skill.cpp:186
+msgid "Summon spirits to protect you."
+msgstr ""
+
+#: src/Skill.cpp:196
+msgid "Cast a homing physical attack."
+msgstr ""
+
+#: src/Skill.cpp:210
+msgid "Manipulate certain objects with your mind, then toss them at your foes."
+msgstr ""
+
+#: src/Skill.cpp:220
+msgid "Launch an earth-trembling wave of destruction."
+msgstr ""
+
+#: src/Skill.cpp:232
+msgid "Release an otherworldly burst of cold flame."
+msgstr ""
+
+#: src/Skill.cpp:246
+msgid "Summon a circle of light that heals allies and damages enemies."
+msgstr ""
+
+#: src/Skill.cpp:257
+msgid "Thrust with powerful photonic energies."
+msgstr ""
+
+#: src/Skill.cpp:268
+msgid "Deep-freeze your surroundings."
+msgstr ""
+
+#: src/Skill.cpp:278
+msgid "Call forth a raging inferno before you."
+msgstr ""
+
+#: src/Skill.cpp:288
+msgid "A forbidden technique developed by cursed immortal beings."
+msgstr ""
+
+#: src/Skill.cpp:300
+msgid "Sheath your body in a holy shield of invulnerability."
+msgstr ""
+
+#: src/Skill.cpp:309
+msgid "Attack with holy light."
+msgstr ""
+
+#: src/Skill.cpp:318
+msgid "Throw a bone."
+msgstr ""
+
+#: src/Skill.cpp:326
+msgid "Raise shards of ice from the ground."
+msgstr ""
+
+#: src/Skill.cpp:334
+msgid "Ignite flammable elements."
+msgstr ""
+
+#: src/Skill.cpp:343
+msgid "Whistle for your companion."
+msgstr ""
+
+#: src/Skill.cpp:386
+msgid "Dash"
+msgstr ""
+
+#: src/Skill.cpp:387 src/StatusEffect.cpp:145
+msgid "Fire Shield"
+msgstr ""
+
+#: src/Skill.cpp:388
+msgid "Psychic Push"
+msgstr ""
+
+#: src/Skill.cpp:389
+msgid "Portal"
+msgstr ""
+
+#: src/Skill.cpp:390
+msgid "Iceball"
+msgstr ""
+
+#: src/Skill.cpp:391
+msgid "Fireball"
+msgstr ""
+
+#: src/Skill.cpp:392
+msgid "Charm"
+msgstr ""
+
+#: src/Skill.cpp:393
+msgid "Summon Monster"
+msgstr ""
+
+#: src/Skill.cpp:394
+msgid "Lightning"
+msgstr ""
+
+#: src/Skill.cpp:395
+msgid "Chain Lightning"
+msgstr ""
+
+#: src/Skill.cpp:396
+msgid "Spirits"
+msgstr ""
+
+#: src/Skill.cpp:397 src/ItemAttribute.cpp:678
+msgid "Blink"
+msgstr ""
+
+#: src/Skill.cpp:398
+msgid "Magic Missile"
+msgstr ""
+
+#: src/Skill.cpp:399
+msgid "Telekinesis"
+msgstr ""
+
+#: src/Skill.cpp:400
+msgid "Shockwave"
+msgstr ""
+
+#: src/Skill.cpp:401
+msgid "Blue Firebolt"
+msgstr ""
+
+#: src/Skill.cpp:402
+msgid "Circle of Light"
+msgstr ""
+
+#: src/Skill.cpp:403
+msgid "Eleclance"
+msgstr ""
+
+#: src/Skill.cpp:404
+msgid "Frost Nova"
+msgstr ""
+
+#: src/Skill.cpp:405
+msgid "Flame Pillar"
+msgstr ""
+
+#: src/Skill.cpp:406 src/StatusEffect.cpp:169
+msgid "Evil Transformation"
+msgstr ""
+
+#: src/Skill.cpp:407
+msgid "Ice Spire"
+msgstr ""
+
+#: src/Skill.cpp:408
+msgid "Flare Nova"
+msgstr ""
+
+#: src/Skill.cpp:409
+msgid "Holy Shield"
+msgstr ""
+
+#: src/Skill.cpp:410
+msgid "Divine Weapon"
+msgstr ""
+
+#: src/Skill.cpp:411
+msgid "Throw Bone"
+msgstr ""
+
+#: src/Skill.cpp:412
+msgid "Whistle"
+msgstr ""
+
+#: src/Skill.cpp:508
+msgctxt "Skill book name"
+msgid "Book of {1}"
+msgstr ""
+
+#: src/Skill.cpp:518
+msgid "Level: {1}"
+msgstr ""
+
+#: src/AffinityDagger.cpp:17
+msgid "Anatomy Studies"
+msgstr ""
+
+#: src/AffinityDagger.cpp:17
+msgid "Increased dagger damage and critical chance."
+msgstr ""
+
+#: src/AffinityDagger.cpp:18
+msgid "Dagger Tricks"
+msgstr ""
+
+#: src/AffinityDagger.cpp:18
+msgid ""
+"Hold up and attack to throw your dagger. Thrown daggers will return to their "
+"owner."
+msgstr ""
+
+#: src/AffinityDagger.cpp:19
+msgid "Dagger Mastery"
+msgstr ""
+
+#: src/AffinityDagger.cpp:19
+msgid "Thrown daggers strike twice."
+msgstr ""
+
+#: src/AffinityDemon.cpp:18
+msgid "Familiar 1"
+msgstr ""
+
+#: src/AffinityDemon.cpp:18
+msgid ""
+"Gain a weak demonic familiar.\n"
+"Increases mana regen."
+msgstr ""
+
+#: src/AffinityDemon.cpp:19
+msgid "Familiar 2"
+msgstr ""
+
+#: src/AffinityDemon.cpp:19
+msgid ""
+"Gain a lesser demonic familiar.\n"
+"Familiar sometimes attacks enemies."
+msgstr ""
+
+#: src/AffinityDemon.cpp:20
+msgid "Familiar 3"
+msgstr ""
+
+#: src/AffinityDemon.cpp:20
+msgid ""
+"Gain a greater demonic familiar.\n"
+"Familiar's damage increased."
+msgstr ""
+
+#: src/ConfigGui.cpp:109
+msgid "Settings"
+msgstr "Configurações"
+
+#: src/ConfigGui.cpp:110
+msgid "Controls"
+msgstr "Controles"
+
+#: src/ConfigGui.cpp:111
+msgid "Unlocks"
+msgstr "Desbloqueados"
+
+#: src/ConfigGui.cpp:112
+msgid "View Credits"
+msgstr "Ver Créditos"
+
+#: src/ConfigGui.cpp:114
+msgid "Exit"
+msgstr "Sair"
+
+#: src/ConfigGui.cpp:116
+msgid "Return"
+msgstr "Retornar"
+
+#: src/ConfigGui.cpp:122 src/MainMenu.cpp:141
+msgid "Exit Game"
+msgstr "Sair do Jogo"
+
+#: src/ConfigGui.cpp:123 src/ConfigGui.cpp:1885
+msgid "Exit to Main Menu"
+msgstr "Sair para o Menu Principal"
+
+#: src/ConfigGui.cpp:125 src/NetMenu.cpp:158
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/ConfigGui.cpp:188
+msgid "Music Volume"
+msgstr "Volume da Musica"
+
+#: src/ConfigGui.cpp:190
+msgid "Effects Volume"
+msgstr "Volume de Efeitos"
+
+#: src/ConfigGui.cpp:192
+msgid "Gamma Correction"
+msgstr "Correção da Gamma"
+
+#: src/ConfigGui.cpp:195
+msgid "Zoom"
+msgstr "Zoom"
+
+#: src/ConfigGui.cpp:197
+msgid "Minimap Scale"
+msgstr "Escala do Minimapa"
+
+#: src/ConfigGui.cpp:204
+msgid "Particles"
+msgstr "Particulas"
+
+#: src/ConfigGui.cpp:205
+msgid "Load from Archive"
+msgstr "Carregar a partir do Arquivo"
+
+#: src/ConfigGui.cpp:213
+msgid "Fullscreen"
+msgstr "Tela cheia"
+
+#: src/ConfigGui.cpp:222
+msgid "Enable Shader"
+msgstr "Habilitar Shader"
+
+#: src/ConfigGui.cpp:229
+msgid "Use Vertex Arrays"
+msgstr "Vertex Arrays"
+
+#: src/ConfigGui.cpp:231
+msgid "Enable Vertical Sync"
+msgstr "V-Sync"
+
+#: src/ConfigGui.cpp:233
+msgid "Menu Tooltips"
+msgstr "Menu de Dicas"
+
+#: src/ConfigGui.cpp:235
+msgid "In-Game Tooltips"
+msgstr "Dicas em Jogo"
+
+#: src/ConfigGui.cpp:237
+msgid "Show Debug Info"
+msgstr "Mostrar informações de Debug"
+
+#: src/ConfigGui.cpp:240
+msgid "Cumulative Combat Numbers"
+msgstr "Dano Cumulativo"
+
+#: src/ConfigGui.cpp:244
+msgid "Show Network Information"
+msgstr "Informações de Rede"
+
+#: src/ConfigGui.cpp:246
+msgid "Pixel-perfect Scaling"
+msgstr "Escala de Pixel Perfeita"
+
+#: src/ConfigGui.cpp:249
+msgid "DirectInput Support"
+msgstr "Suporte a DirectInput"
+
+#: src/ConfigGui.cpp:258
+msgctxt "Back to the previous menu"
+msgid "Back"
+msgstr "Voltar"
+
+#: src/ConfigGui.cpp:262
+msgid "Warning: Enabling shader may cause issues on some machines."
+msgstr "Aviso: Habilitar Shader pode causar problemas em algumas maquinas."
+
+#: src/ConfigGui.cpp:285
+msgctxt "Player 1"
+msgid "Player {1}"
+msgstr "Jogador {1}"
+
+#: src/ConfigGui.cpp:295
+msgid "Load Preset"
+msgstr "Carregar Preset"
+
+#: src/ConfigGui.cpp:296
+msgid "Rebind All"
+msgstr "Refazer Tudo"
+
+#: src/ConfigGui.cpp:306
+msgid "  Player Enabled"
+msgstr " Habilitar Jogador"
+
+#: src/ConfigGui.cpp:312
+msgid "Input Devices"
+msgstr "Dispositivos de Input"
+
+#: src/ConfigGui.cpp:948
+msgid "Really Exit?"
+msgstr "Realmente quer Sair?"
+
+#: src/ConfigGui.cpp:952
+msgid "PAUSED"
+msgstr "PAUSADO"
+
+#: src/ConfigGui.cpp:956
+msgid "OPTIONS"
+msgstr "OPÇÕES"
+
+#: src/ConfigGui.cpp:962
+msgctxt "Player 1 Controls"
+msgid "Player {1} Controls"
+msgstr "Controle do Jogador {1}"
+
+#: src/ConfigGui.cpp:1899
+msgid "Disconnect from Game"
+msgstr "Desconectar do Jogo"
+
+#: src/ConfigGui.cpp:1909
+msgid "Exit to Character Select"
+msgstr "Sair para Tela de Seleção"
+
+#: src/AffinityHoly.cpp:13 src/ItemAttribute.cpp:386
+msgid "Holy"
+msgstr ""
+
+#: src/AffinityHoly.cpp:14
+msgid "Angelic Wings"
+msgstr ""
+
+#: src/AffinityHoly.cpp:14
+msgid "Take no damage from falling."
+msgstr ""
+
+#: src/AffinityHoly.cpp:15
+msgctxt "holy affinity"
+msgid "Divine Weapon"
+msgstr ""
+
+#: src/AffinityHoly.cpp:15
+msgid "Swinging your weapon after damaging enemies manifests holy light."
+msgstr ""
+
+#: src/AffinityHoly.cpp:17
+msgctxt "holy affinity"
+msgid "Holy Shield"
+msgstr ""
+
+#: src/AffinityHoly.cpp:17
+msgid ""
+"Stored Divine Weapon charges give bonus defense against elemental damage."
+msgstr ""
+
+#: src/AffinityHoly.cpp:18
+msgid "Second Chance"
+msgstr ""
+
+#: src/AffinityHoly.cpp:18
+msgid "Negate fatal damage once per floor."
+msgstr ""
+
+#: src/Level.cpp:6583
+msgid "Tutorial"
+msgstr ""
+
+#: src/Level.cpp:6595
+msgid "Dark Cavern {1}"
+msgstr ""
+
+#: src/Level.cpp:6599
+msgid "Dark Caves {1}"
+msgstr ""
+
+#: src/Level.cpp:6606
+msgid "Wilderness {1}"
+msgstr ""
+
+#: src/Level.cpp:6610
+msgid "Forest {1}"
+msgstr ""
+
+#: src/Level.cpp:6617
+msgid "Crypts {1}"
+msgstr ""
+
+#: src/Level.cpp:6621
+msgid "Catacombs {1}"
+msgstr ""
+
+#: src/Level.cpp:6628
+msgid "Plane of Despair {1}"
+msgstr ""
+
+#: src/Level.cpp:6632
+msgid "Rift {1}"
+msgstr ""
+
+#: src/Level.cpp:6638
+msgid "Corrupted Temple"
+msgstr ""
+
+#: src/Level.cpp:6642
+msgid "The Ruins"
+msgstr ""
+
+#: src/Level.cpp:6648
+msgid "Halls of Blood"
+msgstr ""
+
+#: src/Level.cpp:6652
+msgid "Forest Temple"
+msgstr ""
+
+#: src/Level.cpp:6659
+msgid "Corrupted Tower"
+msgstr ""
+
+#: src/Level.cpp:6663
+msgid "The Tower"
+msgstr ""
+
+#: src/Level.cpp:6670
+msgid "The Workshop"
+msgstr ""
+
+#: src/Level.cpp:6674
+msgid "The Factory"
+msgstr ""
+
+#: src/SecretsBook.cpp:117
+msgid "Book of Secrets"
+msgstr ""
+
+#: src/SecretsBook.cpp:152
+msgid "LOCKED"
+msgstr "TRANCADO"
+
+#: src/PlayerMenu.cpp:381
+msgctxt "Tooltip, button sprite is drawn after 'Press'"
+msgid "Press"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1103 src/PlayerMenu.cpp:3479
+msgid "Quick Cast"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1103
+msgid "When enabled, cast specific spell depending on direction held."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1107 src/PlayerMenu.cpp:3480
+msgid "Quick Swap"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1107
+msgid "When enabled, swap to specific spell depending on direction held."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1111
+msgid "Configure Spells"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1111
+msgid "Choose which spells are used in Quick Cast or Quick Swap."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1558
+msgid "{1} point available"
+msgid_plural "{1} points available"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/PlayerMenu.cpp:1683 src/StatusEffect.cpp:80 src/AffinityStats.cpp:24
+msgid "Strength"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1683 src/AffinityStats.cpp:25
+msgid "Strength increases your damage, especially with melee weapons."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1684 src/AffinityStats.cpp:29
+msgid "Dexterity"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1684
+msgid ""
+"Dexterity increases your attack speed and damage, especially with ranged "
+"weapons."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1685 src/AffinityStats.cpp:34
+msgid "Vitality"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1685 src/AffinityStats.cpp:35
+msgid "Vitality increases your maximum health."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1686 src/AffinityStats.cpp:39
+msgid "Intelligence"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1686
+msgid ""
+"Intelligence affects spell power as well as the number of spell charge each "
+"spell has."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1687 src/AffinityStats.cpp:44
+msgid "Luck"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1687 src/AffinityStats.cpp:45
+msgid ""
+"Luck affects your critical strike rate and evasion, as well as chance based "
+"effects."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1689 src/AffinityDefense.cpp:10
+msgid "Defense"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1689
+msgid "Defense is how resistant you are to physical damage."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1690
+msgid "Fire Resist"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1690
+msgid ""
+"Each point of fire resistance increases your resistance to fire damage by 25%"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1691
+msgid "Cold Resist"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1691
+msgid ""
+"Each point of cold resistance increases your resistance to cold damage by 25%"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1692
+msgid "Lightning Resist"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1692
+msgid ""
+"Each point of lightning resistance increases your resistance to lightning "
+"damage by 25%"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1693
+msgid "Poison Resist"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1693
+msgid ""
+"Each point of poison resistance increases your resistance to poison damage "
+"by 25%"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1695
+msgid "Melee Damage"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1695
+msgid "Increased damage of melee weapons."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1696
+msgid "Ranged Damage"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1696
+msgid "Increased damage of thrown or ranged weapons."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1697
+msgid "Critical"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1697
+#, c-format
+msgid "% Chance of a critical hit."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1698
+msgid "Attack Speed"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1698
+msgid "% Increased attack speed."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1699
+msgid "Move Speed"
+msgstr ""
+
+#: src/PlayerMenu.cpp:1699
+msgid "Increased movement speed amount."
+msgstr ""
+
+#: src/PlayerMenu.cpp:1760
+msgid "Knight"
+msgstr "Cavaleiro"
+
+#: src/PlayerMenu.cpp:1763
+msgid "Rogue"
+msgstr "Ladino"
+
+#: src/PlayerMenu.cpp:1766
+msgid "Mage"
+msgstr "Mago"
+
+#: src/PlayerMenu.cpp:1769 src/Stats.cpp:105
+msgid "Wildling"
+msgstr "Selvagem"
+
+#: src/PlayerMenu.cpp:1772 src/Stats.cpp:121
+msgid "Houndmaster"
+msgstr "Caçador"
+
+#: src/PlayerMenu.cpp:1799
+msgid "Died to {1}"
+msgstr "Morreu por {1}"
+
+#: src/PlayerMenu.cpp:1806
+msgid "{1} Deaths to {2}"
+msgstr "{1} Mortes para {2}"
+
+#: src/PlayerMenu.cpp:1813 src/StatusEffect.cpp:68
+msgid "Poisoned"
+msgstr "Veneno"
+
+#: src/PlayerMenu.cpp:1817
+msgid "Corroded"
+msgstr "Oxidação"
+
+#: src/PlayerMenu.cpp:1821 src/StatusEffect.cpp:107
+msgid "Frozen"
+msgstr "Congelamento"
+
+#: src/PlayerMenu.cpp:1825
+msgid "Burned"
+msgstr "Fogo"
+
+#: src/PlayerMenu.cpp:1829
+msgid "Electrocuted"
+msgstr "Shoque"
+
+#: src/PlayerMenu.cpp:1833
+msgid "Mysteriously Died"
+msgstr "Morte Misteriosa"
+
+#: src/PlayerMenu.cpp:1891
+msgid "{1} Deaths as a {2}"
+msgstr "{1} Mortes para o(a) {2}"
+
+#: src/PlayerMenu.cpp:1910
+msgctxt "Game over menu"
+msgid "Ready"
+msgstr "Pronto"
+
+#: src/PlayerMenu.cpp:1924
+msgctxt "Game over menu"
+msgid "Press Start"
+msgstr "Aperte Start"
+
+#: src/PlayerMenu.cpp:2011
+msgid "Prev Tab"
+msgstr "Aba Anterior"
+
+#: src/PlayerMenu.cpp:2015
+msgid "Next Tab"
+msgstr "Proxima Aba"
+
+#: src/PlayerMenu.cpp:2021
+msgid "Place"
+msgstr "Colocar"
+
+#: src/PlayerMenu.cpp:2025
+msgid "Apply to item"
+msgstr "Aplicar ao Item"
+
+#: src/PlayerMenu.cpp:2037 src/PlayerMenu.cpp:2082
+msgid "Unequip"
+msgstr "Desequipar"
+
+#: src/PlayerMenu.cpp:2041 src/PlayerMenu.cpp:2086
+msgid "Equip"
+msgstr "Equipar"
+
+#: src/PlayerMenu.cpp:2048
+msgid "Quaff"
+msgstr "Tomar"
+
+#: src/PlayerMenu.cpp:2052
+msgid "Read"
+msgstr "Ler"
+
+#: src/PlayerMenu.cpp:2056
+msgid "Use"
+msgstr "Usar"
+
+#: src/PlayerMenu.cpp:2063
+msgid "Apply to"
+msgstr "Aplicar"
+
+#: src/PlayerMenu.cpp:2068
+msgid "Drop"
+msgstr "Deixar"
+
+#: src/PlayerMenu.cpp:2070
+msgid "Move"
+msgstr "Mover"
+
+#: src/PlayerMenu.cpp:2107
+msgid "Prev rank"
+msgstr "Nivel Anterior"
+
+#: src/PlayerMenu.cpp:2111
+msgid "Next rank"
+msgstr "Próximo nivel"
+
+#: src/PlayerMenu.cpp:2115
+msgid "Level up"
+msgstr "Subir level"
+
+#: src/PlayerMenu.cpp:3481
+msgid "Configure"
+msgstr "Configurar"
+
+#: src/Shop.cpp:287
+msgid "Purchase"
+msgstr "Comprar"
+
+#: src/GuiServerDetails.cpp:18
+msgid "Join"
+msgstr "Juntar-se"
+
+#: src/ProgressionGui.cpp:1049
+msgid "Unlocked"
+msgstr "Desbloqueado"
+
+#: src/MainMenu.cpp:136
+msgid "New Game"
+msgstr "Novo Jogoo"
+
+#: src/MainMenu.cpp:137
+msgid "Play Online"
+msgstr "Jogar Online"
+
+#: src/MainMenu.cpp:138
+msgid "Options"
+msgstr "Opções"
+
+#: src/AffinityClub.cpp:16
+msgid "Club"
+msgstr ""
+
+#: src/AffinityClub.cpp:17
+msgid "Fatiguing Blows"
+msgstr ""
+
+#: src/AffinityClub.cpp:17
+msgid "Club attacks deal more damage and stun enemies more."
+msgstr ""
+
+#: src/AffinityClub.cpp:18
+msgid "Charged Attack"
+msgstr ""
+
+#: src/AffinityClub.cpp:18
+msgid "Hold the attack button to charge up your swing."
+msgstr ""
+
+#: src/AffinityClub.cpp:19
+msgctxt "club affinity"
+msgid "Shockwave"
+msgstr ""
+
+#: src/AffinityClub.cpp:19
+msgid "Fully charged attacks unleash a powerful shockwave."
+msgstr ""
+
+#: src/AffinityClub.cpp:20
+msgid "Faster Charge"
+msgstr ""
+
+#: src/AffinityClub.cpp:20
+msgid "Attacks charge up quicker."
+msgstr ""
+
+#: src/AffinityEnchant.cpp:12
+msgid "Enchant"
+msgstr ""
+
+#: src/AffinityEnchant.cpp:13
+msgid "Novice Enchanter"
+msgstr ""
+
+#: src/AffinityEnchant.cpp:13
+msgid ""
+"Bestow a spell's power unto the user by pressing Interact during a fully-"
+"concentrated spell cast."
+msgstr ""
+
+#: src/AffinityEnchant.cpp:14
+msgid "Elemental Adept"
+msgstr ""
+
+#: src/AffinityEnchant.cpp:14
+msgid ""
+"Higher tier spells bestow greater enchantments. Additionally, gain the "
+"ability to wield 2 elemental enchantments."
+msgstr ""
+
+#: src/AffinityEnchant.cpp:15
+msgid "Rune Scribe"
+msgstr ""
+
+#: src/AffinityEnchant.cpp:15
+msgid ""
+"Etch elemental runes upon your equipped weapon. Additionally, gain the "
+"ability to wield 3 elemental enchantments."
+msgstr ""
+
+#: src/AffinityCaster.cpp:14
+msgid "Spellcaster"
+msgstr ""
+
+#: src/AffinityCaster.cpp:15
+msgid "Recovery"
+msgstr ""
+
+#: src/AffinityCaster.cpp:15
+msgid "Spell cooldowns are reduced by 25%."
+msgstr ""
+
+#: src/AffinityCaster.cpp:16
+msgid "Critical Magic"
+msgstr ""
+
+#: src/AffinityCaster.cpp:16
+msgid "Chance to deal critical spell damage."
+msgstr ""
+
+#: src/AffinityCaster.cpp:17
+msgid "Resilience"
+msgstr ""
+
+#: src/AffinityCaster.cpp:17
+msgid "Spell casting cannot be interrupted."
+msgstr ""
+
+#: src/AffinityCaster.cpp:18
+msgid "Spell Charge"
+msgstr ""
+
+#: src/AffinityCaster.cpp:18
+msgid "Enables complete movement control while casting a spell."
+msgstr ""
+
+#: src/Affinity.cpp:105
+msgid "Level {1} (NEXT)"
+msgstr ""
+
+#: src/Affinity.cpp:111
+msgid "Level {1} (MAXED)"
+msgstr ""
+
+#: src/Affinity.cpp:115
+msgid "Level {1} (LEARNED)"
+msgstr ""
+
+#: src/NetMenu.cpp:135
+msgid "Lobby Name"
+msgstr "Nome da Sala de Espera"
+
+#: src/NetMenu.cpp:137
+msgid "Private Lobby"
+msgstr "Sala Privada"
+
+#: src/NetMenu.cpp:138
+msgid "Only Steam friends can join."
+msgstr "Apenas Amigos Steam."
+
+#: src/NetMenu.cpp:140
+msgid "Custom Level"
+msgstr "Mods"
+
+#: src/NetMenu.cpp:141
+msgid "Host a custom build level instead of the base Vagante game."
+msgstr "Hospedar um Mod invés do jogo Base."
+
+#: src/NetMenu.cpp:143
+msgid "Host Steam Lobby"
+msgstr "Sala via Steam"
+
+#: src/NetMenu.cpp:144
+msgid "Host a game through Steam, allowing Steam friends to join you."
+msgstr "Sala via Steam. Permitir que amigos da Steam se juntarem."
+
+#: src/NetMenu.cpp:146
+msgid "Host Server"
+msgstr "Hospedar Server"
+
+#: src/NetMenu.cpp:147
+msgid "Host a game without Steam, only players with your IP address can join."
+msgstr "Sala sem Steam. Apenas jogadores com seu IP."
+
+#: src/NetMenu.cpp:149
+msgid "Connect To Ip"
+msgstr "Conectar-se ao IP"
+
+#: src/NetMenu.cpp:150
+msgid "Connect to a specified server's IP"
+msgstr "Conectar-se ao IP especifico do Server"
+
+#: src/NetMenu.cpp:152
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: src/NetMenu.cpp:153
+msgid "Refresh your Friends Playing list."
+msgstr "Atualizar lista de Amigos."
+
+#: src/NetMenu.cpp:155 src/Input.cpp:265 src/Input.cpp:361
+msgid "Back"
+msgstr "Voltar"
+
+#: src/NetMenu.cpp:156
+msgid "Escape this dark menu"
+msgstr "Sair desse menu escuo"
+
+#: src/NetMenu.cpp:712
+msgid "Enter Server IP Address"
+msgstr "Entrar com Endereço de IP"
+
+#: src/NetMenu.cpp:825
+msgctxt "Joe's Game"
+msgid "{1}'s Game"
+msgstr "Partida de {1}"
+
+#: src/NetMenu.cpp:996
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: src/NetMenu.cpp:1023
+msgid "Connecting to Server."
+msgstr "Contectando ao Servidor."
+
+#: src/NetMenu.cpp:1054
+msgid "Rejected from game. Reason: {1}"
+msgstr "Rejeitado do Jogo. Razão: {1}"
+
+#: src/NetMenu.cpp:1059
+msgid "Kicked from game. Reason: {1}"
+msgstr "Chutado do Jogo. Razão: {1}"
+
+#: src/AffinityRod.cpp:14
+msgid "Rod"
+msgstr ""
+
+#: src/AffinityRod.cpp:15
+msgid "Rod Adept"
+msgstr ""
+
+#: src/AffinityRod.cpp:15
+msgid "Increase rod recharge rate."
+msgstr ""
+
+#: src/AffinityRod.cpp:16
+msgid "Overcharge"
+msgstr ""
+
+#: src/AffinityRod.cpp:16
+msgid "Charge rod to increase damage."
+msgstr ""
+
+#: src/AffinityRod.cpp:18
+msgid "Spell Syphon"
+msgstr ""
+
+#: src/AffinityRod.cpp:18
+msgid "Rods will recharge from spell damage."
+msgstr ""
+
+#: src/AffinityRod.cpp:19
+msgid "Leech Cast"
+msgstr ""
+
+#: src/AffinityRod.cpp:19
+msgid "Auto-cast rods if attack hits an enemy."
+msgstr ""
+
+#: src/AffinityRod.cpp:20
+msgid "Conductor"
+msgstr ""
+
+#: src/AffinityRod.cpp:20
+msgid "Automatically cast your current spell after overcharging rod."
+msgstr ""
+
+#: src/StatusEffect.cpp:58
+msgid "Regeneration"
+msgstr ""
+
+#: src/StatusEffect.cpp:59
+msgid "Your injuries are rapidly healing."
+msgstr ""
+
+#: src/StatusEffect.cpp:62
+msgid "Magic Power"
+msgstr ""
+
+#: src/StatusEffect.cpp:63
+msgid "Your body courses with unbounded magical energy."
+msgstr ""
+
+#: src/StatusEffect.cpp:69
+msgid "You'll continue to take damage until the poison has run its course."
+msgstr ""
+
+#: src/StatusEffect.cpp:72
+msgid "Speedy"
+msgstr ""
+
+#: src/StatusEffect.cpp:73
+msgid "You feel much quicker."
+msgstr ""
+
+#: src/StatusEffect.cpp:76
+msgid "Stone Skin"
+msgstr ""
+
+#: src/StatusEffect.cpp:77
+msgid "Your skin is rock hard."
+msgstr ""
+
+#: src/StatusEffect.cpp:81
+msgid "You feel much stronger."
+msgstr ""
+
+#: src/StatusEffect.cpp:86
+msgid "Stunned"
+msgstr ""
+
+#: src/StatusEffect.cpp:87
+msgid "You're too stunned to do anything."
+msgstr ""
+
+#: src/StatusEffect.cpp:91 src/ItemAttribute.cpp:421
+msgid "Featherfall"
+msgstr ""
+
+#: src/StatusEffect.cpp:92
+msgid "Your body feels as light as a feather."
+msgstr ""
+
+#: src/StatusEffect.cpp:95 src/StatusEffect.cpp:101 src/ItemAttribute.cpp:550
+#: src/ItemAttribute.cpp:596 src/ItemAttribute.cpp:599
+msgid "Burning"
+msgstr ""
+
+#: src/StatusEffect.cpp:96
+msgid "You're on fire! Quick, find some water!"
+msgstr ""
+
+#: src/StatusEffect.cpp:102
+msgid "The coldness of this strange fire burns your skin."
+msgstr ""
+
+#: src/StatusEffect.cpp:108
+msgid "You're completely encased in ice."
+msgstr ""
+
+#: src/StatusEffect.cpp:113
+msgid "Fairy Fire"
+msgstr ""
+
+#: src/StatusEffect.cpp:119
+msgid "Corrupted Fairy Fire"
+msgstr ""
+
+#: src/StatusEffect.cpp:124
+msgid "You feel like hitting something!"
+msgstr ""
+
+#: src/StatusEffect.cpp:129
+msgid "Sugar Rush"
+msgstr ""
+
+#: src/StatusEffect.cpp:130
+msgid "You feel energy coursing through you!"
+msgstr ""
+
+#: src/StatusEffect.cpp:134
+msgid "Charmed"
+msgstr ""
+
+#: src/StatusEffect.cpp:135
+msgid "You can't tell friend from foe!"
+msgstr ""
+
+#: src/StatusEffect.cpp:140
+msgid "Exhausted"
+msgstr ""
+
+#: src/StatusEffect.cpp:141
+msgid "After berserking, you feel exhausted."
+msgstr ""
+
+#: src/StatusEffect.cpp:146
+msgid "Flames surround your entire body!"
+msgstr ""
+
+#: src/StatusEffect.cpp:150
+msgid "Dead"
+msgstr ""
+
+#: src/StatusEffect.cpp:151
+msgid "You're dead. Sorry."
+msgstr ""
+
+#: src/StatusEffect.cpp:157
+msgid "Cursed"
+msgstr ""
+
+#: src/StatusEffect.cpp:163
+msgid "Slowed"
+msgstr ""
+
+#: src/StatusEffect.cpp:164
+msgid "Your movements are slowed."
+msgstr ""
+
+#: src/StatusEffect.cpp:170
+msgid "The blood of your enemies rejuvenates you."
+msgstr ""
+
+#: src/StatusEffect.cpp:174 src/ItemAttribute.cpp:353
+msgid "Unbounded Sight"
+msgstr ""
+
+#: src/StatusEffect.cpp:175
+msgid "Your third eye is opened."
+msgstr ""
+
+#: src/StatusEffect.cpp:179
+msgid "Breath Underwater"
+msgstr ""
+
+#: src/StatusEffect.cpp:184
+msgid "Freeze Immune"
+msgstr ""
+
+#: src/StatusEffect.cpp:185
+msgid "Your body feels strangely warm."
+msgstr ""
+
+#: src/StatusEffect.cpp:189
+msgid "Fire Enchanted"
+msgstr ""
+
+#: src/StatusEffect.cpp:190
+msgid "Your hands surround everything you touch in fire."
+msgstr ""
+
+#: src/StatusEffect.cpp:195
+msgid "Ice Enchanted"
+msgstr ""
+
+#: src/StatusEffect.cpp:196
+msgid "Your hands have become unbearably cold."
+msgstr ""
+
+#: src/StatusEffect.cpp:201
+msgid "Lightning Enchanted"
+msgstr ""
+
+#: src/StatusEffect.cpp:202
+msgid "Lightning constantly arcs from your hands."
+msgstr ""
+
+#: src/StatusEffect.cpp:207
+msgid "Wind Enchanted"
+msgstr ""
+
+#: src/StatusEffect.cpp:208
+msgid "Razor-sharp winds augment your attacks."
+msgstr ""
+
+#: src/StatusEffect.cpp:213
+msgid "Divine Aura"
+msgstr ""
+
+#: src/StatusEffect.cpp:214
+msgid "Holy aura surrounds your body."
+msgstr ""
+
+#: src/StatusEffect.cpp:219
+msgid "Holy Spirit"
+msgstr ""
+
+#: src/StatusEffect.cpp:220
+msgid "God will grant you a second chance once all hitpoints are lost."
+msgstr ""
+
+#: src/StatusEffect.cpp:225 src/AffinityShadow.cpp:17
+msgid "Stealth"
+msgstr ""
+
+#: src/StatusEffect.cpp:226
+msgid "You are now one with the shadows."
+msgstr ""
+
+#: src/StatusEffect.cpp:231 src/AffinityCQC.cpp:18
+msgid "Godfist"
+msgstr ""
+
+#: src/StatusEffect.cpp:232
+msgid "You feel powerful energies surging into your fist!"
+msgstr ""
+
+#: src/AffinityStats.cpp:30
+msgid ""
+"Dexterity increases your attack/cast speed and damage, especially with "
+"ranged weapons."
+msgstr ""
+
+#: src/AffinityStats.cpp:40
+msgid ""
+"Intelligence increases your maximum spell charge, as well as your overall "
+"spell casting abilities."
+msgstr ""
+
+#: src/AffinityStats.cpp:63
+msgctxt "+3 Total Strength"
+msgid "+{1} Total {2}"
+msgstr ""
+
+#: src/AffinityStats.cpp:70
+msgid "Heavy Blows"
+msgstr ""
+
+#: src/AffinityStats.cpp:71
+msgid "Gain a small knockback bonus. "
+msgstr ""
+
+#: src/AffinityStats.cpp:74
+msgid "Quick Step"
+msgstr ""
+
+#: src/AffinityStats.cpp:75
+msgid "Move faster while attacking. "
+msgstr ""
+
+#: src/AffinityStats.cpp:78
+msgid "Thick Skin"
+msgstr ""
+
+#: src/AffinityStats.cpp:79
+msgid "Gain a permanent +1 defense bonus. "
+msgstr ""
+
+#: src/AffinityStats.cpp:82
+msgid "Meditation"
+msgstr ""
+
+#: src/AffinityStats.cpp:83
+msgid "Your spell charge limit is increased. "
+msgstr ""
+
+#: src/AffinityStats.cpp:86
+msgid "Fortune"
+msgstr ""
+
+#: src/AffinityStats.cpp:87
+msgid "Chests have a small chance to drop an extra item. "
+msgstr ""
+
+#: src/AffinityStats.cpp:101
+msgid "Brute Force"
+msgstr ""
+
+#: src/AffinityStats.cpp:102
+msgid "Your maximum damage is increased. "
+msgstr ""
+
+#: src/AffinityStats.cpp:105
+msgid "Finesse"
+msgstr ""
+
+#: src/AffinityStats.cpp:106
+msgid "Your minimum damage is increased. "
+msgstr ""
+
+#: src/AffinityStats.cpp:110
+#, c-format
+msgid "Gain +1 damage for each 20% of health missing. "
+msgstr ""
+
+#: src/AffinityStats.cpp:113
+msgid "Preparation"
+msgstr ""
+
+#: src/AffinityStats.cpp:114
+msgid "Your spell charge limit is greatly increased. "
+msgstr ""
+
+#: src/AffinityStats.cpp:117
+msgid "Lucky Resist"
+msgstr ""
+
+#: src/AffinityStats.cpp:118
+msgid "Gain a chance to resist non-physical damage. "
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:12
+msgid "Pet Offense"
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:13
+msgid "Lunge"
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:13
+msgid "Your pet can now lunge attack."
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:14
+msgid "Weak Point"
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:14
+msgid "Attacks critically hit more often than normal."
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:15
+msgid "Limit Break"
+msgstr ""
+
+#: src/AffinityPetOffense.cpp:15
+msgid "Your pet can sometimes lunge multiple times in a row."
+msgstr ""
+
+#: src/AffinityWand.cpp:14
+msgid "Wand"
+msgstr ""
+
+#: src/AffinityWand.cpp:15
+msgid "Wand Adept"
+msgstr ""
+
+#: src/AffinityWand.cpp:15
+msgid ""
+"Grants additional melee power to wands, based on intelligence and type of "
+"wand. Expended wands gain even more melee power."
+msgstr ""
+
+#: src/AffinityWand.cpp:16
+msgid "Artificer"
+msgstr ""
+
+#: src/AffinityWand.cpp:16
+msgid ""
+"Passively recharge wand charges by resting inbetween levels. Recharging "
+"scrolls become more effective."
+msgstr ""
+
+#: src/AffinityWand.cpp:17
+msgid "Wand Channelling"
+msgstr ""
+
+#: src/AffinityWand.cpp:17
+msgid ""
+"Can channel extra power into wands for greater effect. Recharge even more "
+"wand charges inbetween levels."
+msgstr ""
+
+#: src/AffinityWand.cpp:18
+msgid "Magic Amplifier"
+msgstr ""
+
+#: src/AffinityWand.cpp:18
+msgid ""
+"Gain passive spell damage bonuses by equipping wands of the same type. "
+"Recharge even more wand charges inbetween levels."
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:17
+msgid "Alchemy"
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:18
+msgid "Potion Knowledge"
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:18
+msgid "All potions are identified."
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:19
+msgid "Chemical Transmutation"
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:19
+msgid "Combine different potions to make a new potion."
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:20
+msgid "Alchemist"
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:20
+msgid "Potions you drink have stronger effects."
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:21
+msgid "Exceed"
+msgstr ""
+
+#: src/AffinityAlchemy.cpp:21
+msgid "Occasionally quaff potions multiple times."
+msgstr ""
+
+#: src/Stats.cpp:108
+msgid "Training Dummy"
+msgstr ""
+
+#: src/Stats.cpp:112
+msgid "Merchant"
+msgstr ""
+
+#: src/Stats.cpp:115
+msgid "Sna22ke Eater"
+msgstr ""
+
+#: src/Stats.cpp:120
+msgid "Random Class"
+msgstr ""
+
+#: src/Stats.cpp:129
+msgid "Faithless"
+msgstr ""
+
+#: src/Stats.cpp:131
+msgid "Defeat ???"
+msgstr ""
+
+#: src/Stats.cpp:135
+msgid "Defeat Vine Lord"
+msgstr ""
+
+#: src/Stats.cpp:139
+msgid "Complete 3 floors with mortality armor."
+msgstr ""
+
+#: src/Stats.cpp:143
+msgid "Beat the game as a knight."
+msgstr ""
+
+#: src/Stats.cpp:147
+msgid "Crossbowman"
+msgstr ""
+
+#: src/Stats.cpp:147
+msgid "Beat the game as a rogue."
+msgstr ""
+
+#: src/Stats.cpp:151
+msgid "Beat the game as a mage."
+msgstr ""
+
+#: src/Stats.cpp:155
+msgid "Beat the game as a wildling."
+msgstr ""
+
+#: src/Stats.cpp:159
+msgid "Beat the game as a Hound Master."
+msgstr ""
+
+#: src/Stats.cpp:164
+msgid "Alternate Cave Theme"
+msgstr ""
+
+#: src/Stats.cpp:164
+msgid "Kill all Cave bosses."
+msgstr ""
+
+#: src/Stats.cpp:169
+msgid "Alternate Forest Theme"
+msgstr ""
+
+#: src/Stats.cpp:169
+msgid "Kill all Forest bosses."
+msgstr ""
+
+#: src/Stats.cpp:174
+msgid "Alternate Catacombs Theme"
+msgstr ""
+
+#: src/Stats.cpp:174
+msgid "Kill all Catacombs bosses."
+msgstr ""
+
+#: src/Stats.cpp:179
+msgid "Alternate Rift Theme"
+msgstr ""
+
+#: src/Stats.cpp:179
+msgid "Kill all Rift bosses."
+msgstr ""
+
+#: src/Stats.cpp:184
+msgid "Hard Mode"
+msgstr ""
+
+#: src/Stats.cpp:184
+msgid "Beat the game on normal difficulty."
+msgstr ""
+
+#: src/ItemAttribute.cpp:256
+msgid "Life Steal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:257
+msgid "Vampiric"
+msgstr ""
+
+#: src/ItemAttribute.cpp:259
+msgid "Bleed on attack"
+msgstr ""
+
+#: src/ItemAttribute.cpp:260
+msgid "Hemophiliac's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:264
+msgid "Spirit Emitter"
+msgstr ""
+
+#: src/ItemAttribute.cpp:265
+msgid "of the Spirits"
+msgstr ""
+
+#: src/ItemAttribute.cpp:268
+msgid "+Knockback"
+msgstr ""
+
+#: src/ItemAttribute.cpp:271
+msgid "Reduced Knockback"
+msgstr ""
+
+#: src/ItemAttribute.cpp:272
+msgid "Weak"
+msgstr ""
+
+#: src/ItemAttribute.cpp:276
+msgid "Berserkitis"
+msgstr ""
+
+#: src/ItemAttribute.cpp:277
+msgid "of Berserk"
+msgstr ""
+
+#: src/ItemAttribute.cpp:280
+msgid "Fairy Magic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:281
+msgid "of Fairy Fire"
+msgstr ""
+
+#: src/ItemAttribute.cpp:283
+msgid "Corrupted Fairy Magic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:284
+msgid "of Corrupted Fairy Fire"
+msgstr ""
+
+#: src/ItemAttribute.cpp:288
+msgid "Slow Enemies"
+msgstr ""
+
+#: src/ItemAttribute.cpp:289
+msgid "of Slow"
+msgstr ""
+
+#: src/ItemAttribute.cpp:292
+msgid "Double Jump"
+msgstr ""
+
+#: src/ItemAttribute.cpp:293
+msgid "Raccoon"
+msgstr ""
+
+#: src/ItemAttribute.cpp:295
+msgid "Double Jump?"
+msgstr ""
+
+#: src/ItemAttribute.cpp:296 src/ItemAttribute.cpp:304
+msgid "Squirrel"
+msgstr ""
+
+#: src/ItemAttribute.cpp:300
+msgid "Triple Jump"
+msgstr ""
+
+#: src/ItemAttribute.cpp:301
+msgid "Aero"
+msgstr ""
+
+#: src/ItemAttribute.cpp:303
+msgid "Triple Jump?"
+msgstr ""
+
+#: src/ItemAttribute.cpp:308
+msgid "Trailblazer"
+msgstr ""
+
+#: src/ItemAttribute.cpp:309 src/ItemAttribute.cpp:576
+msgid "Blazing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:311
+msgid "Smoky Trail"
+msgstr ""
+
+#: src/ItemAttribute.cpp:312
+msgid "Smoky"
+msgstr ""
+
+#: src/ItemAttribute.cpp:317 src/ItemAttribute.cpp:318
+msgid "Bouncy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:320
+msgid "Uncontrollable Bounciness"
+msgstr ""
+
+#: src/ItemAttribute.cpp:321
+msgid "Springy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:325
+msgid "Super Speed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:326
+msgid "Quick"
+msgstr ""
+
+#: src/ItemAttribute.cpp:328
+msgid "Unpredictable Speed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:329
+msgid "Laggy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:333
+msgid "Grab Walls"
+msgstr ""
+
+#: src/ItemAttribute.cpp:334
+msgid "Spider"
+msgstr ""
+
+#: src/ItemAttribute.cpp:336
+msgid "Bounce off walls"
+msgstr ""
+
+#: src/ItemAttribute.cpp:337
+msgid "Avoidant"
+msgstr ""
+
+#: src/ItemAttribute.cpp:341
+msgid "Throw Hard"
+msgstr ""
+
+#: src/ItemAttribute.cpp:342
+msgid "Gorilla"
+msgstr ""
+
+#: src/ItemAttribute.cpp:344
+msgid "Weak Throws"
+msgstr ""
+
+#: src/ItemAttribute.cpp:345
+msgid "Feeble"
+msgstr ""
+
+#: src/ItemAttribute.cpp:349
+msgid "Sink like a Stone"
+msgstr ""
+
+#: src/ItemAttribute.cpp:350
+msgid "Metal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:354
+msgid "Unbounded"
+msgstr ""
+
+#: src/ItemAttribute.cpp:356
+msgid "Unfocused Sight"
+msgstr ""
+
+#: src/ItemAttribute.cpp:357
+msgid "Amaurotic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:361
+msgid "Demonic Familiar"
+msgstr ""
+
+#: src/ItemAttribute.cpp:362 src/ItemAttribute.cpp:370
+#: src/ItemAttribute.cpp:378
+msgid "Helpful"
+msgstr ""
+
+#: src/ItemAttribute.cpp:364 src/ItemAttribute.cpp:372
+#: src/ItemAttribute.cpp:380
+msgid "Soul of an evil familiar"
+msgstr ""
+
+#: src/ItemAttribute.cpp:365 src/ItemAttribute.cpp:373
+#: src/ItemAttribute.cpp:381
+msgid "Devilish"
+msgstr ""
+
+#: src/ItemAttribute.cpp:369
+msgid "Compassionate Familiar"
+msgstr ""
+
+#: src/ItemAttribute.cpp:377
+msgid "Vengeful Familiar"
+msgstr ""
+
+#: src/ItemAttribute.cpp:385
+msgid "Death Protection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:388
+msgid "Cling to Life"
+msgstr ""
+
+#: src/ItemAttribute.cpp:389
+msgid "Unholy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:393
+msgid "Luminous"
+msgstr ""
+
+#: src/ItemAttribute.cpp:394
+msgid "Blinding"
+msgstr ""
+
+#: src/ItemAttribute.cpp:396
+msgid "Shadowy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:397
+msgid "of the Shadows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:401
+msgid "Jumping on enemies deals damage"
+msgstr ""
+
+#: src/ItemAttribute.cpp:402
+msgid "Spiky"
+msgstr ""
+
+#: src/ItemAttribute.cpp:404
+msgid "Jumping on enemies hurts your feet"
+msgstr ""
+
+#: src/ItemAttribute.cpp:405
+msgid "Uncomfortable"
+msgstr ""
+
+#: src/ItemAttribute.cpp:409
+msgid "Swim like a Fish"
+msgstr ""
+
+#: src/ItemAttribute.cpp:410
+msgid "Webbed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:413
+msgid "Underwater Breathing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:414
+msgid "Amphibian"
+msgstr ""
+
+#: src/ItemAttribute.cpp:416
+msgid "Reduced lung capacity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:417
+msgid "Asthmatic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:422
+msgid "Winged"
+msgstr ""
+
+#: src/ItemAttribute.cpp:424
+msgid "Fall like a rock"
+msgstr ""
+
+#: src/ItemAttribute.cpp:425
+msgid "Heavy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:429
+msgid "Light Feet"
+msgstr ""
+
+#: src/ItemAttribute.cpp:430
+msgid "Muted"
+msgstr ""
+
+#: src/ItemAttribute.cpp:432
+msgid "Clunky"
+msgstr ""
+
+#: src/ItemAttribute.cpp:433
+msgid "Noisy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:437
+msgid "Floor Phasing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:438
+msgid "Ethereal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:439
+msgid "Fall through floors"
+msgstr ""
+
+#: src/ItemAttribute.cpp:440
+msgid "Pitfall"
+msgstr ""
+
+#: src/ItemAttribute.cpp:444
+msgid "Wall Phasing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:445
+msgid "Transient"
+msgstr ""
+
+#: src/ItemAttribute.cpp:446
+msgid "Absorbed by walls"
+msgstr ""
+
+#: src/ItemAttribute.cpp:447
+msgid "Ingurgitating"
+msgstr ""
+
+#: src/ItemAttribute.cpp:451
+msgid "Shop Deals"
+msgstr ""
+
+#: src/ItemAttribute.cpp:452
+msgid "Frugal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:455
+msgid "Boulder Protection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:456
+msgid "Hard"
+msgstr ""
+
+#: src/ItemAttribute.cpp:458 src/ItemAttribute.cpp:459
+msgid "Immaterial"
+msgstr ""
+
+#: src/ItemAttribute.cpp:463
+msgid "Slow Aura"
+msgstr ""
+
+#: src/ItemAttribute.cpp:464
+msgid "Timekeeper's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:467
+msgid "Freezing Aura"
+msgstr ""
+
+#: src/ItemAttribute.cpp:468
+msgid "Chilling"
+msgstr ""
+
+#: src/ItemAttribute.cpp:471
+msgid "Flame Aura"
+msgstr ""
+
+#: src/ItemAttribute.cpp:472
+msgid "Flickering"
+msgstr ""
+
+#: src/ItemAttribute.cpp:475
+msgid "Gold Collector"
+msgstr ""
+
+#: src/ItemAttribute.cpp:476
+msgid "Greedy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:478
+msgid "Gold Repellent"
+msgstr ""
+
+#: src/ItemAttribute.cpp:484
+msgid "of Weakness"
+msgstr ""
+
+#: src/ItemAttribute.cpp:485
+msgid "-{1} damage"
+msgstr ""
+
+#: src/ItemAttribute.cpp:489
+msgid "+{1} damage"
+msgstr ""
+
+#: src/ItemAttribute.cpp:490
+msgid "of Slaying"
+msgstr ""
+
+#: src/ItemAttribute.cpp:506
+msgid "of Negligence"
+msgstr ""
+
+#: src/ItemAttribute.cpp:507
+#, c-format
+msgid "-{1}% critical chance"
+msgstr ""
+
+#: src/ItemAttribute.cpp:511
+#, c-format
+msgid "+{1}% critical chance"
+msgstr ""
+
+#: src/ItemAttribute.cpp:512
+msgid "of Insight"
+msgstr ""
+
+#: src/ItemAttribute.cpp:526 src/ItemAttribute.cpp:757
+msgid "+{1} defense"
+msgstr ""
+
+#: src/ItemAttribute.cpp:527
+msgid "of Protection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:529 src/ItemAttribute.cpp:762
+msgid "-{1} defense"
+msgstr ""
+
+#: src/ItemAttribute.cpp:530
+msgid "of Thin Skin"
+msgstr ""
+
+#: src/ItemAttribute.cpp:534
+msgid "Heavy Punches"
+msgstr ""
+
+#: src/ItemAttribute.cpp:535
+msgid "Kangaroo"
+msgstr ""
+
+#: src/ItemAttribute.cpp:537
+msgid "Weak Punches"
+msgstr ""
+
+#: src/ItemAttribute.cpp:538
+msgid "Debilitating"
+msgstr ""
+
+#: src/ItemAttribute.cpp:542
+msgid "Improved Archery"
+msgstr ""
+
+#: src/ItemAttribute.cpp:543
+msgid "Precise"
+msgstr ""
+
+#: src/ItemAttribute.cpp:545
+msgid "Shaky Hands"
+msgstr ""
+
+#: src/ItemAttribute.cpp:546
+msgid "Inaccurate"
+msgstr ""
+
+#: src/ItemAttribute.cpp:551
+msgid "Volcanic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:554 src/ItemAttribute.cpp:611
+#: src/ItemAttribute.cpp:613
+msgid "Freezing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:555
+msgid "Tundra"
+msgstr ""
+
+#: src/ItemAttribute.cpp:558 src/ItemAttribute.cpp:604
+#: src/ItemAttribute.cpp:606
+msgid "Shocking"
+msgstr ""
+
+#: src/ItemAttribute.cpp:559
+msgid "Cumulus"
+msgstr ""
+
+#: src/ItemAttribute.cpp:562 src/ItemAttribute.cpp:563
+msgid "Envenomed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:566
+msgid "Weightless Arrows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:567 src/ItemAttribute.cpp:571
+msgid "Buoyant"
+msgstr ""
+
+#: src/ItemAttribute.cpp:570
+msgid "\"Weightless\" Arrows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:575
+msgid "Glowing Arrows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:579
+msgid "Arrow Trajectory"
+msgstr ""
+
+#: src/ItemAttribute.cpp:580
+msgid "Sharpshooter's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:583
+msgid "Multishot"
+msgstr ""
+
+#: src/ItemAttribute.cpp:584
+msgid "of Multishot"
+msgstr ""
+
+#: src/ItemAttribute.cpp:587
+msgid "Coins seem to heal injuries"
+msgstr ""
+
+#: src/ItemAttribute.cpp:588
+msgid "Churl"
+msgstr ""
+
+#: src/ItemAttribute.cpp:591
+msgid "Death becomes easier to encounter"
+msgstr ""
+
+#: src/ItemAttribute.cpp:592
+msgid "Mortal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:595
+msgid "Attackers will sometimes be burned"
+msgstr ""
+
+#: src/ItemAttribute.cpp:598
+msgid "Take extra fire damage when attacked"
+msgstr ""
+
+#: src/ItemAttribute.cpp:603
+msgid "Attackers will sometimes be shocked"
+msgstr ""
+
+#: src/ItemAttribute.cpp:605
+msgid "Take extra lightning damage when attacked"
+msgstr ""
+
+#: src/ItemAttribute.cpp:610
+msgid "Attackers will sometimes be frozen"
+msgstr ""
+
+#: src/ItemAttribute.cpp:612
+msgid "Take extra cold damage when attacked"
+msgstr ""
+
+#: src/ItemAttribute.cpp:617
+msgid "Attackers will sometimes be poisoned"
+msgstr ""
+
+#: src/ItemAttribute.cpp:618 src/ItemAttribute.cpp:620
+msgid "Venomous"
+msgstr ""
+
+#: src/ItemAttribute.cpp:619
+msgid "Take extra poison damage when attacked"
+msgstr ""
+
+#: src/ItemAttribute.cpp:624
+msgid "Damage Reflection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:625
+msgid "Speculum"
+msgstr ""
+
+#: src/ItemAttribute.cpp:628
+msgid "Protected by Spirits"
+msgstr ""
+
+#: src/ItemAttribute.cpp:632
+msgid "Chance to turn into mist when hurt"
+msgstr ""
+
+#: src/ItemAttribute.cpp:633
+msgid "Incorporeal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:636
+msgid "Spike Protection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:637
+msgid "Spike Breaking"
+msgstr ""
+
+#: src/ItemAttribute.cpp:639
+msgid "Does nothing against spikes"
+msgstr ""
+
+#: src/ItemAttribute.cpp:640
+msgid "Useless"
+msgstr ""
+
+#: src/ItemAttribute.cpp:644
+msgid "Timing jumps allows for unlimited mid-air jumps"
+msgstr ""
+
+#: src/ItemAttribute.cpp:645
+msgid "Flapping"
+msgstr ""
+
+#: src/ItemAttribute.cpp:648
+msgid "Attackers will get pushed back"
+msgstr ""
+
+#: src/ItemAttribute.cpp:649
+msgid "Reflex"
+msgstr ""
+
+#: src/ItemAttribute.cpp:652
+msgid "Reflects projectiles"
+msgstr ""
+
+#: src/ItemAttribute.cpp:653
+msgid "Deflection"
+msgstr ""
+
+#: src/ItemAttribute.cpp:656
+msgid "Subtly increases weapon reach"
+msgstr ""
+
+#: src/ItemAttribute.cpp:657
+msgid "Augmenting"
+msgstr ""
+
+#: src/ItemAttribute.cpp:659
+msgid "Decreased weapon reach"
+msgstr ""
+
+#: src/ItemAttribute.cpp:660
+msgid "Diminishing"
+msgstr ""
+
+#: src/ItemAttribute.cpp:664
+msgid "Homing Arrows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:665
+msgid "Archangel's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:667
+msgid "Avoidant Arrows"
+msgstr ""
+
+#: src/ItemAttribute.cpp:669
+msgid "Prankster's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:673
+msgid "Reduces gravity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:674
+msgid "Antigrav"
+msgstr ""
+
+#: src/ItemAttribute.cpp:677
+msgid "Cuts Through Both Time & Space"
+msgstr ""
+
+#: src/ItemAttribute.cpp:681
+msgid "Summon Lightning"
+msgstr ""
+
+#: src/ItemAttribute.cpp:682
+msgid "Thurisaz"
+msgstr ""
+
+#: src/ItemAttribute.cpp:685
+msgid "Channel magic from the earth"
+msgstr ""
+
+#: src/ItemAttribute.cpp:686
+msgid "Rise"
+msgstr ""
+
+#: src/ItemAttribute.cpp:689
+msgid "Increased chance of finding magic items"
+msgstr ""
+
+#: src/ItemAttribute.cpp:690
+msgid "Lucky"
+msgstr ""
+
+#: src/ItemAttribute.cpp:693
+msgid "Reduced Physical Damage"
+msgstr ""
+
+#: src/ItemAttribute.cpp:697
+msgid "Damage to Gold"
+msgstr ""
+
+#: src/ItemAttribute.cpp:698
+msgid "Midas"
+msgstr ""
+
+#: src/ItemAttribute.cpp:702
+msgid "Fire Jump"
+msgstr ""
+
+#: src/ItemAttribute.cpp:703
+msgid "Firey"
+msgstr ""
+
+#: src/ItemAttribute.cpp:706
+msgid "Spell Cost Reduction"
+msgstr ""
+
+#: src/ItemAttribute.cpp:707
+msgid "Insightful"
+msgstr ""
+
+#: src/ItemAttribute.cpp:710
+msgid "Splash Attack"
+msgstr ""
+
+#: src/ItemAttribute.cpp:711
+msgid "Splashy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:714
+msgid "Force Shield"
+msgstr ""
+
+#: src/ItemAttribute.cpp:715
+msgid "Shielded"
+msgstr ""
+
+#: src/ItemAttribute.cpp:718
+msgid "Explosion Master"
+msgstr ""
+
+#: src/ItemAttribute.cpp:719
+msgid "Explosive"
+msgstr ""
+
+#: src/ItemAttribute.cpp:722
+msgid "Releases spirits upon opening a chest"
+msgstr ""
+
+#: src/ItemAttribute.cpp:723
+msgid "Vengeful"
+msgstr ""
+
+#: src/ItemAttribute.cpp:726
+msgid "Heal upon opening a chest"
+msgstr ""
+
+#: src/ItemAttribute.cpp:727
+msgid "Generous"
+msgstr ""
+
+#: src/ItemAttribute.cpp:730
+msgid "Keeper of Familiars"
+msgstr ""
+
+#: src/ItemAttribute.cpp:731
+msgid "Keeper's"
+msgstr ""
+
+#: src/ItemAttribute.cpp:734
+msgid "See enemy health bars"
+msgstr ""
+
+#: src/ItemAttribute.cpp:737
+msgid "See hidden enemies"
+msgstr ""
+
+#: src/ItemAttribute.cpp:740
+msgid "Curse Bonus"
+msgstr ""
+
+#: src/ItemAttribute.cpp:747
+msgid "High Jump"
+msgstr ""
+
+#: src/ItemAttribute.cpp:748
+msgid "Eagle"
+msgstr ""
+
+#: src/ItemAttribute.cpp:751
+msgid "Charge up extra damage by walking"
+msgstr ""
+
+#: src/ItemAttribute.cpp:752
+msgid "Plodding"
+msgstr ""
+
+#: src/ItemAttribute.cpp:758
+msgid "Mountain"
+msgstr ""
+
+#: src/ItemAttribute.cpp:763
+msgid "Shunted"
+msgstr ""
+
+#: src/ItemAttribute.cpp:769
+msgid "+{1} fire resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:770
+msgid "Vermillion"
+msgstr ""
+
+#: src/ItemAttribute.cpp:774
+msgid "-{1} fire resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:775
+msgid "Charcoal"
+msgstr ""
+
+#: src/ItemAttribute.cpp:781
+msgid "+{1} cold resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:782
+msgid "Cobalt"
+msgstr ""
+
+#: src/ItemAttribute.cpp:786
+msgid "-{1} cold resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:787
+msgid "Brittle"
+msgstr ""
+
+#: src/ItemAttribute.cpp:794
+msgid "+{1} poison resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:795
+msgid "Mantis"
+msgstr ""
+
+#: src/ItemAttribute.cpp:799
+msgid "-{1} poison resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:800
+msgid "Nauseating"
+msgstr ""
+
+#: src/ItemAttribute.cpp:806
+msgid "+{1} lightning resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:807
+msgid "Ochre"
+msgstr ""
+
+#: src/ItemAttribute.cpp:811
+msgid "-{1} lightning resist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:812
+msgid "Moist"
+msgstr ""
+
+#: src/ItemAttribute.cpp:818
+msgid "+{1} all resistances"
+msgstr ""
+
+#: src/ItemAttribute.cpp:819
+msgid "Prismatic"
+msgstr ""
+
+#: src/ItemAttribute.cpp:823
+msgid "-{1} all resistances"
+msgstr ""
+
+#: src/ItemAttribute.cpp:828
+msgid "Coated with poison"
+msgstr ""
+
+#: src/ItemAttribute.cpp:829
+msgid "Poisonous"
+msgstr ""
+
+#: src/ItemAttribute.cpp:835
+msgid "+{1} strength"
+msgstr ""
+
+#: src/ItemAttribute.cpp:836
+msgid "of Strength"
+msgstr ""
+
+#: src/ItemAttribute.cpp:840
+msgid "-{1} strength"
+msgstr ""
+
+#: src/ItemAttribute.cpp:841
+msgid "of Weakening"
+msgstr ""
+
+#: src/ItemAttribute.cpp:848
+msgid "+{1} dexterity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:849
+msgid "of Dexterity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:853
+msgid "-{1} dexterity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:854
+msgid "of Fumbling"
+msgstr ""
+
+#: src/ItemAttribute.cpp:861
+msgid "+{1} vitality"
+msgstr ""
+
+#: src/ItemAttribute.cpp:862
+msgid "of Vitality"
+msgstr ""
+
+#: src/ItemAttribute.cpp:866
+msgid "-{1} vitality"
+msgstr ""
+
+#: src/ItemAttribute.cpp:867
+msgid "of Debilitation"
+msgstr ""
+
+#: src/ItemAttribute.cpp:874
+msgid "+{1} speed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:875
+msgid "of Speed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:879
+msgid "-{1} speed"
+msgstr ""
+
+#: src/ItemAttribute.cpp:880
+msgid "of Lethargy"
+msgstr ""
+
+#: src/ItemAttribute.cpp:887
+msgid "+{1} stability"
+msgstr ""
+
+#: src/ItemAttribute.cpp:888
+msgid "of Stability"
+msgstr ""
+
+#: src/ItemAttribute.cpp:892
+msgid "-{1} stability"
+msgstr ""
+
+#: src/ItemAttribute.cpp:893
+msgid "of Unsteadiness"
+msgstr ""
+
+#: src/ItemAttribute.cpp:900
+msgid "+{1} intelligence"
+msgstr ""
+
+#: src/ItemAttribute.cpp:901
+msgid "of Intelligence"
+msgstr ""
+
+#: src/ItemAttribute.cpp:905
+msgid "-{1} intelligence"
+msgstr ""
+
+#: src/ItemAttribute.cpp:906
+msgid "of Stupidity"
+msgstr ""
+
+#: src/ItemAttribute.cpp:913
+msgid "+{1} luck"
+msgstr ""
+
+#: src/ItemAttribute.cpp:914
+msgid "of Luck"
+msgstr ""
+
+#: src/ItemAttribute.cpp:918
+msgid "-{1} luck"
+msgstr ""
+
+#: src/ItemAttribute.cpp:919
+msgid "of Unluckiness"
+msgstr ""
+
+#: src/AffinityShadow.cpp:16
+msgid "Shadow"
+msgstr ""
+
+#: src/AffinityShadow.cpp:17
+msgid "Enter stealth mode by ducking."
+msgstr ""
+
+#: src/AffinityShadow.cpp:18
+msgid "Shadow Attunement"
+msgstr ""
+
+#: src/AffinityShadow.cpp:18
+msgid "Enter stealth mode quicker. Opening chests no longer breaks stealth."
+msgstr ""
+
+#: src/AffinityShadow.cpp:19
+msgid "Moving Shadow"
+msgstr ""
+
+#: src/AffinityShadow.cpp:19
+msgid ""
+"Attacks out of stealth critically hit. Stealth automatically when out of "
+"combat."
+msgstr ""
+
+#: src/AffinityShadow.cpp:20
+msgid "Strike of Darkness"
+msgstr ""
+
+#: src/AffinityShadow.cpp:20
+msgid "Entering stealth releases a cloud of smoke. Increased critical damage."
+msgstr ""
+
+#: src/AffinityDefense.cpp:11
+msgid "Defensive Stance"
+msgstr ""
+
+#: src/AffinityDefense.cpp:11
+msgid "Hold down to block physical attacks."
+msgstr ""
+
+#: src/AffinityDefense.cpp:12
+msgid "Aspect of Rock"
+msgstr ""
+
+#: src/AffinityDefense.cpp:12
+msgid "Become immune to knockbacks when taking damage."
+msgstr ""
+
+#: src/AffinityDefense.cpp:13
+msgid "Bulwark"
+msgstr ""
+
+#: src/AffinityDefense.cpp:13
+msgid "Gain a recharging defensive shield."
+msgstr ""
+
+#: src/AffinityDefense.cpp:14
+msgid "Reflex Stance"
+msgstr ""
+
+#: src/AffinityDefense.cpp:14
+msgid "Correctly timed blocks will reflect attack damage."
+msgstr ""
+
+#: src/AffinityDefense.cpp:15
+msgid "Aspect of Steel"
+msgstr ""
+
+#: src/AffinityDefense.cpp:15
+msgid "Some attacks will be automatically blocked."
+msgstr ""
+
+#: src/AffinityCQC.cpp:12
+msgid "Fist Weapon"
+msgstr ""
+
+#: src/AffinityCQC.cpp:14
+msgid "Brawler"
+msgstr ""
+
+#: src/AffinityCQC.cpp:14
+msgid ""
+"Change the direction of fist weapon attacks. Mixed-direction combos deal "
+"more damage."
+msgstr ""
+
+#: src/AffinityCQC.cpp:15
+msgid "Pummel 1"
+msgstr ""
+
+#: src/AffinityCQC.cpp:15
+msgid ""
+"Hold attack to unleash multiple attacks when using fist weapons. Combos "
+"always deal more damage."
+msgstr ""
+
+#: src/AffinityCQC.cpp:16
+msgid "Pummel 2"
+msgstr ""
+
+#: src/AffinityCQC.cpp:16
+msgid "Sustain longer rounds of pummeling."
+msgstr ""
+
+#: src/AffinityCQC.cpp:17
+msgid "Pummel 3"
+msgstr ""
+
+#: src/AffinityCQC.cpp:17
+msgid "Sustain even longer rounds of pummeling."
+msgstr ""
+
+#: src/AffinityCQC.cpp:18
+msgid ""
+"Successful combos will allow you to channel the energy required for the "
+"ultimate punch."
+msgstr ""
+
+#: src/Input.cpp:48
+msgid "Left"
+msgstr ""
+
+#: src/Input.cpp:49
+msgid "Right"
+msgstr ""
+
+#: src/Input.cpp:50
+msgid "Up"
+msgstr ""
+
+#: src/Input.cpp:51
+msgid "Down"
+msgstr ""
+
+#: src/Input.cpp:53
+msgid "Melee Attack"
+msgstr ""
+
+#: src/Input.cpp:54
+msgid "Ranged Attack"
+msgstr ""
+
+#: src/Input.cpp:55
+msgid "Jump"
+msgstr ""
+
+#: src/Input.cpp:56
+msgid "Cast Spell"
+msgstr ""
+
+#: src/Input.cpp:58
+msgid "Swap/Cancel"
+msgstr ""
+
+#: src/Input.cpp:59
+msgid "Walk"
+msgstr ""
+
+#: src/Input.cpp:60
+msgid "Menu"
+msgstr ""
+
+#: src/Input.cpp:61
+msgid "Pause"
+msgstr ""
+
+#: src/Input.cpp:63
+msgid "Interact"
+msgstr ""
+
+#: src/Input.cpp:64
+msgid "Emote (Multiplayer Only)"
+msgstr ""
+
+#: src/Input.cpp:65
+msgid "In-Game Chat (Multiplayer Only)"
+msgstr ""
+
+#: src/Input.cpp:122
+msgid "HOLD A BUTTON"
+msgstr ""
+
+#: src/Input.cpp:126
+msgid "HOLD A KEY"
+msgstr ""
+
+#: src/Input.cpp:151
+msgid "ERROR"
+msgstr ""
+
+#: src/Input.cpp:195
+msgctxt "Gamepad Binds"
+msgid "Axis {1}-"
+msgid_plural "Axis {1}+"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Input.cpp:202
+msgctxt "Gamepad Binds"
+msgid "Button {1}"
+msgstr ""
+
+#: src/Input.cpp:230 src/Input.cpp:323
+msgid "Right (L-Stk)"
+msgstr ""
+
+#: src/Input.cpp:230 src/Input.cpp:323
+msgid "Left (L-Stk)"
+msgstr ""
+
+#: src/Input.cpp:233 src/Input.cpp:326
+msgid "Down (L-Stk)"
+msgstr ""
+
+#: src/Input.cpp:233 src/Input.cpp:326
+msgid "Up (L-Stk)"
+msgstr ""
+
+#: src/Input.cpp:236 src/Input.cpp:329
+msgid "Right (R-Stk)"
+msgstr ""
+
+#: src/Input.cpp:236 src/Input.cpp:329
+msgid "Left (R-Stk)"
+msgstr ""
+
+#: src/Input.cpp:239 src/Input.cpp:332
+msgid "Down (R-Stk)"
+msgstr ""
+
+#: src/Input.cpp:239 src/Input.cpp:332
+msgid "Up (R-Stk)"
+msgstr ""
+
+#: src/Input.cpp:250 src/Input.cpp:316
+msgid "Up (D-pad)"
+msgstr ""
+
+#: src/Input.cpp:253 src/Input.cpp:316
+msgid "Down (D-pad)"
+msgstr ""
+
+#: src/Input.cpp:256 src/Input.cpp:308
+msgid "Left (D-pad)"
+msgstr ""
+
+#: src/Input.cpp:259 src/Input.cpp:308
+msgid "Right (D-pad)"
+msgstr ""
+
+#: src/Input.cpp:262 src/Input.cpp:364
+msgid "Start"
+msgstr ""
+
+#: src/Input.cpp:268
+msgid "Left Thumb"
+msgstr ""
+
+#: src/Input.cpp:271
+msgid "Right Thumb"
+msgstr ""
+
+#: src/Input.cpp:274
+msgid "Left Shoulder"
+msgstr ""
+
+#: src/Input.cpp:277
+msgid "Right Shoulder"
+msgstr ""
+
+#: src/Input.cpp:320
+msgid "Left Trigger"
+msgstr ""
+
+#: src/Input.cpp:320
+msgid "Right Trigger"
+msgstr ""
+
+#: src/Input.cpp:355
+msgid "Left Bumper"
+msgstr ""
+
+#: src/Input.cpp:358
+msgid "Right Bumper"
+msgstr ""
+
+#: src/Client.cpp:6880
+msgid "Creating Steam Lobby..."
+msgstr ""
+
+#: src/Client.cpp:6885
+msgid "Connecting to Steam Lobby..."
+msgstr ""
+
+#: src/Client.cpp:6889
+msgid "Initializing..."
+msgstr ""
+
+#: src/Client.cpp:6893
+msgid "Connecting to IP..."
+msgstr ""
+
+#: src/Client.cpp:6897
+msgid "Connecting to Steam Game Server..."
+msgstr ""
+
+#: src/Client.cpp:8789 src/Client.cpp:8797
+msgid "{1} port: {2}"
+msgstr ""
+
+#: src/Client.cpp:8997
+msgid "Game Over"
+msgstr ""
+
+#: src/Client.cpp:9006
+msgid "Most traps can be triggered by dropped items."
+msgstr ""
+
+#: src/Client.cpp:9007
+msgid "Your controls can always be configured in the options."
+msgstr ""
+
+#: src/Client.cpp:9008
+msgid "Sacrifice extra equipment to The Smith for a chance at new gear."
+msgstr ""
+
+#: src/Client.cpp:9009
+msgid "Equip/unequip your spells in the spellbook tab of your menu."
+msgstr ""
+
+#: src/Client.cpp:9010
+msgid "Shrines to certain gods accept sacrifices in exchange for favor."
+msgstr ""
+
+#: src/Client.cpp:9011
+msgid "While poison deals damage over time, it will never kill you."
+msgstr ""
+
+#: src/Client.cpp:9012
+msgid "The Rogue is invincible to attacks while rolling."
+msgstr ""
+
+#: src/Client.cpp:9013
+msgid "Donate extra gold to The Light and you may receive his blessing."
+msgstr ""
+
+#: src/Client.cpp:9014
+msgid ""
+"Elemental resistances max out at +4, granting you immunity to an element."
+msgstr ""
+
+#: src/Client.cpp:9015
+msgid ""
+"It's possible to steal an item from the shop and escape the level before "
+"being noticed."
+msgstr ""
+
+#: src/Client.cpp:9016
+msgid ""
+"While The Deranged will accept any item as sacrifice, be wary of his "
+"\"rewards\""
+msgstr ""
+
+#: src/Client.cpp:9017
+msgid "Hold jump while bouncing off an enemy's head to reach greater heights."
+msgstr ""
+"Segure Pular enquanto pula na cabeça de um inimigo para alcançar alturas "
+"maiores."
+
+#: src/Client.cpp:9018
+msgid "Defeating the boss of a level will instantly grant you a full level."
+msgstr "Derrotar o chefe de uma fase encherá completamente seu level."
+
+#: src/Client.cpp:9019
+msgid ""
+"While spikes are a lethal threat, they can also be used against most enemies."
+msgstr ""
+"Embora os picos sejam uma ameaça letal, eles também podem ser usados contra "
+"a maioria dos inimigos."
+
+#: src/Client.cpp:9020
+msgid ""
+"Each class has strengths and weaknesses. Find the one that matches your "
+"playstyle."
+msgstr ""
+"Cada classe tem pontos fortes e fracos. Encontre aquele que combine com seu "
+"estilo de jogo."
+
+#: src/Client.cpp:9021
+msgid "The Shackled's shrine can be used to identify cursed items."
+msgstr ""
+"O santuário do Algemado pode ser usado para identificar itens amaldiçoados."
+
+#: src/Client.cpp:9022
+msgid "Sit at campfires inbetween levels to regain your health."
+msgstr "Sente-se em fogueiras entre as fases para recuperar sua saúde."
+
+#: src/Client.cpp:9023
+msgid "The Bloody accepts sacrifices of blood in exchange for greater power."
+msgstr ""
+"O Sanguinário aceita sacrifícios de sangue em troca de aumentar seu poder."
+
+#: src/Client.cpp:9024
+msgid ""
+"Drop unwanted scrolls or books while sitting at a campfire for extra healing."
+msgstr ""
+"Solte pergaminhos ou livros indesejados enquanto estiver sentado em uma "
+"fogueira para uma cura extra."
+
+#: src/Client.cpp:9025
+msgid "Combine an identified poison potion with your weapon to envenom it."
+msgstr "Combine uma poção venenosa identificada com sua arma para envenena-la."
+
+#: src/Client.cpp:9026
+msgid "Combine a bomb with an arrow to craft an explosive arrow."
+msgstr "Combine uma bomba com uma flecha para criar uma flecha explosiva."
+
+#: src/Client.cpp:9027
+msgid "Water is a natural counter to fire."
+msgstr "Água é naturalmente anuladora de Fogo."
