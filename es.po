@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-12 18:04-0300\n"
+"PO-Revision-Date: 2021-01-12 19:00-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1013,11 +1013,11 @@ msgstr "Pergaminho Ouro"
 
 #: src/ItemGenerator.cpp:420
 msgid "Sparkling"
-msgstr ""
+msgstr "Fagulha"
 
 #: src/ItemGenerator.cpp:421
 msgid "Shiny"
-msgstr ""
+msgstr "Brilhoso"
 
 #: src/ItemGenerator.cpp:422
 msgid "Glowing"
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:426
 msgid "Blessed"
-msgstr ""
+msgstr "Abençoado"
 
 #: src/ItemGenerator.cpp:427
 msgid "Artisan"
@@ -1045,11 +1045,11 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:428
 msgid "Masterwork"
-msgstr ""
+msgstr "Obra-prima"
 
 #: src/ItemGenerator.cpp:429
 msgid "Hallowed"
-msgstr ""
+msgstr "Assombrado"
 
 #: src/ItemGenerator.cpp:430
 msgid "Unearthly"
@@ -1061,23 +1061,23 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:432
 msgid "Smoking"
-msgstr ""
+msgstr "Fumante"
 
 #: src/ItemGenerator.cpp:433
 msgid "Weird"
-msgstr "Esquesito"
+msgstr ""
 
 #: src/ItemGenerator.cpp:434
 msgid "Strange"
-msgstr "Estranho"
+msgstr ""
 
 #: src/ItemGenerator.cpp:435
 msgid "Peculiar"
-msgstr "Peculiar"
+msgstr ""
 
 #: src/ItemGenerator.cpp:436
 msgid "Unnatural"
-msgstr "Não natural"
+msgstr ""
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
