@@ -8,7 +8,6 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-12 19:27-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2424,7 +2423,7 @@ msgstr ""
 
 #: src/Item.cpp:1123
 msgid "Dragon Head"
-msgstr ""
+msgstr "Cabeça de Dragão"
 
 #: src/Item.cpp:1124
 msgid "The head of a dragon."
@@ -4046,7 +4045,7 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1697
 msgid "Critical"
-msgstr ""
+msgstr "Crítico"
 
 #: src/PlayerMenu.cpp:1697
 #, c-format
