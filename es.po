@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:426
 msgid "Blessed"
-msgstr ""
+msgstr "Abençoado"
 
 #: src/ItemGenerator.cpp:427
 msgid "Artisan"
@@ -1045,11 +1045,11 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:428
 msgid "Masterwork"
-msgstr ""
+msgstr "Obra-prima"
 
 #: src/ItemGenerator.cpp:429
 msgid "Hallowed"
-msgstr ""
+msgstr "Assombrado"
 
 #: src/ItemGenerator.cpp:430
 msgid "Unearthly"
@@ -1061,23 +1061,23 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:432
 msgid "Smoking"
-msgstr ""
+msgstr "Fumante"
 
 #: src/ItemGenerator.cpp:433
 msgid "Weird"
-msgstr "Esquesito"
+msgstr ""
 
 #: src/ItemGenerator.cpp:434
 msgid "Strange"
-msgstr "Estranho"
+msgstr ""
 
 #: src/ItemGenerator.cpp:435
 msgid "Peculiar"
-msgstr "Peculiar"
+msgstr ""
 
 #: src/ItemGenerator.cpp:436
 msgid "Unnatural"
-msgstr "Não natural"
+msgstr ""
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
