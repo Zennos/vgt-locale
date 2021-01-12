@@ -1081,7 +1081,7 @@ msgstr "Não natural"
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
-msgstr ""
+msgstr "Grotesco"
 
 #: src/ItemGenerator.cpp:438
 msgid "Fantastic"
@@ -4046,7 +4046,7 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1697
 msgid "Critical"
-msgstr ""
+msgstr "Crítico"
 
 #: src/PlayerMenu.cpp:1697
 #, c-format
