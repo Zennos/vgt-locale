@@ -8,7 +8,6 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-12 18:19-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1013,27 +1012,27 @@ msgstr "Pergaminho Ouro"
 
 #: src/ItemGenerator.cpp:420
 msgid "Sparkling"
-msgstr "Fagulha"
+msgstr "Espumante"
 
 #: src/ItemGenerator.cpp:421
 msgid "Shiny"
-msgstr "Brilhoso"
+msgstr "Brilhante"
 
 #: src/ItemGenerator.cpp:422
 msgid "Glowing"
-msgstr ""
+msgstr "Incandescente"
 
 #: src/ItemGenerator.cpp:423
 msgid "Shimmering"
-msgstr ""
+msgstr "Cintilante"
 
 #: src/ItemGenerator.cpp:424
 msgid "Translucent"
-msgstr ""
+msgstr "Transluzente"
 
 #: src/ItemGenerator.cpp:425
 msgid "Runed"
-msgstr ""
+msgstr "Runado"
 
 #: src/ItemGenerator.cpp:426
 msgid "Blessed"
@@ -1041,7 +1040,7 @@ msgstr "Abençoado"
 
 #: src/ItemGenerator.cpp:427
 msgid "Artisan"
-msgstr ""
+msgstr "Artesão"
 
 #: src/ItemGenerator.cpp:428
 msgid "Masterwork"
@@ -1053,11 +1052,11 @@ msgstr "Assombrado"
 
 #: src/ItemGenerator.cpp:430
 msgid "Unearthly"
-msgstr ""
+msgstr "Sobrenatural"
 
 #: src/ItemGenerator.cpp:431
 msgid "Kingly"
-msgstr ""
+msgstr "Majestoso"
 
 #: src/ItemGenerator.cpp:432
 msgid "Smoking"
@@ -1065,19 +1064,19 @@ msgstr "Fumante"
 
 #: src/ItemGenerator.cpp:433
 msgid "Weird"
-msgstr ""
+msgstr "Esquisito"
 
 #: src/ItemGenerator.cpp:434
 msgid "Strange"
-msgstr ""
+msgstr "Estranho"
 
 #: src/ItemGenerator.cpp:435
 msgid "Peculiar"
-msgstr ""
+msgstr "Peculiar"
 
 #: src/ItemGenerator.cpp:436
 msgid "Unnatural"
-msgstr ""
+msgstr "Não natural"
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
@@ -1085,267 +1084,267 @@ msgstr "Grotesco"
 
 #: src/ItemGenerator.cpp:438
 msgid "Fantastic"
-msgstr ""
+msgstr "Fantástico"
 
 #: src/ItemGenerator.cpp:439
 msgid "Bizarre"
-msgstr ""
+msgstr "Bizarro"
 
 #: src/ItemGenerator.cpp:440
 msgid "Uncanny"
-msgstr ""
+msgstr "Estranho"
 
 #: src/ItemGenerator.cpp:441
 msgid "Pale"
-msgstr ""
+msgstr "Pálido"
 
 #: src/ItemGenerator.cpp:442
 msgid "Magnificent"
-msgstr ""
+msgstr "Magnífico"
 
 #: src/ItemGenerator.cpp:443
 msgid "Angelic"
-msgstr ""
+msgstr "Angelical"
 
 #: src/ItemGenerator.cpp:444 src/AffinityDemon.cpp:17
 msgid "Demonic"
-msgstr ""
+msgstr "Demoniaco"
 
 #: src/ItemGenerator.cpp:445
 msgid "Resplendent"
-msgstr ""
+msgstr "Resplandecente"
 
 #: src/ItemGenerator.cpp:448
 msgid "Terrible"
-msgstr ""
+msgstr "Terrrivel"
 
 #: src/ItemGenerator.cpp:449
 msgid "Possessed"
-msgstr ""
+msgstr "Possuido"
 
 #: src/ItemGenerator.cpp:450 src/ItemAttribute.cpp:629
 msgid "Haunted"
-msgstr ""
+msgstr "Assombrado"
 
 #: src/ItemGenerator.cpp:451
 msgid "Unpleasant"
-msgstr ""
+msgstr "Desagrádavel"
 
 #: src/ItemGenerator.cpp:452
 msgid "Inconvenient"
-msgstr ""
+msgstr "Inconveniente"
 
 #: src/ItemGenerator.cpp:453
 msgid "Unnerving"
-msgstr ""
+msgstr "Irritante"
 
 #: src/ItemGenerator.cpp:454
 msgid "Repulsive"
-msgstr ""
+msgstr "Repulsivo"
 
 #: src/ItemGenerator.cpp:455 src/ItemAttribute.cpp:824
 msgid "Unfortunate"
-msgstr ""
+msgstr "Desafortunado"
 
 #: src/ItemGenerator.cpp:456
 msgid "Fetid"
-msgstr ""
+msgstr "Fétido"
 
 #: src/ItemGenerator.cpp:457
 msgid "Rancid"
-msgstr ""
+msgstr "Rançoso"
 
 #: src/ItemGenerator.cpp:458
 msgid "Stinking"
-msgstr ""
+msgstr "Podre"
 
 #: src/ItemGenerator.cpp:459
 msgid "Foul-smelling"
-msgstr ""
+msgstr "Fedorento"
 
 #: src/ItemGenerator.cpp:460
 msgid "Foul"
-msgstr ""
+msgstr "Tolo"
 
 #: src/ItemGenerator.cpp:461
 msgid "Malodorous"
-msgstr ""
+msgstr "Malcheiroso"
 
 #: src/ItemGenerator.cpp:462
 msgid "Putrid"
-msgstr ""
+msgstr "Putrido"
 
 #: src/ItemGenerator.cpp:463
 msgid "Evil-smelling"
-msgstr ""
+msgstr "Cheiro Demoniaco"
 
 #: src/ItemGenerator.cpp:464
 msgid "Unsightly"
-msgstr ""
+msgstr "Disforme"
 
 #: src/ItemGenerator.cpp:465
 msgid "Corrupt"
-msgstr ""
+msgstr "Corrupto"
 
 #: src/ItemGenerator.cpp:466
 msgid "Malicious"
-msgstr ""
+msgstr "Malicioso"
 
 #: src/ItemGenerator.cpp:467
 msgid "Wicked"
-msgstr ""
+msgstr "Imoral"
 
 #: src/ItemGenerator.cpp:468
 msgid "Vile"
-msgstr ""
+msgstr "Vil"
 
 #: src/ItemGenerator.cpp:473
 msgid "Faena's"
-msgstr ""
+msgstr "Faena's"
 
 #: src/ItemGenerator.cpp:474
 msgid "Atoru's"
-msgstr ""
+msgstr "Atoru's"
 
 #: src/ItemGenerator.cpp:475
 msgid "Odenar's"
-msgstr ""
+msgstr "Odenar's"
 
 #: src/ItemGenerator.cpp:476
 msgid "Vihena's"
-msgstr ""
+msgstr "Vihena's"
 
 #: src/ItemGenerator.cpp:477
 msgid "Zudite's"
-msgstr ""
+msgstr "Zudite's"
 
 #: src/ItemGenerator.cpp:478
 msgid "Yorr's"
-msgstr ""
+msgstr "Yorr's"
 
 #: src/ItemGenerator.cpp:479
 msgid "Galdir's"
-msgstr ""
+msgstr "Galdir's"
 
 #: src/ItemGenerator.cpp:480
 msgid "Zyheia's"
-msgstr ""
+msgstr "Zyheia's"
 
 #: src/ItemGenerator.cpp:481
 msgid "Hyone's"
-msgstr ""
+msgstr "Hyone's"
 
 #: src/ItemGenerator.cpp:482
 msgid "Xiqzotl's"
-msgstr ""
+msgstr "Xiqzotl's"
 
 #: src/ItemGenerator.cpp:483
 msgid "Imir's"
-msgstr ""
+msgstr "Imir's"
 
 #: src/ItemGenerator.cpp:484
 msgid "Urist's"
-msgstr ""
+msgstr "Urist's"
 
 #: src/ItemGenerator.cpp:489
 msgid "Black"
-msgstr ""
+msgstr "Negro"
 
 #: src/ItemGenerator.cpp:490
 msgid "White"
-msgstr ""
+msgstr "Branco"
 
 #: src/ItemGenerator.cpp:491
 msgid "Lava-Forged"
-msgstr ""
+msgstr "Forjado em Lava"
 
 #: src/ItemGenerator.cpp:492
 msgid "Twilight"
-msgstr ""
+msgstr "Crepúsculo"
 
 #: src/ItemGenerator.cpp:493
 msgid "Shining"
-msgstr ""
+msgstr "Iluminado"
 
 #: src/ItemGenerator.cpp:494
 msgid "Winter"
-msgstr ""
+msgstr "Inverno"
 
 #: src/ItemGenerator.cpp:495
 msgid "Summer"
-msgstr ""
+msgstr "Verão"
 
 #: src/ItemGenerator.cpp:496
 msgid "Forgotten"
-msgstr ""
+msgstr "Esquecido"
 
 #: src/ItemGenerator.cpp:497
 msgid "Screaming"
-msgstr ""
+msgstr "Gritando"
 
 #: src/ItemGenerator.cpp:498
 msgid "Brooding"
-msgstr ""
+msgstr "Ninhada"
 
 #: src/ItemGenerator.cpp:499
 msgid "Sentient"
-msgstr ""
+msgstr "Autoconsciente"
 
 #: src/ItemGenerator.cpp:503
 msgid "Relic"
-msgstr ""
+msgstr "Relíquia"
 
 #: src/ItemGenerator.cpp:504
 msgid "Curio"
-msgstr ""
+msgstr "Raro"
 
 #: src/ItemGenerator.cpp:506
 msgid "Token"
-msgstr ""
+msgstr "Símbolo"
 
 #: src/ItemGenerator.cpp:507 src/Stats.cpp:131
 msgid "Trophy"
-msgstr ""
+msgstr "Troféu"
 
 #: src/ItemGenerator.cpp:508
 msgid "Vestige"
-msgstr ""
+msgstr "Vestígio"
 
 #: src/ItemGenerator.cpp:509
 msgid "Remnant"
-msgstr ""
+msgstr "Remanescente"
 
 #: src/ItemGenerator.cpp:510
 msgid "Fragment"
-msgstr ""
+msgstr "Fragmento"
 
 #: src/ItemGenerator.cpp:511
 msgid "Legacy"
-msgstr ""
+msgstr "Legado"
 
 #: src/ItemGenerator.cpp:512
 msgid "Elation"
-msgstr ""
+msgstr "Euforia"
 
 #: src/ItemGenerator.cpp:513
 msgid "Disappointment"
-msgstr ""
+msgstr "Desapontamento"
 
 #: src/ItemGenerator.cpp:514
 msgid "Sorrow"
-msgstr ""
+msgstr "Lamento"
 
 #: src/ItemGenerator.cpp:806
 msgid "Courageous"
-msgstr ""
+msgstr "Corajoso"
 
 #: src/AffinityAnimal.cpp:12
 msgid "Animal"
-msgstr ""
+msgstr "Animal"
 
 #: src/AffinityAnimal.cpp:13
 msgid "Lion's Roar"
-msgstr ""
+msgstr "Rujido"
 
 #: src/AffinityAnimal.cpp:13
 msgid "Tap interact while holding up to unleash an intimidating roar."
