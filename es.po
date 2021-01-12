@@ -17,6 +17,7 @@ msgstr ""
 "X-Generator: Poedit 2.4.2\n"
 "Last-Translator: \n"
 "Language: es\n"
+"PO-Revision-Date: \n"
 
 #: src/AffinityPetDefense.cpp:12
 msgid "Pet Bond"
@@ -1387,7 +1388,7 @@ msgstr "VAZIO"
 
 #: src/GuiFriendBrowser.cpp:251
 msgid "JOIN GAME"
-msgstr "JUNTAR-SE AO JOGO"
+msgstr "JUNTAR-SE"
 
 #: src/Item.cpp:460
 msgid "Treasure Key"
