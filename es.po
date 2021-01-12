@@ -4046,7 +4046,7 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1697
 msgid "Critical"
-msgstr ""
+msgstr "Crítico"
 
 #: src/PlayerMenu.cpp:1697
 #, c-format
