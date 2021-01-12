@@ -2424,7 +2424,7 @@ msgstr ""
 
 #: src/Item.cpp:1123
 msgid "Dragon Head"
-msgstr ""
+msgstr "Cabeça de Dragão"
 
 #: src/Item.cpp:1124
 msgid "The head of a dragon."
