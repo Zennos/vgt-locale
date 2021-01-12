@@ -1081,7 +1081,7 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
-msgstr ""
+msgstr "Grotesco"
 
 #: src/ItemGenerator.cpp:438
 msgid "Fantastic"
