@@ -1065,23 +1065,23 @@ msgstr ""
 
 #: src/ItemGenerator.cpp:433
 msgid "Weird"
-msgstr ""
+msgstr "Esquesito"
 
 #: src/ItemGenerator.cpp:434
 msgid "Strange"
-msgstr ""
+msgstr "Estranho"
 
 #: src/ItemGenerator.cpp:435
 msgid "Peculiar"
-msgstr ""
+msgstr "Peculiar"
 
 #: src/ItemGenerator.cpp:436
 msgid "Unnatural"
-msgstr ""
+msgstr "Não natural"
 
 #: src/ItemGenerator.cpp:437
 msgid "Grotesque"
-msgstr ""
+msgstr "Grotesco"
 
 #: src/ItemGenerator.cpp:438
 msgid "Fantastic"
@@ -4046,7 +4046,7 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1697
 msgid "Critical"
-msgstr ""
+msgstr "Crítico"
 
 #: src/PlayerMenu.cpp:1697
 #, c-format
