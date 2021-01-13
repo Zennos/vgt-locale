@@ -503,7 +503,7 @@ msgstr "Discípulo do Ferreiro"
 msgid ""
 "The Smith looks favorably upon devotees that take care of their equipment."
 msgstr ""
-"O Ferreiro parece favorável para os devotos dos cuidados com seus "
+"A Bigorna parece favorável para os devotos dos cuidados com seus "
 "equipamentos."
 
 #: src/Background.cpp:183
@@ -630,7 +630,7 @@ msgstr "Movimento Avançado"
 
 #: src/AffinityArchery.cpp:15
 msgid "Enables strafing and jumping while drawing a bow."
-msgstr "Permite correr e pular enquanto pressiona o Arco."
+msgstr "Permite correr e pular enquanto usa o Arco."
 
 #: src/AffinityArchery.cpp:16
 msgid "Rebound"
@@ -2088,7 +2088,7 @@ msgstr ""
 
 #: src/Item.cpp:840 src/AffinityDagger.cpp:16
 msgid "Dagger"
-msgstr ""
+msgstr "Adaga"
 
 #: src/Item.cpp:841
 msgid "Its small size belies its sharp point."
@@ -2162,7 +2162,7 @@ msgstr ""
 
 #: src/Item.cpp:894
 msgid "Snowball"
-msgstr ""
+msgstr "Bola de Neve"
 
 #: src/Item.cpp:895
 msgid "Fly straight and true, hit hard and square!"
@@ -3353,7 +3353,7 @@ msgstr ""
 
 #: src/Skill.cpp:73
 msgid "Exert a mysterious force on surrounding entities."
-msgstr ""
+msgstr "Exerce uma força misteriosa sob entidades ao redor."
 
 #: src/Skill.cpp:82
 msgid "Create a portal, or teleport to an existing one."
@@ -3365,23 +3365,23 @@ msgstr "Teletransporta instantaneamente para uma nova localização."
 
 #: src/Skill.cpp:103
 msgid "Create Potion"
-msgstr ""
+msgstr "Criar Poção"
 
 #: src/Skill.cpp:104
 msgid "Create a new random potion."
-msgstr ""
+msgstr "Cria uma nova poção aleatória."
 
 #: src/Skill.cpp:111
 msgid "Throw Potion"
-msgstr ""
+msgstr "Jogar Poção"
 
 #: src/Skill.cpp:112
 msgid "Throw the first potion in your inventory."
-msgstr ""
+msgstr "Joga a primeira poção em seu invertario."
 
 #: src/Skill.cpp:118
 msgid "Toss a ball of incredibly cold magic."
-msgstr ""
+msgstr "Jogue uma esfera magica incrivelmente fria."
 
 #: src/Skill.cpp:130
 msgid "Launch a burning mass of destruction."
@@ -3389,59 +3389,61 @@ msgstr ""
 
 #: src/Skill.cpp:140
 msgid "Charm a target enemy."
-msgstr ""
+msgstr "Encante um inimigo."
 
 #: src/Skill.cpp:151
 msgid "Summon a friendly monster that will attack enemies."
-msgstr ""
+msgstr "Invoca uma criatura aliada que irá atacar inimigos."
 
 #: src/Skill.cpp:160
 msgid "Summon the power of storms upon your enemies."
-msgstr ""
+msgstr "Invoca uma poderosa tempestade sobre os inimigos."
 
 #: src/Skill.cpp:173
 msgid "Powerful electricity will arc to multiple enemies."
-msgstr ""
+msgstr "Cria um arco elétrico que acerta múltiplos inimigos."
 
 #: src/Skill.cpp:186
 msgid "Summon spirits to protect you."
-msgstr ""
+msgstr "Invoca espíritos que irão te proteger."
 
 #: src/Skill.cpp:196
 msgid "Cast a homing physical attack."
-msgstr ""
+msgstr "Lança projeteis teleguiados que causam dano físico."
 
 #: src/Skill.cpp:210
 msgid "Manipulate certain objects with your mind, then toss them at your foes."
 msgstr ""
+"Manipula certos objetos com sua mente e, em seguida, lance-os contra "
+"inimigos."
 
 #: src/Skill.cpp:220
 msgid "Launch an earth-trembling wave of destruction."
-msgstr ""
+msgstr "Lança uma onda estremecedora da destruição."
 
 #: src/Skill.cpp:232
 msgid "Release an otherworldly burst of cold flame."
-msgstr ""
+msgstr "Lance uma explosão de chamas geladas de outro mundo."
 
 #: src/Skill.cpp:246
 msgid "Summon a circle of light that heals allies and damages enemies."
-msgstr ""
+msgstr "Invoca um circulo de luz que cura aliados e causa danos à inimigos."
 
 #: src/Skill.cpp:257
 msgid "Thrust with powerful photonic energies."
-msgstr ""
+msgstr "Eletrocute inimigos a sua frente."
 
 #: src/Skill.cpp:268
 msgid "Deep-freeze your surroundings."
-msgstr ""
+msgstr "Congela ao seu arredor."
 
 #: src/Skill.cpp:278
 msgid "Call forth a raging inferno before you."
-msgstr ""
+msgstr "Invoque uma parede de chamas à sua frente."
 
 #: src/Skill.cpp:288
 msgid "A forbidden technique developed by cursed immortal beings."
-msgstr ""
+msgstr "Uma esquecida técnica desenvolvida por seres imortais."
 
 #: src/Skill.cpp:300
 msgid "Sheath your body in a holy shield of invulnerability."
@@ -3453,7 +3455,7 @@ msgstr ""
 
 #: src/Skill.cpp:318
 msgid "Throw a bone."
-msgstr ""
+msgstr "Jogue seus ossos."
 
 #: src/Skill.cpp:326
 msgid "Raise shards of ice from the ground."
@@ -3465,7 +3467,7 @@ msgstr ""
 
 #: src/Skill.cpp:343
 msgid "Whistle for your companion."
-msgstr ""
+msgstr "Chame pelo seu companheiro."
 
 #: src/Skill.cpp:386
 msgid "Dash"
@@ -3582,37 +3584,39 @@ msgstr ""
 
 #: src/Skill.cpp:518
 msgid "Level: {1}"
-msgstr ""
+msgstr "Level: {1}"
 
 #: src/AffinityDagger.cpp:17
 msgid "Anatomy Studies"
-msgstr ""
+msgstr "Estudos de Anatomia"
 
 #: src/AffinityDagger.cpp:17
 msgid "Increased dagger damage and critical chance."
-msgstr ""
+msgstr "Aumenta o dano e chance critica de adagas."
 
 #: src/AffinityDagger.cpp:18
 msgid "Dagger Tricks"
-msgstr ""
+msgstr "Truques de Adaga"
 
 #: src/AffinityDagger.cpp:18
 msgid ""
 "Hold up and attack to throw your dagger. Thrown daggers will return to their "
 "owner."
 msgstr ""
+"Segura pra Cima (⇧) e ataque para jogar sua adaga. Adagas jogadas irão "
+"retornar ao seu dono."
 
 #: src/AffinityDagger.cpp:19
 msgid "Dagger Mastery"
-msgstr ""
+msgstr "Mestre das Adagas"
 
 #: src/AffinityDagger.cpp:19
 msgid "Thrown daggers strike twice."
-msgstr ""
+msgstr "Jogue adagas que acertam duas vezes."
 
 #: src/AffinityDemon.cpp:18
 msgid "Familiar 1"
-msgstr ""
+msgstr "Familiar 1"
 
 #: src/AffinityDemon.cpp:18
 msgid ""
@@ -4027,13 +4031,13 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1691
 msgid "Cold Resist"
-msgstr "Resistência à Frio"
+msgstr "Resistência à Gelo"
 
 #: src/PlayerMenu.cpp:1691
 msgid ""
 "Each point of cold resistance increases your resistance to cold damage by 25%"
 msgstr ""
-"A cada ponto de resistência à frio aumenta sua resistência contra danos de "
+"A cada ponto de resistência à gelo aumenta sua resistência contra danos de "
 "gelo em 25%"
 
 #: src/PlayerMenu.cpp:1692
@@ -4095,7 +4099,7 @@ msgstr "% de aumento em velocidade de ataque."
 
 #: src/PlayerMenu.cpp:1699
 msgid "Move Speed"
-msgstr "Velocidade de Movimentação"
+msgstr "Agilidade"
 
 #: src/PlayerMenu.cpp:1699
 msgid "Increased movement speed amount."
@@ -4340,7 +4344,7 @@ msgstr ""
 
 #: src/AffinityCaster.cpp:16
 msgid "Critical Magic"
-msgstr ""
+msgstr "Magia Crítica"
 
 #: src/AffinityCaster.cpp:16
 msgid "Chance to deal critical spell damage."
@@ -4364,15 +4368,15 @@ msgstr ""
 
 #: src/Affinity.cpp:105
 msgid "Level {1} (NEXT)"
-msgstr ""
+msgstr "Level {1} (PRÓXIMO)"
 
 #: src/Affinity.cpp:111
 msgid "Level {1} (MAXED)"
-msgstr ""
+msgstr "Level {1} (MÁXIMO)"
 
 #: src/Affinity.cpp:115
 msgid "Level {1} (LEARNED)"
-msgstr ""
+msgstr "Level {1} (APRENDIDO)"
 
 #: src/NetMenu.cpp:135
 msgid "Lobby Name"
@@ -4710,7 +4714,7 @@ msgstr ""
 
 #: src/StatusEffect.cpp:225 src/AffinityShadow.cpp:17
 msgid "Stealth"
-msgstr ""
+msgstr "Furtividade"
 
 #: src/StatusEffect.cpp:226
 msgid "You are now one with the shadows."
@@ -5419,61 +5423,61 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:476
 msgid "Greedy"
-msgstr ""
+msgstr "Ganancioso"
 
 #: src/ItemAttribute.cpp:478
 msgid "Gold Repellent"
-msgstr ""
+msgstr "Repelente de Dinheiro"
 
 #: src/ItemAttribute.cpp:484
 msgid "of Weakness"
-msgstr ""
+msgstr "da Fraqueza"
 
 #: src/ItemAttribute.cpp:485
 msgid "-{1} damage"
-msgstr ""
+msgstr "-{1} dano"
 
 #: src/ItemAttribute.cpp:489
 msgid "+{1} damage"
-msgstr ""
+msgstr "+{1} dano"
 
 #: src/ItemAttribute.cpp:490
 msgid "of Slaying"
-msgstr ""
+msgstr "da Matança"
 
 #: src/ItemAttribute.cpp:506
 msgid "of Negligence"
-msgstr ""
+msgstr "da Negligência"
 
 #: src/ItemAttribute.cpp:507
 #, c-format
 msgid "-{1}% critical chance"
-msgstr ""
+msgstr "-{1}% chance crítica"
 
 #: src/ItemAttribute.cpp:511
 #, c-format
 msgid "+{1}% critical chance"
-msgstr ""
+msgstr "+{1}% chance crítica"
 
 #: src/ItemAttribute.cpp:512
 msgid "of Insight"
-msgstr ""
+msgstr "da Precisão"
 
 #: src/ItemAttribute.cpp:526 src/ItemAttribute.cpp:757
 msgid "+{1} defense"
-msgstr ""
+msgstr "+{1} defesa"
 
 #: src/ItemAttribute.cpp:527
 msgid "of Protection"
-msgstr ""
+msgstr "da Proteção"
 
 #: src/ItemAttribute.cpp:529 src/ItemAttribute.cpp:762
 msgid "-{1} defense"
-msgstr ""
+msgstr "-{1} defesa"
 
 #: src/ItemAttribute.cpp:530
 msgid "of Thin Skin"
-msgstr ""
+msgstr "da Pele Frágil"
 
 #: src/ItemAttribute.cpp:534
 msgid "Heavy Punches"
@@ -5531,7 +5535,7 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:562 src/ItemAttribute.cpp:563
 msgid "Envenomed"
-msgstr ""
+msgstr "Envenenado"
 
 #: src/ItemAttribute.cpp:566
 msgid "Weightless Arrows"
@@ -5611,7 +5615,7 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:618 src/ItemAttribute.cpp:620
 msgid "Venomous"
-msgstr ""
+msgstr "Toxicante"
 
 #: src/ItemAttribute.cpp:619
 msgid "Take extra poison damage when attacked"
@@ -5859,7 +5863,7 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:769
 msgid "+{1} fire resist"
-msgstr ""
+msgstr "+{1} resistência à fogo"
 
 #: src/ItemAttribute.cpp:770
 msgid "Vermillion"
@@ -5867,31 +5871,31 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:774
 msgid "-{1} fire resist"
-msgstr ""
+msgstr "-{1} resistência à fogo"
 
 #: src/ItemAttribute.cpp:775
 msgid "Charcoal"
-msgstr ""
+msgstr "Carvão"
 
 #: src/ItemAttribute.cpp:781
 msgid "+{1} cold resist"
-msgstr ""
+msgstr "+{1} resistência à gelo"
 
 #: src/ItemAttribute.cpp:782
 msgid "Cobalt"
-msgstr ""
+msgstr "Cobalto"
 
 #: src/ItemAttribute.cpp:786
 msgid "-{1} cold resist"
-msgstr ""
+msgstr "-{1} resistência à gelo"
 
 #: src/ItemAttribute.cpp:787
 msgid "Brittle"
-msgstr ""
+msgstr "Frágil"
 
 #: src/ItemAttribute.cpp:794
 msgid "+{1} poison resist"
-msgstr ""
+msgstr "+{1} resistência à veneno"
 
 #: src/ItemAttribute.cpp:795
 msgid "Mantis"
@@ -5899,15 +5903,15 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:799
 msgid "-{1} poison resist"
-msgstr ""
+msgstr "-{1} resistência à veneno"
 
 #: src/ItemAttribute.cpp:800
 msgid "Nauseating"
-msgstr ""
+msgstr "Nauseante"
 
 #: src/ItemAttribute.cpp:806
 msgid "+{1} lightning resist"
-msgstr ""
+msgstr "+{1} resistência à choque"
 
 #: src/ItemAttribute.cpp:807
 msgid "Ochre"
@@ -5915,177 +5919,182 @@ msgstr ""
 
 #: src/ItemAttribute.cpp:811
 msgid "-{1} lightning resist"
-msgstr ""
+msgstr "-{1} resistência à choque"
 
 #: src/ItemAttribute.cpp:812
 msgid "Moist"
-msgstr ""
+msgstr "Úmida"
 
 #: src/ItemAttribute.cpp:818
 msgid "+{1} all resistances"
-msgstr ""
+msgstr "+{1} à todas as resistências"
 
 #: src/ItemAttribute.cpp:819
 msgid "Prismatic"
-msgstr ""
+msgstr "Prismática"
 
 #: src/ItemAttribute.cpp:823
 msgid "-{1} all resistances"
-msgstr ""
+msgstr "-{1} à todas as resistências"
 
 #: src/ItemAttribute.cpp:828
 msgid "Coated with poison"
-msgstr ""
+msgstr "Banhada em veneno"
 
 #: src/ItemAttribute.cpp:829
 msgid "Poisonous"
-msgstr ""
+msgstr "Venenoso"
 
 #: src/ItemAttribute.cpp:835
 msgid "+{1} strength"
-msgstr ""
+msgstr "+{1} força"
 
 #: src/ItemAttribute.cpp:836
 msgid "of Strength"
-msgstr ""
+msgstr "da Força"
 
 #: src/ItemAttribute.cpp:840
 msgid "-{1} strength"
-msgstr ""
+msgstr "-{1} força"
 
 #: src/ItemAttribute.cpp:841
 msgid "of Weakening"
-msgstr ""
+msgstr "da Enfraquecimento"
 
 #: src/ItemAttribute.cpp:848
 msgid "+{1} dexterity"
-msgstr ""
+msgstr "+{1} destreza"
 
 #: src/ItemAttribute.cpp:849
 msgid "of Dexterity"
-msgstr ""
+msgstr "da Destreza"
 
 #: src/ItemAttribute.cpp:853
 msgid "-{1} dexterity"
-msgstr ""
+msgstr "-{1} destreza"
 
 #: src/ItemAttribute.cpp:854
 msgid "of Fumbling"
-msgstr ""
+msgstr "do Desastrado"
 
 #: src/ItemAttribute.cpp:861
 msgid "+{1} vitality"
-msgstr ""
+msgstr "+{1} vitalidade"
 
 #: src/ItemAttribute.cpp:862
 msgid "of Vitality"
-msgstr ""
+msgstr "da Vitalidade"
 
 #: src/ItemAttribute.cpp:866
 msgid "-{1} vitality"
-msgstr ""
+msgstr "-{1} vitalidade"
 
 #: src/ItemAttribute.cpp:867
 msgid "of Debilitation"
-msgstr ""
+msgstr "da Decadência"
 
 #: src/ItemAttribute.cpp:874
 msgid "+{1} speed"
-msgstr ""
+msgstr "+{1} agilidade"
 
 #: src/ItemAttribute.cpp:875
 msgid "of Speed"
-msgstr ""
+msgstr "da Rapidez"
 
 #: src/ItemAttribute.cpp:879
 msgid "-{1} speed"
-msgstr ""
+msgstr "-{1} agilidade"
 
 #: src/ItemAttribute.cpp:880
 msgid "of Lethargy"
-msgstr ""
+msgstr "da Lentidão"
 
 #: src/ItemAttribute.cpp:887
 msgid "+{1} stability"
-msgstr ""
+msgstr "+{1} equilíbrio"
 
 #: src/ItemAttribute.cpp:888
 msgid "of Stability"
-msgstr ""
+msgstr "do Equilíbrio"
 
 #: src/ItemAttribute.cpp:892
 msgid "-{1} stability"
-msgstr ""
+msgstr "-{1} equilíbrio"
 
 #: src/ItemAttribute.cpp:893
 msgid "of Unsteadiness"
-msgstr ""
+msgstr "do Desequilíbrio"
 
 #: src/ItemAttribute.cpp:900
 msgid "+{1} intelligence"
-msgstr ""
+msgstr "+{1} inteligência"
 
 #: src/ItemAttribute.cpp:901
 msgid "of Intelligence"
-msgstr ""
+msgstr "da Sabedoria"
 
 #: src/ItemAttribute.cpp:905
 msgid "-{1} intelligence"
-msgstr ""
+msgstr "-{1} inteligência"
 
 #: src/ItemAttribute.cpp:906
 msgid "of Stupidity"
-msgstr ""
+msgstr "da Estupidez"
 
 #: src/ItemAttribute.cpp:913
 msgid "+{1} luck"
-msgstr ""
+msgstr "+{1} sorte"
 
 #: src/ItemAttribute.cpp:914
 msgid "of Luck"
-msgstr ""
+msgstr "da Sorte"
 
 #: src/ItemAttribute.cpp:918
 msgid "-{1} luck"
-msgstr ""
+msgstr "-{1} sorte"
 
 #: src/ItemAttribute.cpp:919
 msgid "of Unluckiness"
-msgstr ""
+msgstr "do Azar"
 
 #: src/AffinityShadow.cpp:16
 msgid "Shadow"
-msgstr ""
+msgstr "Sombra"
 
 #: src/AffinityShadow.cpp:17
 msgid "Enter stealth mode by ducking."
-msgstr ""
+msgstr "Entre em modo furtivo agachando-se."
 
 #: src/AffinityShadow.cpp:18
 msgid "Shadow Attunement"
-msgstr ""
+msgstr "Harmonia com a Sombra"
 
 #: src/AffinityShadow.cpp:18
 msgid "Enter stealth mode quicker. Opening chests no longer breaks stealth."
 msgstr ""
+"Entre em modo furtivo mais rápido. Abrir baús não irá mais quebrar o modo "
+"furtivo."
 
 #: src/AffinityShadow.cpp:19
 msgid "Moving Shadow"
-msgstr ""
+msgstr "Vulto"
 
 #: src/AffinityShadow.cpp:19
 msgid ""
 "Attacks out of stealth critically hit. Stealth automatically when out of "
 "combat."
 msgstr ""
+"Ataques que quebram o modo furtivo provocam dano crítico. Entra e modo "
+"furtivo automaticamente fora de combate."
 
 #: src/AffinityShadow.cpp:20
 msgid "Strike of Darkness"
-msgstr ""
+msgstr "Ataque da Escuridão"
 
 #: src/AffinityShadow.cpp:20
 msgid "Entering stealth releases a cloud of smoke. Increased critical damage."
 msgstr ""
+"Entrar em modo furtivo lança uma bomba de fumaça. Aumento em dano crítico."
 
 #: src/AffinityDefense.cpp:11
 msgid "Defensive Stance"
@@ -6371,47 +6380,56 @@ msgstr ""
 
 #: src/Client.cpp:9006
 msgid "Most traps can be triggered by dropped items."
-msgstr ""
+msgstr "A maioria das armadilhas podem ser ativadas jogando itens nelas."
 
 #: src/Client.cpp:9007
 msgid "Your controls can always be configured in the options."
-msgstr ""
+msgstr "Seus controles podem ser configurados nas opções."
 
 #: src/Client.cpp:9008
 msgid "Sacrifice extra equipment to The Smith for a chance at new gear."
 msgstr ""
+"Sacrifique equipamentos extras na Bigorna para ter chance de ganhar um "
+"equipamento novo."
 
 #: src/Client.cpp:9009
 msgid "Equip/unequip your spells in the spellbook tab of your menu."
 msgstr ""
+"Equipe/Desequipe suas magias utilizando a aba de magias que fica em seu menu."
 
 #: src/Client.cpp:9010
 msgid "Shrines to certain gods accept sacrifices in exchange for favor."
-msgstr ""
+msgstr "Alguns santuários te favorecem em troca de sacrifícios."
 
 #: src/Client.cpp:9011
 msgid "While poison deals damage over time, it will never kill you."
-msgstr ""
+msgstr "Apesar de veneno dar dano ao longo tempo, nunca irá te matar."
 
 #: src/Client.cpp:9012
 msgid "The Rogue is invincible to attacks while rolling."
-msgstr ""
+msgstr "O Ladino é invencível durante o rolamento."
 
 #: src/Client.cpp:9013
 msgid "Donate extra gold to The Light and you may receive his blessing."
 msgstr ""
+"Jogue moedas para A Fonte para a possibilidade de receber suas benções."
 
 #: src/Client.cpp:9014
 msgid ""
 "Elemental resistances max out at +4, granting you immunity to an element."
 msgstr ""
+"Resistências elementais maximizam quando maior ou igual a 4, dando você "
+"imunidade ao elemento."
 
 #: src/Client.cpp:9015
 msgid ""
 "It's possible to steal an item from the shop and escape the level before "
 "being noticed."
 msgstr ""
+"É possível roubar um item da loja e escapar da fase antes que você seja "
+"notado."
 
+# Precisamos de um nome para o shrine "The Deranged"
 #: src/Client.cpp:9016
 msgid ""
 "While The Deranged will accept any item as sacrifice, be wary of his "
