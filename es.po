@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-13 01:14-0300\n"
+"PO-Revision-Date: 2021-01-13 13:30-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3296,15 +3296,15 @@ msgstr ""
 
 #: src/Credits.cpp:645
 msgid "PROGRAMMING"
-msgstr "PROGRAMAÇÃO"
+msgstr "PROGRAMADORES"
 
 #: src/Credits.cpp:696
 msgid "GRAPHICS"
-msgstr "GRÁFICOS"
+msgstr "GRAFICOS"
 
 #: src/Credits.cpp:745
 msgid "MUSIC & SOUND"
-msgstr "MÚSICAS & ÁUDIO"
+msgstr "MUSICAS & AUDIO"
 
 #: src/Credits.cpp:802
 msgid "SPECIAL THANKS"
@@ -3320,7 +3320,7 @@ msgstr "Todos que nos apoiaram durante o Acesso Antecipado..."
 
 #: src/Credits.cpp:817
 msgid "And YOU!"
-msgstr "e VOCÊ"
+msgstr "E VOCE!"
 
 #: src/Credits.cpp:825
 msgid "THE END"
@@ -3328,7 +3328,7 @@ msgstr "FIM"
 
 #: src/Skill.cpp:54
 msgid "Dash a short distance."
-msgstr "Esquive por uma curta distância"
+msgstr "Esquive por uma curta distância."
 
 #: src/Skill.cpp:63
 msgid ""
@@ -3826,7 +3826,7 @@ msgstr "Segunda Chance"
 
 #: src/AffinityHoly.cpp:18
 msgid "Negate fatal damage once per floor."
-msgstr "Nega dano fatal uma vez por andar"
+msgstr "Nega dano fatal uma vez por andar."
 
 #: src/Level.cpp:6583
 msgid "Tutorial"
@@ -3936,8 +3936,8 @@ msgstr "Escolhas que magias serão usadas em Magia Rápida ou Troca Rápida."
 #: src/PlayerMenu.cpp:1558
 msgid "{1} point available"
 msgid_plural "{1} points available"
-msgstr[0] "{1} ponto disponível."
-msgstr[1] "{1} pontos disponíveis."
+msgstr[0] "{1} ponto disponível"
+msgstr[1] "{1} pontos disponíveis"
 
 #: src/PlayerMenu.cpp:1683 src/StatusEffect.cpp:80 src/AffinityStats.cpp:24
 msgid "Strength"
@@ -4075,7 +4075,7 @@ msgstr "Velocidade de Ataque"
 
 #: src/PlayerMenu.cpp:1698
 msgid "% Increased attack speed."
-msgstr "% de aumento em velocidade de ataque"
+msgstr "% de aumento em velocidade de ataque."
 
 #: src/PlayerMenu.cpp:1699
 msgid "Move Speed"
