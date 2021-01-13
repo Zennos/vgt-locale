@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-13 13:30-0300\n"
+"PO-Revision-Date: 2021-01-13 14:27-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -610,11 +610,11 @@ msgstr "Atacar enquanto estiver Furioso rouba vida. Aumenta duração da Fúria.
 
 #: src/AffinityBerserk.cpp:16
 msgid "Killing Bonus"
-msgstr "Matar da Bônus"
+msgstr "Bônus de Matança"
 
 #: src/AffinityBerserk.cpp:16
 msgid "Each enemy killed while berserking will increase your strength."
-msgstr "Cada inimigo morto enquanto em fúria irá aumentar sua força."
+msgstr "Cada inimigo morto enquanto em Furioso irá aumentar sua Força."
 
 #: src/AffinityBerserk.cpp:17
 msgid "Berserker's Blood 3"
@@ -677,8 +677,8 @@ msgid ""
 "Press [Interact] while holding left or right to roll. Holding a direction "
 "when taking fall damage will roll."
 msgstr ""
-"Aperte [Interagir] enquanto Pressiona para esquerda ou direita para rolar. "
-"Segurar uma direção quando tomar um dano de queda faz você rolar."
+"Aperte [Interagir] enquanto Pressiona para Esquerda(⇦) ou Direita(⇨) para "
+"rolar. Segurar uma direção ⇦⇨ quando tomar um Dano de Queda faz você Rolar."
 
 #: src/AffinityAcrobatics.cpp:18
 msgid "Advanced Maneuvers"
@@ -1346,37 +1346,43 @@ msgstr "Animal"
 
 #: src/AffinityAnimal.cpp:13
 msgid "Lion's Roar"
-msgstr "Rujido"
+msgstr "Rugido"
 
 #: src/AffinityAnimal.cpp:13
 msgid "Tap interact while holding up to unleash an intimidating roar."
 msgstr ""
+"Aperte [Interagir] enquanto Segura para Cima (⇧) para liberar um Rugido "
+"intimidante."
 
 #: src/AffinityAnimal.cpp:14
 msgid "Bear's Stomp"
-msgstr ""
+msgstr "Esmagar de Urso"
 
 #: src/AffinityAnimal.cpp:14
 msgid "While airborne, press down and jump to perform a crushing attack."
 msgstr ""
+"Enquanto estiver no Ar, Pressione Baixo (⇩) e Pule para fazer um ataque "
+"esmagador."
 
 #: src/AffinityAnimal.cpp:15
 msgid "Wolf's Sprint"
-msgstr ""
+msgstr "Espirito de Lobo"
 
 #: src/AffinityAnimal.cpp:15
 msgid ""
 "Press [Interact] while holding left or right to roll to enable inhuman "
 "sprint capabilities.  Cannot be used while exausted."
 msgstr ""
+"Pressione [Interagir] enquanto segura para Esquerda(⇦) ou Direita(⇨) para "
+"correr além de capacidades humanas. Não pode ser usado enquanto exausto."
 
 #: src/AffinityAnimal.cpp:16
 msgid "Eagle's Rise"
-msgstr ""
+msgstr "Ascenção de Águia"
 
 #: src/AffinityAnimal.cpp:16
 msgid "Hold up and press jump in mid-air to ascend!"
-msgstr ""
+msgstr "Segure para Cima(⇧) e aperte Pular no meio do ar para Ascender!"
 
 #: src/GuiFriendBrowser.cpp:162
 msgid "Friends Playing Vagante"
@@ -1740,99 +1746,100 @@ msgstr ""
 
 #: src/Item.cpp:626
 msgid "Scroll of Magic Mapping"
-msgstr ""
+msgstr "Pergaminho de Mapeamento Magico"
 
 #: src/Item.cpp:627
 msgid "Reveals the layout of the current level."
-msgstr ""
+msgstr "Revela todo o Mapa Atual."
 
 #: src/Item.cpp:628
 msgid "MAGIC MAPPING"
-msgstr ""
+msgstr "Mapa Magico"
 
 #: src/Item.cpp:631
 msgid "Scroll of Enchant"
-msgstr ""
+msgstr "Pergaminho de Encantamento"
 
 #: src/Item.cpp:632
 msgid "Permanently enchant an item."
-msgstr ""
+msgstr "Encanta permanentemente um item."
 
 #: src/Item.cpp:633
 msgid "ENCHANT"
-msgstr ""
+msgstr "ENCANTAMENTO"
 
 #: src/Item.cpp:638
 msgid "Scroll of Jump"
-msgstr ""
+msgstr "Pergaminho do Salto"
 
 #: src/Item.cpp:639
 msgid "Imbues the reader with the power to jump incredibly high once."
-msgstr ""
+msgstr "Imbui o leitor com um poder de salto extremamente alto."
 
 #: src/Item.cpp:640
 msgid "JUMP"
-msgstr ""
+msgstr "SALTO"
 
 #: src/Item.cpp:643
 msgid "Scroll of Teleport"
-msgstr ""
+msgstr "Pergaminho de Teleporte"
 
 #: src/Item.cpp:644
 msgid "Randomly teleport to another location."
-msgstr ""
+msgstr "Teleporta aleatoriamente para outro local."
 
 #: src/Item.cpp:645
 msgid "TELEPORT"
-msgstr ""
+msgstr "TELEPORTE"
 
 #: src/Item.cpp:648
 msgid "Scroll of Chaos"
-msgstr ""
+msgstr "Pergaminho do Caos"
 
 #: src/Item.cpp:649
 msgid "Unleashes powerful and unpredictable effects. Dangerous to the unlucky."
 msgstr ""
+"Libera um poderoso e imprevisível efeito. Perigoso á aqueles sem Sorte."
 
 #: src/Item.cpp:650
 msgid "CHAOS"
-msgstr ""
+msgstr "CAOS"
 
 #: src/Item.cpp:653
 msgid "Scroll of Recharge"
-msgstr ""
+msgstr "Pergaminho de Recarga"
 
 #: src/Item.cpp:654
 msgid "Apply to wands to replenish their magic charges."
-msgstr ""
+msgstr "Aplicado em Cajados para recarregar suas cargas magicas."
 
 #: src/Item.cpp:656
 msgid "RECHARGE"
-msgstr ""
+msgstr "RECARGA"
 
 #: src/Item.cpp:659
 msgid "Scroll of Uncurse"
-msgstr ""
+msgstr "Pergaminho de Anti-Maldição"
 
 #: src/Item.cpp:660
 msgid "Purifies all currently equipped items."
-msgstr ""
+msgstr "Purifica todos os itens equipados."
 
 #: src/Item.cpp:661
 msgid "UNCURSE"
-msgstr ""
+msgstr "ANTI-MALDIÇÃO"
 
 #: src/Item.cpp:664
 msgid "Scroll of Identify"
-msgstr ""
+msgstr "Pergaminho de Identificação"
 
 #: src/Item.cpp:665
 msgid "Apply to unidentified items to reveal their secrets."
-msgstr ""
+msgstr "Aplicado em Itens não identificados para revelar seus segredos."
 
 #: src/Item.cpp:666
 msgid "IDENTIFY"
-msgstr ""
+msgstr "IDENTIFICAR"
 
 #: src/Item.cpp:671
 msgid "Wooden Club"
