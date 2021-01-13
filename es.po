@@ -8,12 +8,12 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-12 20:21-0300\n"
+"PO-Revision-Date: 2021-01-13 01:14-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.4.2\n"
 "Last-Translator: \n"
 "Language: pt_BR\n"
@@ -3296,44 +3296,46 @@ msgstr ""
 
 #: src/Credits.cpp:645
 msgid "PROGRAMMING"
-msgstr ""
+msgstr "PROGRAMAÇÃO"
 
 #: src/Credits.cpp:696
 msgid "GRAPHICS"
-msgstr ""
+msgstr "GRÁFICOS"
 
 #: src/Credits.cpp:745
 msgid "MUSIC & SOUND"
-msgstr ""
+msgstr "MÚSICAS & ÁUDIO"
 
 #: src/Credits.cpp:802
 msgid "SPECIAL THANKS"
-msgstr ""
+msgstr "AGRADECIMENTO ESPECIAL"
 
 #: src/Credits.cpp:807
 msgid "Our friends and family..."
-msgstr ""
+msgstr "Nossos amigos e familiares..."
 
 #: src/Credits.cpp:812
 msgid "Everyone who supported us during Early Access..."
-msgstr ""
+msgstr "Todos que nos apoiaram durante o Acesso Antecipado..."
 
 #: src/Credits.cpp:817
 msgid "And YOU!"
-msgstr ""
+msgstr "e VOCÊ"
 
 #: src/Credits.cpp:825
 msgid "THE END"
-msgstr ""
+msgstr "FIM"
 
 #: src/Skill.cpp:54
 msgid "Dash a short distance."
-msgstr ""
+msgstr "Esquive por uma curta distância"
 
 #: src/Skill.cpp:63
 msgid ""
 "Temporarily gain a shield of fire that reduces damage and burns attackers."
 msgstr ""
+"Ganhe um escudo de fogo temporário em que reduz o dano recebido e incendeia "
+"inimigos."
 
 #: src/Skill.cpp:73
 msgid "Exert a mysterious force on surrounding entities."
@@ -3341,11 +3343,11 @@ msgstr ""
 
 #: src/Skill.cpp:82
 msgid "Create a portal, or teleport to an existing one."
-msgstr ""
+msgstr "Cria um portal, ou se teletransporta para um existente."
 
 #: src/Skill.cpp:93
 msgid "Instantly teleport to a new location."
-msgstr ""
+msgstr "Teletransporta instantaneamente para uma nova localização."
 
 #: src/Skill.cpp:103
 msgid "Create Potion"
@@ -3820,83 +3822,83 @@ msgstr ""
 
 #: src/AffinityHoly.cpp:18
 msgid "Second Chance"
-msgstr ""
+msgstr "Segunda Chance"
 
 #: src/AffinityHoly.cpp:18
 msgid "Negate fatal damage once per floor."
-msgstr ""
+msgstr "Nega dano fatal uma vez por andar"
 
 #: src/Level.cpp:6583
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #: src/Level.cpp:6595
 msgid "Dark Cavern {1}"
-msgstr ""
+msgstr "Gruta Escura {1}"
 
 #: src/Level.cpp:6599
 msgid "Dark Caves {1}"
-msgstr ""
+msgstr "Cavernas Escuras {1}"
 
 #: src/Level.cpp:6606
 msgid "Wilderness {1}"
-msgstr ""
+msgstr "Selva {1}"
 
 #: src/Level.cpp:6610
 msgid "Forest {1}"
-msgstr ""
+msgstr "Floresta {1}"
 
 #: src/Level.cpp:6617
 msgid "Crypts {1}"
-msgstr ""
+msgstr "Criptas {1}"
 
 #: src/Level.cpp:6621
 msgid "Catacombs {1}"
-msgstr ""
+msgstr "Catacumbas {1}"
 
 #: src/Level.cpp:6628
 msgid "Plane of Despair {1}"
-msgstr ""
+msgstr "Plano do Desespero {1}"
 
 #: src/Level.cpp:6632
 msgid "Rift {1}"
-msgstr ""
+msgstr "Fenda {1}"
 
 #: src/Level.cpp:6638
 msgid "Corrupted Temple"
-msgstr ""
+msgstr "Templo Corrupto"
 
 #: src/Level.cpp:6642
 msgid "The Ruins"
-msgstr ""
+msgstr "As Ruínas"
 
 #: src/Level.cpp:6648
 msgid "Halls of Blood"
-msgstr ""
+msgstr "Corredores de Sangue"
 
 #: src/Level.cpp:6652
 msgid "Forest Temple"
-msgstr ""
+msgstr "Templo da Floresta"
 
 #: src/Level.cpp:6659
 msgid "Corrupted Tower"
-msgstr ""
+msgstr "Torre Corrupta"
 
 #: src/Level.cpp:6663
 msgid "The Tower"
-msgstr ""
+msgstr "A Torre"
 
 #: src/Level.cpp:6670
 msgid "The Workshop"
-msgstr ""
+msgstr "A Oficina"
 
 #: src/Level.cpp:6674
 msgid "The Factory"
-msgstr ""
+msgstr "A Fábrica"
 
 #: src/SecretsBook.cpp:117
 msgid "Book of Secrets"
-msgstr ""
+msgstr "Livro dos Segredos"
 
 #: src/SecretsBook.cpp:152
 msgid "LOCKED"
@@ -3909,141 +3911,154 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1103 src/PlayerMenu.cpp:3479
 msgid "Quick Cast"
-msgstr ""
+msgstr "Magia Rápida"
 
 #: src/PlayerMenu.cpp:1103
 msgid "When enabled, cast specific spell depending on direction held."
-msgstr ""
+msgstr "Quando ativo, lance magias específicas dependendo da direção segurada."
 
 #: src/PlayerMenu.cpp:1107 src/PlayerMenu.cpp:3480
 msgid "Quick Swap"
-msgstr ""
+msgstr "Troca Rápida"
 
 #: src/PlayerMenu.cpp:1107
 msgid "When enabled, swap to specific spell depending on direction held."
-msgstr ""
+msgstr "Quando ativo, troque de magia dependendo da direção segurada."
 
 #: src/PlayerMenu.cpp:1111
 msgid "Configure Spells"
-msgstr ""
+msgstr "Configurar Magias"
 
 #: src/PlayerMenu.cpp:1111
 msgid "Choose which spells are used in Quick Cast or Quick Swap."
-msgstr ""
+msgstr "Escolhas que magias serão usadas em Magia Rápida ou Troca Rápida."
 
 #: src/PlayerMenu.cpp:1558
 msgid "{1} point available"
 msgid_plural "{1} points available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{1} ponto disponível."
+msgstr[1] "{1} pontos disponíveis."
 
 #: src/PlayerMenu.cpp:1683 src/StatusEffect.cpp:80 src/AffinityStats.cpp:24
 msgid "Strength"
-msgstr ""
+msgstr "Força"
 
 #: src/PlayerMenu.cpp:1683 src/AffinityStats.cpp:25
 msgid "Strength increases your damage, especially with melee weapons."
-msgstr ""
+msgstr "Força aumenta seu dano, principalmente em armas corpo a corpo."
 
 #: src/PlayerMenu.cpp:1684 src/AffinityStats.cpp:29
 msgid "Dexterity"
-msgstr ""
+msgstr "Destreza"
 
 #: src/PlayerMenu.cpp:1684
 msgid ""
 "Dexterity increases your attack speed and damage, especially with ranged "
 "weapons."
 msgstr ""
+"Destreza aumenta sua velocidade de ataque e dano, principalmente em armas de "
+"longo alcance."
 
 #: src/PlayerMenu.cpp:1685 src/AffinityStats.cpp:34
 msgid "Vitality"
-msgstr ""
+msgstr "Vitalidade"
 
 #: src/PlayerMenu.cpp:1685 src/AffinityStats.cpp:35
 msgid "Vitality increases your maximum health."
-msgstr ""
+msgstr "Vitalidade aumenta sua vida máxima."
 
 #: src/PlayerMenu.cpp:1686 src/AffinityStats.cpp:39
 msgid "Intelligence"
-msgstr ""
+msgstr "Inteligência"
 
 #: src/PlayerMenu.cpp:1686
 msgid ""
 "Intelligence affects spell power as well as the number of spell charge each "
 "spell has."
 msgstr ""
+"Inteligência afeta seu poder magico, assim como o número de cargas magica."
 
 #: src/PlayerMenu.cpp:1687 src/AffinityStats.cpp:44
 msgid "Luck"
-msgstr ""
+msgstr "Sorte"
 
 #: src/PlayerMenu.cpp:1687 src/AffinityStats.cpp:45
 msgid ""
 "Luck affects your critical strike rate and evasion, as well as chance based "
 "effects."
 msgstr ""
+"Sorte afeta sua chance de crítico e esquiva, assim como qualquer outro "
+"efeito baseado em chance."
 
 #: src/PlayerMenu.cpp:1689 src/AffinityDefense.cpp:10
 msgid "Defense"
-msgstr ""
+msgstr "Defesa"
 
 #: src/PlayerMenu.cpp:1689
 msgid "Defense is how resistant you are to physical damage."
-msgstr ""
+msgstr "Defesa é o quão resistente você é para ataque físicos."
 
 #: src/PlayerMenu.cpp:1690
 msgid "Fire Resist"
-msgstr ""
+msgstr "Resistência à fogo"
 
 #: src/PlayerMenu.cpp:1690
 msgid ""
 "Each point of fire resistance increases your resistance to fire damage by 25%"
 msgstr ""
+"A cada ponto de resistência à fogo aumenta sua resistência contra danos de "
+"fogo em 25%"
 
 #: src/PlayerMenu.cpp:1691
 msgid "Cold Resist"
-msgstr ""
+msgstr "Resistência à Frio"
 
 #: src/PlayerMenu.cpp:1691
 msgid ""
 "Each point of cold resistance increases your resistance to cold damage by 25%"
 msgstr ""
+"A cada ponto de resistência à frio aumenta sua resistência contra danos de "
+"gelo em 25%"
 
 #: src/PlayerMenu.cpp:1692
 msgid "Lightning Resist"
-msgstr ""
+msgstr "Resistência à Raios"
 
 #: src/PlayerMenu.cpp:1692
 msgid ""
 "Each point of lightning resistance increases your resistance to lightning "
 "damage by 25%"
 msgstr ""
+"A cada ponto de resistência à raios aumenta sua resistência contra danos de "
+"choque em 25%"
 
 #: src/PlayerMenu.cpp:1693
 msgid "Poison Resist"
-msgstr ""
+msgstr "Resistência a Veneno"
 
 #: src/PlayerMenu.cpp:1693
 msgid ""
 "Each point of poison resistance increases your resistance to poison damage "
 "by 25%"
 msgstr ""
+"A cada ponto de resistência à veneno aumenta sua resistência contra danos de "
+"veneno em 25%"
 
 #: src/PlayerMenu.cpp:1695
 msgid "Melee Damage"
-msgstr ""
+msgstr "Dano Corpo a Corpo"
 
 #: src/PlayerMenu.cpp:1695
 msgid "Increased damage of melee weapons."
-msgstr ""
+msgstr "Seu aumento de dano em armas corpo a corpo."
 
 #: src/PlayerMenu.cpp:1696
 msgid "Ranged Damage"
-msgstr ""
+msgstr "Dano a longa distância"
 
 #: src/PlayerMenu.cpp:1696
 msgid "Increased damage of thrown or ranged weapons."
-msgstr ""
+msgstr "Seu aumento de dano em armas de longo alcance e armas arremessáveis."
 
 #: src/PlayerMenu.cpp:1697
 msgid "Critical"
@@ -4052,23 +4067,23 @@ msgstr "Crítico"
 #: src/PlayerMenu.cpp:1697
 #, c-format
 msgid "% Chance of a critical hit."
-msgstr ""
+msgstr "% Chance de acerto crítico."
 
 #: src/PlayerMenu.cpp:1698
 msgid "Attack Speed"
-msgstr ""
+msgstr "Velocidade de Ataque"
 
 #: src/PlayerMenu.cpp:1698
 msgid "% Increased attack speed."
-msgstr ""
+msgstr "% de aumento em velocidade de ataque"
 
 #: src/PlayerMenu.cpp:1699
 msgid "Move Speed"
-msgstr ""
+msgstr "Velocidade de Movimentação"
 
 #: src/PlayerMenu.cpp:1699
 msgid "Increased movement speed amount."
-msgstr ""
+msgstr "Aumento em velocidade de movimento."
 
 #: src/PlayerMenu.cpp:1760
 msgid "Knight"
@@ -6144,75 +6159,75 @@ msgstr ""
 
 #: src/Input.cpp:48
 msgid "Left"
-msgstr ""
+msgstr "Esquerda"
 
 #: src/Input.cpp:49
 msgid "Right"
-msgstr ""
+msgstr "Direita"
 
 #: src/Input.cpp:50
 msgid "Up"
-msgstr ""
+msgstr "Cima"
 
 #: src/Input.cpp:51
 msgid "Down"
-msgstr ""
+msgstr "Baixo"
 
 #: src/Input.cpp:53
 msgid "Melee Attack"
-msgstr ""
+msgstr "Ataque Corpo a Corpo"
 
 #: src/Input.cpp:54
 msgid "Ranged Attack"
-msgstr ""
+msgstr "Ataque à Distância"
 
 #: src/Input.cpp:55
 msgid "Jump"
-msgstr ""
+msgstr "Pular"
 
 #: src/Input.cpp:56
 msgid "Cast Spell"
-msgstr ""
+msgstr "Lançar Magia"
 
 #: src/Input.cpp:58
 msgid "Swap/Cancel"
-msgstr ""
+msgstr "Trocar/Cancelar"
 
 #: src/Input.cpp:59
 msgid "Walk"
-msgstr ""
+msgstr "Andar"
 
 #: src/Input.cpp:60
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: src/Input.cpp:61
 msgid "Pause"
-msgstr ""
+msgstr "Pausar"
 
 #: src/Input.cpp:63
 msgid "Interact"
-msgstr ""
+msgstr "Interagir"
 
 #: src/Input.cpp:64
 msgid "Emote (Multiplayer Only)"
-msgstr ""
+msgstr "Emote (Apenas Online)"
 
 #: src/Input.cpp:65
 msgid "In-Game Chat (Multiplayer Only)"
-msgstr ""
+msgstr "Chat (Apenas Online)"
 
 #: src/Input.cpp:122
 msgid "HOLD A BUTTON"
-msgstr ""
+msgstr "SEGURE UM BOTÃO"
 
 #: src/Input.cpp:126
 msgid "HOLD A KEY"
-msgstr ""
+msgstr "SEGURE UMA TECLA"
 
 #: src/Input.cpp:151
 msgid "ERROR"
-msgstr ""
+msgstr "ERRO"
 
 #: src/Input.cpp:195
 msgctxt "Gamepad Binds"
