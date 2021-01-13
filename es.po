@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-13 14:27-0300\n"
+"PO-Revision-Date: 2021-01-13 17:22-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1754,7 +1754,7 @@ msgstr "Revela todo o Mapa Atual."
 
 #: src/Item.cpp:628
 msgid "MAGIC MAPPING"
-msgstr "Mapa Magico"
+msgstr "MAPEAMENTO MAGICO"
 
 #: src/Item.cpp:631
 msgid "Scroll of Enchant"
@@ -3259,47 +3259,54 @@ msgstr "Espada"
 
 #: src/AffinitySword.cpp:14
 msgid "Sword Dance"
-msgstr ""
+msgstr "Dança da Espada"
 
 #: src/AffinitySword.cpp:14
 msgid ""
 "Slide backwards or forwards while stabbing. Hitting an enemy while sliding "
 "deals extra damage."
 msgstr ""
+"Desliza para Frente ou para Trás enquanto esgrima. Acertar um inimigo "
+"enquanto desliza aplica Dano Extra."
 
 #: src/AffinitySword.cpp:15
 msgid "Omnistab"
-msgstr ""
+msgstr "Onicorte"
 
 #: src/AffinitySword.cpp:15
 msgid ""
 "Hold down and attack while falling for a falling attack. Hold up and attack "
 "to do a weaker overhead slash."
 msgstr ""
+"Segura Baixo(⇩) e ataca enquanto estiver caindo para um ataque aéreo. "
+"Segurar Cima(⇧) e atacar da um ataque mais fraco cortando acima da cabeça."
 
 #: src/AffinitySword.cpp:16
 msgid "Power Attack"
-msgstr ""
+msgstr "Ataque Poderoso"
 
 #: src/AffinitySword.cpp:16
 msgid "Hold your attack button to gather strength."
-msgstr ""
+msgstr "Mantenha pressionado seu [Ataque] para aumentar o Dano. "
 
 #: src/AffinitySword.cpp:17
 msgid "Quick Draw"
-msgstr ""
+msgstr "Saque Rapido"
 
 #: src/AffinitySword.cpp:17
 msgid "Hone your dexterity.  Draw your sword faster than the enemy can react."
 msgstr ""
+"Aprimora sua Destreza. Saque sua Espada mais rápido do que seus inimigos "
+"podem reagir."
 
 #: src/AffinitySword.cpp:18
 msgid "Sword Spin"
-msgstr ""
+msgstr "Espada Giratória"
 
 #: src/AffinitySword.cpp:18
 msgid "Hold up while jumping to perform a powerful sword spin attack."
 msgstr ""
+"Pressione Cima(⇧) enquanto pula para executar um poderoso ataque giratório."
 
 #: src/Credits.cpp:645
 msgid "PROGRAMMING"
@@ -3798,34 +3805,36 @@ msgstr "Sair para Tela de Seleção"
 
 #: src/AffinityHoly.cpp:13 src/ItemAttribute.cpp:386
 msgid "Holy"
-msgstr ""
+msgstr "Sagrado"
 
 #: src/AffinityHoly.cpp:14
 msgid "Angelic Wings"
-msgstr ""
+msgstr "Asas de Anjo"
 
 #: src/AffinityHoly.cpp:14
 msgid "Take no damage from falling."
-msgstr ""
+msgstr "Não toma dano de Quedas."
 
 #: src/AffinityHoly.cpp:15
 msgctxt "holy affinity"
 msgid "Divine Weapon"
-msgstr ""
+msgstr "Arma Divina"
 
 #: src/AffinityHoly.cpp:15
 msgid "Swinging your weapon after damaging enemies manifests holy light."
-msgstr ""
+msgstr "Atacar com sua arma após acertar um inimigo manifesta Luz Sagrada."
 
 #: src/AffinityHoly.cpp:17
 msgctxt "holy affinity"
 msgid "Holy Shield"
-msgstr ""
+msgstr "Escudo Sagrado"
 
 #: src/AffinityHoly.cpp:17
 msgid ""
 "Stored Divine Weapon charges give bonus defense against elemental damage."
 msgstr ""
+"Guardar Luz Divina em você carrega um bônus de defesa quanto a Danos "
+"Elementais."
 
 #: src/AffinityHoly.cpp:18
 msgid "Second Chance"
@@ -3833,7 +3842,7 @@ msgstr "Segunda Chance"
 
 #: src/AffinityHoly.cpp:18
 msgid "Negate fatal damage once per floor."
-msgstr "Nega dano fatal uma vez por andar."
+msgstr "Te protege da Morte uma vez por andar."
 
 #: src/Level.cpp:6583
 msgid "Tutorial"
@@ -3914,7 +3923,7 @@ msgstr "TRANCADO"
 #: src/PlayerMenu.cpp:381
 msgctxt "Tooltip, button sprite is drawn after 'Press'"
 msgid "Press"
-msgstr ""
+msgstr "Pressione"
 
 #: src/PlayerMenu.cpp:1103 src/PlayerMenu.cpp:3479
 msgid "Quick Cast"
