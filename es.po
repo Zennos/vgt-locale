@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-13 20:34-0300\n"
+"PO-Revision-Date: 2021-01-14 00:23-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1034,23 +1034,23 @@ msgstr "Transluzente"
 
 #: src/ItemGenerator.cpp:425
 msgid "Runed"
-msgstr "Runado"
+msgstr "Runada"
 
 #: src/ItemGenerator.cpp:426
 msgid "Blessed"
-msgstr "Abençoado"
+msgstr "Abençoada"
 
 #: src/ItemGenerator.cpp:427
 msgid "Artisan"
-msgstr "Artesão"
+msgstr "Artesã"
 
 #: src/ItemGenerator.cpp:428
 msgid "Masterwork"
-msgstr "Obra-prima"
+msgstr "Primorosa"
 
 #: src/ItemGenerator.cpp:429
 msgid "Hallowed"
-msgstr "Assombrado"
+msgstr "Assombrada"
 
 #: src/ItemGenerator.cpp:430
 msgid "Unearthly"
@@ -2030,11 +2030,11 @@ msgstr ""
 
 #: src/Item.cpp:805
 msgid "Claw"
-msgstr ""
+msgstr "Garra"
 
 #: src/Item.cpp:806
 msgid "A savage device that rips flesh to shreds."
-msgstr ""
+msgstr "Uma criação selvagem que dissipa carne em pedaços."
 
 #: src/Item.cpp:810
 msgid "Qatar"
@@ -2046,11 +2046,11 @@ msgstr ""
 
 #: src/Item.cpp:815
 msgid "Copper Sword"
-msgstr ""
+msgstr "Espada de Cobre"
 
 #: src/Item.cpp:816
 msgid "Not the sharpest edge, but it does its job."
-msgstr ""
+msgstr "Não é a mais afiada, mas faz seu trabalho."
 
 #: src/Item.cpp:820
 msgid "Steel Sword"
@@ -2588,7 +2588,7 @@ msgstr ""
 
 #: src/Item.cpp:1259
 msgid "Animal Skin"
-msgstr ""
+msgstr "Pele de Animal"
 
 #: src/Item.cpp:1260
 msgid "The pelt of some unfortunate beast."
@@ -3139,15 +3139,15 @@ msgstr ""
 
 #: src/Item.cpp:1797
 msgid "Unarmed"
-msgstr ""
+msgstr "Desarmado"
 
 #: src/Item.cpp:1882
 msgid "This doesn't belong to you!.. Thief!!!"
-msgstr ""
+msgstr "Isto não pertence a você!.. Ladrão!!!"
 
 #: src/Item.cpp:4442
 msgid "unidentified"
-msgstr ""
+msgstr "Não-Identificado"
 
 #: src/Item.cpp:4447
 msgid "99 Damage On Explosion"
@@ -3192,30 +3192,30 @@ msgstr ""
 
 #: src/Item.cpp:4615
 msgid "God Cursed!"
-msgstr ""
+msgstr "Maldição Divina!"
 
 #: src/Item.cpp:4619
 msgid "Cursed!"
-msgstr ""
+msgstr "Amaldiçoado!"
 
 #: src/Item.cpp:4627
 msgid "Stolen"
-msgstr ""
+msgstr "Roubado"
 
 #: src/Item.cpp:4834
 msgctxt "item name order 1(prefix) 2(base item name) 3(suffix)"
 msgid "{1} {2} {3}"
-msgstr ""
+msgstr "{3} {2} {1}"
 
 #: src/Item.cpp:4838
 msgctxt "item name order 1(prefix) 2(base item name)"
 msgid "{1} {2}"
-msgstr ""
+msgstr "{2} {1}"
 
 #: src/Item.cpp:4842
 msgctxt "item name order 1(base item name) 2(suffix)"
 msgid "{1} {2}"
-msgstr ""
+msgstr "{1} {2}"
 
 #: src/AffinityPetUtility.cpp:12
 msgid "Pet Utility"
@@ -4779,11 +4779,11 @@ msgstr ""
 
 #: src/AffinityStats.cpp:86
 msgid "Fortune"
-msgstr ""
+msgstr "Fortuna"
 
 #: src/AffinityStats.cpp:87
 msgid "Chests have a small chance to drop an extra item. "
-msgstr ""
+msgstr "Baús tem uma pequena chance de derrubarem um item extra. "
 
 #: src/AffinityStats.cpp:101
 msgid "Brute Force"
