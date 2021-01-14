@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-14 00:23-0300\n"
+"PO-Revision-Date: 2021-01-14 17:27-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6098,57 +6098,59 @@ msgstr ""
 
 #: src/AffinityDefense.cpp:11
 msgid "Defensive Stance"
-msgstr ""
+msgstr "Postura Defensiva"
 
 #: src/AffinityDefense.cpp:11
 msgid "Hold down to block physical attacks."
-msgstr ""
+msgstr "Segure Baixo(↓) para bloquear ataques físicos."
 
 #: src/AffinityDefense.cpp:12
 msgid "Aspect of Rock"
-msgstr ""
+msgstr "Aspecto de Pedra"
 
 #: src/AffinityDefense.cpp:12
 msgid "Become immune to knockbacks when taking damage."
-msgstr ""
+msgstr "Se torna imune a empurrões quando levar Dano."
 
 #: src/AffinityDefense.cpp:13
 msgid "Bulwark"
-msgstr ""
+msgstr "Bastião"
 
 #: src/AffinityDefense.cpp:13
 msgid "Gain a recharging defensive shield."
-msgstr ""
+msgstr "Ganha um Escudo Defensivo que recarrega."
 
 #: src/AffinityDefense.cpp:14
 msgid "Reflex Stance"
-msgstr ""
+msgstr "Postura de Reflexo"
 
 #: src/AffinityDefense.cpp:14
 msgid "Correctly timed blocks will reflect attack damage."
-msgstr ""
+msgstr "Bloquear ataques no tempo certo irá refletir o Dano de volta."
 
 #: src/AffinityDefense.cpp:15
 msgid "Aspect of Steel"
-msgstr ""
+msgstr "Aspecto de Aço"
 
 #: src/AffinityDefense.cpp:15
 msgid "Some attacks will be automatically blocked."
-msgstr ""
+msgstr "Alguns ataques irão automaticamente serem bloqueados."
 
 #: src/AffinityCQC.cpp:12
 msgid "Fist Weapon"
-msgstr ""
+msgstr "Armada de Punhos"
 
 #: src/AffinityCQC.cpp:14
 msgid "Brawler"
-msgstr ""
+msgstr "Pugilista"
 
 #: src/AffinityCQC.cpp:14
 msgid ""
 "Change the direction of fist weapon attacks. Mixed-direction combos deal "
 "more damage."
 msgstr ""
+"Mude a Direção dos Ataques(⇕⟺⇖⇗⇘⇙) de soco. Combos de direções diversas "
+"aplicam mais dano(Direção+Ataque)."
 
 #: src/AffinityCQC.cpp:15
 msgid "Pummel 1"
