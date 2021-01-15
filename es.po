@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-14 20:47-0300\n"
+"PO-Revision-Date: 2021-01-14 21:17-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1398,25 +1398,25 @@ msgstr "JUNTAR-SE"
 
 #: src/Item.cpp:460
 msgid "Treasure Key"
-msgstr ""
+msgstr "Chave do Tesouro"
 
 #: src/Item.cpp:461
 msgid "This key opens up a hoard of treasure."
-msgstr ""
+msgstr "Chave para abrir vastos tesouros e caminhos trancados."
 
 #: src/Item.cpp:465
 msgid "Life Water"
-msgstr ""
+msgstr "Fonte da Vida"
 
 #: src/Item.cpp:466
 msgid "A single drop of water from the Fountain of Life."
-msgstr ""
+msgstr "Uma única gota desta Fonte da Vida."
 
 #: src/Item.cpp:473
 msgid "Arrow"
 msgid_plural "Arrows"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Flecha"
+msgstr[1] "Flechas"
 
 #: src/Item.cpp:475
 msgid "Stone tipped, and fletched with an Ozir's feathers."
@@ -1526,7 +1526,7 @@ msgstr ""
 
 #: src/Item.cpp:532
 msgid "STR +1"
-msgstr ""
+msgstr "FOR +1"
 
 #: src/Item.cpp:535
 msgid "Potion of Intelligence"
@@ -1538,7 +1538,7 @@ msgstr ""
 
 #: src/Item.cpp:537
 msgid "INT +1"
-msgstr ""
+msgstr "INT +1"
 
 #: src/Item.cpp:540
 msgid "Potion of Dexterity"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 #: src/Item.cpp:542
 msgid "DEX +1"
-msgstr ""
+msgstr "DES +1"
 
 #: src/Item.cpp:545
 msgid "Potion of Luck"
@@ -1562,7 +1562,7 @@ msgstr ""
 
 #: src/Item.cpp:547
 msgid "LUK +1"
-msgstr ""
+msgstr "SOR +1"
 
 #: src/Item.cpp:550
 msgid "Potion of Vitality"
@@ -1574,7 +1574,7 @@ msgstr ""
 
 #: src/Item.cpp:552
 msgid "VIT +1"
-msgstr ""
+msgstr "VID +1"
 
 #: src/Item.cpp:555
 msgid "Potion of Speed"
@@ -1586,7 +1586,7 @@ msgstr ""
 
 #: src/Item.cpp:557
 msgid "SPD +1"
-msgstr ""
+msgstr "AGI+ 1"
 
 #: src/Item.cpp:560
 msgid "Potion of Fire Resistance"
@@ -1598,7 +1598,7 @@ msgstr ""
 
 #: src/Item.cpp:562
 msgid "FIRERES +1"
-msgstr ""
+msgstr "RESFOGO +1"
 
 #: src/Item.cpp:565
 msgid "Potion of Cold Resistance"
@@ -1610,7 +1610,7 @@ msgstr ""
 
 #: src/Item.cpp:567
 msgid "COLDRES +1"
-msgstr ""
+msgstr "RESGELO +1"
 
 #: src/Item.cpp:570
 msgid "Potion of Lightning Resistance"
@@ -1622,7 +1622,7 @@ msgstr ""
 
 #: src/Item.cpp:572
 msgid "ELECRES +1"
-msgstr ""
+msgstr "RESELEC +1"
 
 #: src/Item.cpp:575
 msgid "Potion of Poison Resistance"
@@ -1634,7 +1634,7 @@ msgstr ""
 
 #: src/Item.cpp:577
 msgid "POISRES +1"
-msgstr ""
+msgstr "RESVEN +1"
 
 #: src/Item.cpp:580
 msgid "Potion of Lower Strength"
@@ -4802,7 +4802,7 @@ msgstr "Seu dano Mínimo é aumentado. "
 
 #: src/AffinityStats.cpp:110
 msgid "Gain +1 damage for each 20% of health missing. "
-msgstr "Ganha +1 de Dano por cada 20% de vida que perde."
+msgstr "Ganha +1 de Dano por cada 20% de vida que perde. "
 
 #: src/AffinityStats.cpp:113
 msgid "Preparation"
@@ -6281,51 +6281,51 @@ msgstr "Botão {1}"
 
 #: src/Input.cpp:230 src/Input.cpp:323
 msgid "Right (L-Stk)"
-msgstr "Direita (AnalogicoEsq)"
+msgstr "Direita"
 
 #: src/Input.cpp:230 src/Input.cpp:323
 msgid "Left (L-Stk)"
-msgstr "Esquerda (AnalogicoEsq)"
+msgstr "Esquerda"
 
 #: src/Input.cpp:233 src/Input.cpp:326
 msgid "Down (L-Stk)"
-msgstr "Baixo (AnalogicoEsq)"
+msgstr "Baixo"
 
 #: src/Input.cpp:233 src/Input.cpp:326
 msgid "Up (L-Stk)"
-msgstr "Cima (AnalogicoEsq)"
+msgstr "Cima"
 
 #: src/Input.cpp:236 src/Input.cpp:329
 msgid "Right (R-Stk)"
-msgstr "Direita (AnalogicoDir)"
+msgstr "Direita"
 
 #: src/Input.cpp:236 src/Input.cpp:329
 msgid "Left (R-Stk)"
-msgstr "Esquerda (AnalogicoDir)"
+msgstr "Esquerda"
 
 #: src/Input.cpp:239 src/Input.cpp:332
 msgid "Down (R-Stk)"
-msgstr "Baixo (AnalogicoDir)"
+msgstr "Baixo"
 
 #: src/Input.cpp:239 src/Input.cpp:332
 msgid "Up (R-Stk)"
-msgstr "Cima (AnalogicoDir)"
+msgstr "Cima"
 
 #: src/Input.cpp:250 src/Input.cpp:316
 msgid "Up (D-pad)"
-msgstr "Cima (D-pad)"
+msgstr "Cima"
 
 #: src/Input.cpp:253 src/Input.cpp:316
 msgid "Down (D-pad)"
-msgstr "Baixo  (D-pad)"
+msgstr "Baixo"
 
 #: src/Input.cpp:256 src/Input.cpp:308
 msgid "Left (D-pad)"
-msgstr "Esquerda (D-pad)"
+msgstr "Esquerda"
 
 #: src/Input.cpp:259 src/Input.cpp:308
 msgid "Right (D-pad)"
-msgstr "Direita (D-pad)"
+msgstr "Direita"
 
 #: src/Input.cpp:262 src/Input.cpp:364
 msgid "Start"
