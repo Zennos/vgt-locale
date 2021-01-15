@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-15 14:38-0300\n"
+"PO-Revision-Date: 2021-01-15 19:05-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: src/AffinityPetDefense.cpp:12
 msgid "Pet Bond"
-msgstr "Conexão com Pet"
+msgstr "Ligação Animal"
 
 #: src/AffinityPetDefense.cpp:13
 msgid "Share Potion"
@@ -29,7 +29,7 @@ msgstr "Compartilhar Poção"
 
 #: src/AffinityPetDefense.cpp:13
 msgid "Share beneficial potions with your pet."
-msgstr "Compartilha poções benéficas com seu Pet."
+msgstr "Compartilha poções benéficas com seu Animal."
 
 #: src/AffinityPetDefense.cpp:14
 msgid "Command Aura"
@@ -38,7 +38,8 @@ msgstr "Aura de Comando"
 #: src/AffinityPetDefense.cpp:14
 msgid "You now have an aura that increases your pets stats when near."
 msgstr ""
-"Você agora tem uma aura que aumenta os Status do seu pet quando próximo."
+"Você agora tem uma aura que aumenta os status do seu Animal quando estiver "
+"perto."
 
 #: src/AffinityPetDefense.cpp:15
 msgid "Substitute"
@@ -46,7 +47,7 @@ msgstr "Substituto"
 
 #: src/AffinityPetDefense.cpp:15
 msgid "Damage you take is split between you and your pet."
-msgstr "O Dano que você recebe é dividido entre você e seu Pet."
+msgstr "O Dano que você recebe é dividido entre você e seu Animal."
 
 #: src/AffinityPetDefense.cpp:16
 msgid "Item Bond"
@@ -54,7 +55,7 @@ msgstr "Conexão de Item"
 
 #: src/AffinityPetDefense.cpp:16
 msgid "Your equipped weapon and chest armor gives bonuses to your pet."
-msgstr "Sua arma equipada e armadura da bônus ao seu pet."
+msgstr "Sua arma e armadura equipados dão bônus a seu Animal."
 
 #: src/Background.cpp:35
 msgid "No Background"
@@ -102,7 +103,7 @@ msgstr ""
 
 #: src/Background.cpp:48
 msgid "+1 Starting Level"
-msgstr "Inicia com +1 Level"
+msgstr "Inicia com +1 Nivel"
 
 #: src/Background.cpp:49
 msgid "-3 LUK"
@@ -122,7 +123,7 @@ msgstr ""
 
 #: src/Background.cpp:54
 msgid "+1 Spellbook Starting Level"
-msgstr "As Magias começam com +1 lvl"
+msgstr "As Magias começam com +1 Nivel"
 
 #: src/Background.cpp:55
 msgid "-1 STR"
@@ -204,7 +205,7 @@ msgstr "+Item: Anel Roubado"
 
 #: src/Background.cpp:79
 msgid "Shopkeepers attack on sight"
-msgstr "Lojistas atacam ao te verem"
+msgstr "Vendedores atacam ao te verem"
 
 #: src/Background.cpp:82 src/Stats.cpp:114
 msgid "Farsighted"
@@ -1038,7 +1039,7 @@ msgstr "Runada"
 
 #: src/ItemGenerator.cpp:426
 msgid "Blessed"
-msgstr "Abençoada"
+msgstr "Abençoado"
 
 #: src/ItemGenerator.cpp:427
 msgid "Artisan"
@@ -2196,257 +2197,267 @@ msgstr "Uma adaga curta e afiada, designada para voar em arremessos."
 
 #: src/Item.cpp:909
 msgid "Kerchief"
-msgstr ""
+msgstr "Lenço"
 
 #: src/Item.cpp:910
 msgid ""
 "Whether you wear it around your head or your neck, it offers more in style "
 "than protection."
 msgstr ""
+"Quer você o use em volta da cabeça ou do pescoço, ele oferece mais estilo do "
+"que proteção."
 
 #: src/Item.cpp:915
 msgid "Cross Amulet"
-msgstr ""
+msgstr "Amuleto Cruz"
 
 #: src/Item.cpp:916
 msgid "Commonly used to ward off evil."
-msgstr ""
+msgstr "Normalmente usado para afastar o mal."
 
 #: src/Item.cpp:921
 msgid "Monster Tooth"
-msgstr ""
+msgstr "Dentre de Monstro"
 
 #: src/Item.cpp:922
 msgid "Careful, it's still sharp."
-msgstr ""
+msgstr "Cuidado, é afiado."
 
 #: src/Item.cpp:927
 msgid "Magic Stone"
-msgstr ""
+msgstr "Pedra Magica"
 
 #: src/Item.cpp:928
 msgid "Many adventurers carry one of these for good luck."
-msgstr ""
+msgstr "Muitos aventureiros carregam um desses para sua boa sorte."
 
 #: src/Item.cpp:934
 msgid "Compass"
-msgstr ""
+msgstr "Compasso"
 
 #: src/Item.cpp:935
 msgid "An essential tool for every navigator."
-msgstr ""
+msgstr "Uma ferramenta essencial para cada navegador."
 
 #: src/Item.cpp:941
 msgid "Bird Amulet"
-msgstr ""
+msgstr "Amuleto de Passaro"
 
 #: src/Item.cpp:942
 msgid "A tiny figurine of the mythological bird, Aketh."
-msgstr ""
+msgstr "Uma pequena figura de um pássaro mitológico, Aketh."
 
 #: src/Item.cpp:948
 msgid "Feather Talisman"
-msgstr ""
+msgstr "Talismã de Pena"
 
 #: src/Item.cpp:949
 msgid "These feathers float as if unaffected by gravity."
-msgstr ""
+msgstr "Essas penas flutuam como se não fossem afetadas pela gravidade."
 
 #: src/Item.cpp:955
 msgid "Scarf"
-msgstr ""
+msgstr "Cachecol"
 
 #: src/Item.cpp:956
 msgid "Not as comfy as the one you left at home, but still quite warm."
 msgstr ""
+"Não é tão confortável quanto o que você deixou em casa, mas ainda é bem "
+"quente."
 
 #: src/Item.cpp:962
 msgid "Skull Necklace"
-msgstr ""
+msgstr "Colar de Caveira"
 
 #: src/Item.cpp:963
 msgid "Its made of the tiny skulls of various animals."
-msgstr ""
+msgstr "Isto é feito de pequenos crânios de vários animais."
 
 #: src/Item.cpp:969
 msgid "Locket"
-msgstr ""
+msgstr "Medalhão"
 
 #: src/Item.cpp:970
 msgid "It protects the faded picture of a beautiful red-haired woman."
-msgstr ""
+msgstr "Protege a imagem desbotada de uma bela ruiva."
 
 #: src/Item.cpp:976
 msgid "Studded Collar"
-msgstr ""
+msgstr "Colar Cravejado"
 
 #: src/Item.cpp:977
 msgid "Perfect for those troubled by the thought of decapitation."
-msgstr ""
+msgstr "Perfeito para aqueles preocupados com o pensamento de decapitação."
 
 #: src/Item.cpp:983
 msgid "Shrunken Head"
-msgstr ""
+msgstr "Cabeça Encolhida"
 
 #: src/Item.cpp:984
 msgid "It's impossible to tell whether it was once a man or woman."
-msgstr ""
+msgstr "É impossível dizer se já foi homem ou mulher."
 
 #: src/Item.cpp:991
 msgid "Lion Talisman"
-msgstr ""
+msgstr "Talismã de Leão"
 
 #: src/Item.cpp:992
 msgid "A common symbol carried by all Knights of Kernev."
-msgstr ""
+msgstr "Um símbolo comum usado por todos os Cavaleiros de Kernev."
 
 #: src/Item.cpp:998
 msgid "Pocket Watch"
-msgstr ""
+msgstr "Relógio de Bolso"
 
 #: src/Item.cpp:999
 msgid "The seconds hand still moves, but the other parts remain frozen."
 msgstr ""
+"O ponteiro dos segundos ainda se move, mas as outras partes permanecem "
+"congeladas."
 
 #: src/Item.cpp:1005
 msgid "Wise Man's Beard"
-msgstr ""
+msgstr "Barba do Homem Sábio"
 
 #: src/Item.cpp:1006
 msgid "You're not sure where this came from."
-msgstr ""
+msgstr "Você não tem certeza de onde veio isso."
 
 #: src/Item.cpp:1012
 msgid "Scarab"
-msgstr ""
+msgstr "Escaravelho"
 
 #: src/Item.cpp:1013
 msgid "It appears to be made of solid gold."
-msgstr ""
+msgstr "Parece ser feito de ouro maciço."
 
 #: src/Item.cpp:1019
 msgid "Wooden Helm"
-msgstr ""
+msgstr "Elmo de Madeira"
 
 #: src/Item.cpp:1020
 msgid "Better protection than nothing."
-msgstr ""
+msgstr "Melhor uma proteção do que nenhuma."
 
 #: src/Item.cpp:1025
 msgid "Old Hood"
-msgstr ""
+msgstr "Capuz Velho"
 
 #: src/Item.cpp:1026
 msgid "An old, patched, fur-lined hood."
-msgstr ""
+msgstr "Um capuz velho, remendado, forrado de pele."
 
 #: src/Item.cpp:1031
 msgid "Wizard Hat"
-msgstr ""
+msgstr "Chapéu de Mago"
 
 #: src/Item.cpp:1032
 msgid "Worn by many mages for its magic boosting capabilities."
-msgstr ""
+msgstr "Usado por muitos magos por sua capacidade de aumentar a magia."
 
 #: src/Item.cpp:1038
 msgid "Boar Head"
-msgstr ""
+msgstr "Cabeça de Javali"
 
 #: src/Item.cpp:1039
 msgid "Made from the head of a common wild boar."
-msgstr ""
+msgstr "Fabricado com cabeça de algum javali."
 
 #: src/Item.cpp:1044
 msgid "Studded Helm"
-msgstr ""
+msgstr "Elmo Cravejado"
 
 #: src/Item.cpp:1045
 msgid "Large metal studs line the top of this helmet."
-msgstr ""
+msgstr "Grandes tachas de metal revestem o topo deste capacete."
 
 #: src/Item.cpp:1051
 msgid "Vagabond Cap"
-msgstr ""
+msgstr "Chapéu de Vagante"
 
 #: src/Item.cpp:1052
 msgid "A large traveller's cap."
-msgstr ""
+msgstr "Um grande chapéu de viajante."
 
 #: src/Item.cpp:1058
 msgid "Bird Mask"
-msgstr ""
+msgstr "Mascara de Passaro"
 
 #: src/Item.cpp:1059
 msgid "It magically rests without aid on the bridge of the nose."
-msgstr ""
+msgstr "Ele magicamente se encaixa sem esforço na parte do nariz."
 
 #: src/Item.cpp:1065
 msgid "Roc Head"
-msgstr ""
+msgstr "Cabeça de Pedra"
 
 #: src/Item.cpp:1066
 msgid "Crafted from the head of a giant roc."
-msgstr ""
+msgstr "Feito a partir da cabeça de uma rocha gigante."
 
 #: src/Item.cpp:1072
 msgid "Great Helm"
-msgstr ""
+msgstr "Grande Elmo"
 
 #: src/Item.cpp:1073
 msgid ""
 "Although quite heavy, there's no better in terms of physical protection."
-msgstr ""
+msgstr "Apesar de bastante pesado, não há melhor proteção física que essa."
 
 #: src/Item.cpp:1079
 msgid "Flat Cap"
-msgstr ""
+msgstr "Chapéu Achatado"
 
 #: src/Item.cpp:1080
 msgid "These hats are popular among merchants and traders."
-msgstr ""
+msgstr "Estes chapéus são populares entre os mercantes e vendedores."
 
 #: src/Item.cpp:1086
 msgid "Demon Mask"
-msgstr ""
+msgstr "Mascara de Demônio"
 
 #: src/Item.cpp:1087
 msgid ""
 "Seeing this demonic visage can instill fear in even the bravest warriors."
 msgstr ""
+"Ver essa aparência demoníaca pode instalar medo até mesmo nos guerreiros "
+"mais corajosos."
 
 #: src/Item.cpp:1093
 msgid "Wolf Head"
-msgstr ""
+msgstr "Cabeça de Lobo"
 
 #: src/Item.cpp:1094
 msgid "Made from the head of a white dire wolf."
-msgstr ""
+msgstr "Feito da cabeça de um terrível lobo branco."
 
 #: src/Item.cpp:1100
 msgid "Royal Crown"
-msgstr ""
+msgstr "Coroa Real"
 
 #: src/Item.cpp:1101
 msgid "It's lined with the sigils of a kingdom long forgotten."
-msgstr ""
+msgstr "Está alinhado com os sigilos de um reino há muito esquecido."
 
 #: src/Item.cpp:1108
 msgid "Assassin Hood"
-msgstr ""
+msgstr "Capuz de Assassino"
 
 #: src/Item.cpp:1109
 msgid ""
 "This deceiving hood's pockets hide small sheets of metal to better protect "
 "the head."
 msgstr ""
+"Os bolsos deste capuz enganador escondem pequenas folhas de metal para "
+"proteger melhor a cabeça."
 
 #: src/Item.cpp:1115
 msgid "Lunar Circlet"
-msgstr ""
+msgstr "Tiara Lunar"
 
 #: src/Item.cpp:1116
 msgid "It gleams unnaturally."
-msgstr ""
+msgstr "Ele brilha de forma sobrenatural."
 
 #: src/Item.cpp:1123
 msgid "Dragon Head"
@@ -2584,27 +2595,27 @@ msgstr ""
 
 #: src/Item.cpp:1241
 msgid "Breast Plate"
-msgstr ""
+msgstr "Peitoral"
 
 #: src/Item.cpp:1242
 msgid "The most basic protection worn by aspiring fighters."
-msgstr ""
+msgstr "A proteção mais básica usada por aspirantes a guerreiros."
 
 #: src/Item.cpp:1247
 msgid "Traveler's Tunic"
-msgstr ""
+msgstr "Túnica de Viajante"
 
 #: src/Item.cpp:1248
 msgid "It's light and comfy, but doesn't offer much protection."
-msgstr ""
+msgstr "É leve e confortável, mas não oferece muita proteção."
 
 #: src/Item.cpp:1253
 msgid "Robes"
-msgstr ""
+msgstr "Mantos"
 
 #: src/Item.cpp:1254
 msgid "Loose and flowing robes."
-msgstr ""
+msgstr "Túnicas soltas e esvoaçantes."
 
 #: src/Item.cpp:1259
 msgid "Animal Skin"
@@ -2616,412 +2627,433 @@ msgstr "A pele de algum animal sem sorte."
 
 #: src/Item.cpp:1265
 msgid "Reinforced Armor"
-msgstr ""
+msgstr "Armadura Reforçada"
 
 #: src/Item.cpp:1266
 msgid "Metal plates protect the wearer from basic attacks."
-msgstr ""
+msgstr "Placas de metal protegem o usuário de ataques básicos."
 
 #: src/Item.cpp:1272
 msgid "Ranger Uniform"
-msgstr ""
+msgstr "Uniforme de Patrulha"
 
 #: src/Item.cpp:1273
 msgid "Designed to hold up even under the harshest of conditions."
-msgstr ""
+msgstr "Projetado para resistir mesmo nas condições mais adversas."
 
 #: src/Item.cpp:1279
 msgid "Acolyte's Robes"
-msgstr ""
+msgstr "Túnica de Acólito"
 
 #: src/Item.cpp:1280
 msgid "The sleeves of these robes have many hidden pockets."
-msgstr ""
+msgstr "As mangas dessas vestes têm muitos bolsos escondidos."
 
 #: src/Item.cpp:1286
 msgid "Druid Cloak"
-msgstr ""
+msgstr "Manto de Druida"
 
 #: src/Item.cpp:1287
 msgid "It's lined with numerous small totems and effigies."
-msgstr ""
+msgstr "É feito com vários pequenos totens e efígies."
 
 #: src/Item.cpp:1293
 msgid "Full Plate Armor"
-msgstr ""
+msgstr "Armadura Completa"
 
 #: src/Item.cpp:1294
 msgid "Very heavy, but almost indestructible."
-msgstr ""
+msgstr "Muito pesado, mas quase indestrutível."
 
 #: src/Item.cpp:1300
 msgid "Leather Armor"
-msgstr ""
+msgstr "Armadura de Couro"
 
 #: src/Item.cpp:1301
 msgid ""
 "The armor of choice for those who value manueverability over pure defense."
 msgstr ""
+"A armadura de escolha para aqueles que valorizam a flexibilidade acima da "
+"defesa pura."
 
 #: src/Item.cpp:1307
 msgid "High Priest's Robes"
-msgstr ""
+msgstr "Manto de Sacerdote"
 
 #: src/Item.cpp:1308
 msgid "These robes radiate soft white light."
-msgstr ""
+msgstr "Essas vestes irradiam uma luz branca suave."
 
 #: src/Item.cpp:1314
 msgid "Berserker's Armor"
-msgstr ""
+msgstr "Armadura do Berserker"
 
 #: src/Item.cpp:1315
 msgid "This style of armor is famously worn by barbarians of the Northlands."
-msgstr ""
+msgstr "Este estilo de armadura é usado pelos bárbaros das Terras do Norte."
 
 #: src/Item.cpp:1322
 msgid "Half Plate"
-msgstr ""
+msgstr "Meio Peitoral"
 
 #: src/Item.cpp:1323
 msgid "Light, yet protects all the vitals."
-msgstr ""
+msgstr "Leve, mas protege todos os órgãos vitais."
 
 #: src/Item.cpp:1330
 msgid "Assassin's Leathers"
-msgstr ""
+msgstr "Couro de Assassino"
 
 #: src/Item.cpp:1331
 msgid "Masterly crafted with the highest quality hardened leather."
-msgstr ""
+msgstr "Feito com maestria com couro endurecido da mais alta qualidade."
 
 #: src/Item.cpp:1337
 msgid "Conjurer's Robes"
-msgstr ""
+msgstr "Manto de Conjurador"
 
 #: src/Item.cpp:1338
 msgid "Magically weaved to incorporate all the elemental magics."
-msgstr ""
+msgstr "Feita magicamente para incorporar todas as magias elementais."
 
 #: src/Item.cpp:1344
 msgid "Gold Plate"
-msgstr ""
+msgstr "Peitoral de Ouro"
 
 #: src/Item.cpp:1345
 msgid "Magically forged gold plates offer faultless protection."
-msgstr ""
+msgstr "Placas de ouro magicamente forjadas oferecem proteção perfeita."
 
 #: src/Item.cpp:1352
 msgid "Page Greaves"
-msgstr ""
+msgstr "Grevas de Escudeiro"
 
 #: src/Item.cpp:1353
 msgid "Even pages need to protect their feet."
-msgstr ""
+msgstr "Até escudeiros precisam proteger seus pés."
 
 #: src/Item.cpp:1358
 msgid "Peddler Boots"
-msgstr ""
+msgstr "Botas de Vendedor"
 
 #: src/Item.cpp:1359
 msgid "Rugged boots perfect for travelers."
-msgstr ""
+msgstr "Botas resistentes perfeitas para viajantes."
 
 #: src/Item.cpp:1365
 msgid "Peasant Shoes"
-msgstr ""
+msgstr "Sapatos de Campones"
 
 #: src/Item.cpp:1366
 msgid "Old, worn out, and a little smelly. But they fit!"
-msgstr ""
+msgstr "Velho, gasto e um pouco malcheiroso. Mas encaixam!"
 
 #: src/Item.cpp:1371
 msgid "Fighter Sandals"
-msgstr ""
+msgstr "Sandálias de Lutador"
 
 #: src/Item.cpp:1372
 msgid "Not to be worn with socks."
-msgstr ""
+msgstr "Não deve ser usado com meias."
 
 #: src/Item.cpp:1377
 msgid "Mercenary Greaves"
-msgstr ""
+msgstr "Grevas de Mercenário"
 
 #: src/Item.cpp:1378
 msgid "Iconic greaves worn by the infamous \"Hawk\" mercenary group."
-msgstr ""
+msgstr "Grevas icônicas usadas pelo infame grupo mercenário \"Hawk\"."
 
 #: src/Item.cpp:1384
 msgid "Highwayman Boots"
-msgstr ""
+msgstr "Botas de Procurado"
 
 #: src/Item.cpp:1385
 msgid "A necessity for those who need to ride their horse swiftly."
-msgstr ""
+msgstr "Uma necessidade para quem precisa montar seu cavalo rapidamente."
 
 #: src/Item.cpp:1391
 msgid "Mage Shoes"
-msgstr ""
+msgstr "Sapatos de Mago"
 
 #: src/Item.cpp:1392
 msgid "They help channel magic, and they're quite comfy too."
-msgstr ""
+msgstr "Eles ajudam a canalizar a magia e também são bastante confortáveis."
 
 #: src/Item.cpp:1398
 msgid "Colosseum Clogs"
-msgstr ""
+msgstr "Grevas do Coliseu"
 
 #: src/Item.cpp:1399
 msgid "Gladiators who escape the colosseum often never stop wearing these."
-msgstr ""
+msgstr "Os gladiadores que escapam do coliseu nunca param de usar isso."
 
 #: src/Item.cpp:1405
 msgid "Knight Greaves"
-msgstr ""
+msgstr "Grevas de Cavaleiro"
 
 #: src/Item.cpp:1406
 msgid "You'll be hard-pressed to find better foot protection."
-msgstr ""
+msgstr "Será difícil encontrar uma melhor proteção para os pés."
 
 #: src/Item.cpp:1412
 msgid "Bandit Boots"
-msgstr ""
+msgstr "Botas de Bandido"
 
 #: src/Item.cpp:1413
 msgid "They hardly make any noise when you walk."
-msgstr ""
+msgstr "Quase não fazem barulho quando você anda."
 
 #: src/Item.cpp:1419
 msgid "Warlock Shoes"
-msgstr ""
+msgstr "Sapatos de Feiticeiro"
 
 #: src/Item.cpp:1420
 msgid "It's lined with the finest spidersilk."
-msgstr ""
+msgstr "É forrado com a mais fina seda de aranha."
 
 #: src/Item.cpp:1426
 msgid "Savage Sandals"
-msgstr ""
+msgstr "Sandálias de Selvagem"
 
 #: src/Item.cpp:1427
 msgid "Reinforced sandals lined with the fur of a dire wolf."
-msgstr ""
+msgstr "Sandálias reforçadas, forradas com a pele de um lobo atroz."
 
 #: src/Item.cpp:1433
 msgid "Champion Greaves"
-msgstr ""
+msgstr "Grevas de Campeão"
 
 #: src/Item.cpp:1434
 msgid ""
 "Tempered with a magical gold alloy, these greaves are fit for a true "
 "champion."
 msgstr ""
+"Temperadas com uma liga de ouro mágica, essas grevas são dignas de um "
+"verdadeiro campeão."
 
 #: src/Item.cpp:1440
 msgid "Assassin's Boots"
-msgstr ""
+msgstr "Botas de Assassino"
 
 #: src/Item.cpp:1441
 msgid "These boots hide a small sleeve, perfect for hiding a dagger in."
 msgstr ""
+"Estas botas escondem um bolso pequeno, perfeito para esconder uma adaga."
 
 #: src/Item.cpp:1448
 msgid "Witch's Boots"
-msgstr ""
+msgstr "Botas de Bruxo"
 
 #: src/Item.cpp:1449
 msgid "Crafted from magical demon-hide."
-msgstr ""
+msgstr "Feitas a partir de uma magia escondida de Demônios."
 
 #: src/Item.cpp:1455
 msgid "Dragon Slayer Boots"
-msgstr ""
+msgstr "Botas do Matador de Dragão"
 
 #: src/Item.cpp:1456
 msgid "It fills you with courage and strength."
-msgstr ""
+msgstr "Te serve com coragem e força."
 
 #: src/Item.cpp:1463
 msgid "Page Gloves"
-msgstr ""
+msgstr "Luvas de Escudeiro"
 
 #: src/Item.cpp:1464
 msgid "The leather is falling apart at the seams."
-msgstr ""
+msgstr "O couro está se desfazendo nas costuras."
 
 #: src/Item.cpp:1469
 msgid "Peddler Mitts"
-msgstr ""
+msgstr "Luva de Vendedor"
 
 #: src/Item.cpp:1470
 msgid "They're warm, but don't offer much else."
-msgstr ""
+msgstr "Eles são quentes, nada mais."
 
 #: src/Item.cpp:1476
 msgid "Apprentice Gloves"
-msgstr ""
+msgstr "Luvas de Aprendiz"
 
 #: src/Item.cpp:1477
 msgid "It bears the sigil of some forgotten mage academy."
-msgstr ""
+msgstr "Ele carrega o sigilo de alguma academia de mago esquecida."
 
 #: src/Item.cpp:1482
 msgid "Fighter's Gloves"
-msgstr ""
+msgstr "Luva de Lutador"
 
 #: src/Item.cpp:1483
 msgid "They're thickly padded with leather and reinforced with bandages."
-msgstr ""
+msgstr "Eles são densamente acolchoados com couro e reforçados com bandagens."
 
 #: src/Item.cpp:1488
 msgid "Knight Gauntlets"
-msgstr ""
+msgstr "Manoplas de Cavaleiro"
 
 #: src/Item.cpp:1489
 msgid "Every knight who wields a sword needs also to protect their hands."
 msgstr ""
+"Todo Cavaleiro que carrega uma espada também precisa proteger suas mãos."
 
 #: src/Item.cpp:1495
 msgid "Thief Gloves"
-msgstr ""
+msgstr "Luvas de Ladrão"
 
 #: src/Item.cpp:1496
 msgid "The almost-sticky fingertips of these gloves have incredible grip."
 msgstr ""
+"As pontas dos dedos dessas luvas quase pegajosas têm uma aderência incrível."
 
 #: src/Item.cpp:1502
 msgid "Mystic Gloves"
-msgstr ""
+msgstr "Luvas Místicas"
 
 #: src/Item.cpp:1503
 msgid "These gloves are socketed with elemental stones to help channel magic."
 msgstr ""
+"Essas luvas são encaixadas com pedras elementares para ajudar a canalizar a "
+"magia."
 
 #: src/Item.cpp:1509
 msgid "Gladiator Gloves"
-msgstr ""
+msgstr "Luvas de Gladiador"
 
 #: src/Item.cpp:1510
 msgid ""
 "The thick backplates on these gloves can deflect steel, and even arrows."
 msgstr ""
+"As espessas placas na palma dessas luvas podem desviar aço e até mesmo "
+"flechas."
 
 #: src/Item.cpp:1515
 msgid "Crusader Gloves"
-msgstr ""
+msgstr "Luvas de Vagante"
 
 #: src/Item.cpp:1516
 msgid "Forged by a master blacksmith, then blessed by a high priest."
 msgstr ""
+"Forjado por um ferreiro mestre, depois abençoado por um sumo sacerdote."
 
 #: src/Item.cpp:1522
 msgid "Rogue Gloves"
-msgstr ""
+msgstr "Luvas de Ladino"
 
 #: src/Item.cpp:1523
 msgid ""
 "The hidden pocket on these gloves can be used to store lockpicks or a tiny "
 "blade."
 msgstr ""
+"O bolso escondido dessas luvas podem ser usados para guardar gazuas ou uma "
+"lâmina minúscula."
 
 #: src/Item.cpp:1529
 msgid "Voodoo Gloves"
-msgstr ""
+msgstr "Luvas de Voodoo"
 
 #: src/Item.cpp:1530
 msgid "The eyes on these gloves only blink when their wearer does."
-msgstr ""
+msgstr "Olhos contidos nessas luvas piscam quando o usuário faz isso."
 
 #: src/Item.cpp:1537
 msgid "Savage Gloves"
-msgstr ""
+msgstr "Luvas de Selvagem"
 
 #: src/Item.cpp:1538
 msgid "Crafted from the thick fur of a monstrous yeti."
-msgstr ""
+msgstr "Feito com o pelo grosso de um monstruoso yeti."
 
 #: src/Item.cpp:1544
 msgid "Champion Gauntlets"
-msgstr ""
+msgstr "Manoplas de Campião"
 
 #: src/Item.cpp:1545
 msgid "Despite its age, somehow it gleams as if new."
-msgstr ""
+msgstr "Apesar da idade, de alguma forma ele brilha como se fosse novo."
 
 #: src/Item.cpp:1552
 msgid "Master Thief Gloves"
-msgstr ""
+msgstr "Luvas de Mestre Ladão"
 
 #: src/Item.cpp:1553
 msgid "Wearing these gloves bestows a supernatural dexterity."
-msgstr ""
+msgstr "Usar essas luvas confere uma destreza sobrenatural."
 
 #: src/Item.cpp:1559
 msgid "Sage Gloves"
-msgstr ""
+msgstr "Luvas de Sábio"
 
 #: src/Item.cpp:1560
 msgid "Magic artificers can spend weeks infusing such gloves with magic."
 msgstr ""
+"Os artífices mágicos podem passar semanas imbuindo essas luvas com magia."
 
 #: src/Item.cpp:1566
 msgid "Dragon Slayer Gloves"
-msgstr ""
+msgstr "Luvas Matadoras de Dragão"
 
 #: src/Item.cpp:1567
 msgid "Inpenetrable protection against the fiercest fires known to man."
 msgstr ""
+"Proteção impenetrável contra os incêndios mais violentos conhecidos pelo "
+"homem."
 
 #: src/Item.cpp:1574
 msgid "Ring of Zygox"
-msgstr ""
+msgstr "Anel do Zygox"
 
 #: src/Item.cpp:1575
 msgid "Open your eyes and see your foes for what they are."
-msgstr ""
+msgstr "Abra seus olhos e veja seus inimigos como eles são."
 
 #: src/Item.cpp:1585
 msgid "Ring of Elrien"
-msgstr ""
+msgstr "Anel de Elrien"
 
 #: src/Item.cpp:1586
 msgid "Creates physical after-images."
-msgstr ""
+msgstr "Cria pós-imagens físicas."
 
 #: src/Item.cpp:1593
 msgid "Ring of Calatris"
-msgstr ""
+msgstr "Anel de Calatris"
 
 #: src/Item.cpp:1594
 msgid ""
 "Reflect all incoming projectiles.  It can never be wielded correctly by "
 "mortals."
 msgstr ""
+"Refletir todos os projéteis que chegam. Nunca pode ser manejado corretamente "
+"por mortais."
 
 #: src/Item.cpp:1601
 msgid "Stolen Ring"
-msgstr ""
+msgstr "Anel Roubado"
 
 #: src/Item.cpp:1602
 msgid "You lifted this off of a sleazy merchant in Erifort."
-msgstr ""
+msgstr "Você tirou isso de um comerciante desprezível em Erifort."
 
 #: src/Item.cpp:1610
 msgid "Adherent's Ring of the Shackled"
-msgstr ""
+msgstr "Anel do Adepto dos Acorrentados."
 
 #: src/Item.cpp:1611
 msgid ""
 "This ring was gifted you by a god. Wearing cursed equipment empowers you."
 msgstr ""
+"Este anel foi presenteado por um deus. Usar equipamentos amaldiçoados "
+"fortalece você."
 
 #: src/Item.cpp:1620
 msgid "Ring of Seltioc"
-msgstr ""
+msgstr "Anel de Seltioc"
 
 #: src/Item.cpp:1621
 msgid "Only a strong mind can grasp the power of this ring."
-msgstr ""
+msgstr "Apenas uma mente forte pode compreender o poder deste anel."
 
 #: src/Item.cpp:1630
 msgid "Heirloom Ring"
@@ -3033,129 +3065,135 @@ msgstr "Seu avô te deu este anel antes de falecer."
 
 #: src/Item.cpp:1639
 msgid "Grappling Hook"
-msgstr ""
+msgstr "Gancho de Arremesso"
 
 #: src/Item.cpp:1640
 msgid ""
 "A crossbow specially modified to launch a chain and hook. Hold up and range "
 "attack to use."
 msgstr ""
+"Uma Besta especialmente modificada para lançar uma corrente e se prender. "
+"Segure Cima(⇧) e Aperte [Ataque a Distancia][B] para Usar."
 
 #: src/Item.cpp:1648
 msgid "Pet Whistle"
-msgstr ""
+msgstr "Apito Animal"
 
 #: src/Item.cpp:1649
 msgid ""
 "Hold Up and Interact to use. Whistle once to summon your companion, twice to "
 "order them to wait."
 msgstr ""
+"Segure Cima(⇧) e [Interagir] para usar. O Apito invoca seu companheiro, "
+"assovie duas vezes para manda-lo esperar."
 
 #: src/Item.cpp:1658
 msgid "Magic Quiver"
-msgstr ""
+msgstr "Aljava Magica"
 
 #: src/Item.cpp:1659
 msgid ""
 "This mysterious item never runs out of arrows if it is powered by enough "
 "mana."
 msgstr ""
+"Um item misterioso que nunca fica sem flechas se for alimentado com mana "
+"suficiente."
 
 #: src/Item.cpp:1667
 msgid "Blink Dagger"
-msgstr ""
+msgstr "Adaga de Translocar"
 
 #: src/Item.cpp:1668
 msgid "If you stare into the blade, you can see a distant place."
-msgstr ""
+msgstr "Se você olhar em sua lamina, você consegue ver um lugar distante."
 
 #: src/Item.cpp:1676
 msgid "Thunder God's Hammer"
-msgstr ""
+msgstr "Martelo Deus do Trovão"
 
 #: src/Item.cpp:1677
 msgid "Only a god can wield it correctly."
-msgstr ""
+msgstr "Apenas um Deus consegue segurar isto corretamente."
 
 #: src/Item.cpp:1695
 msgid "Pork Chop"
-msgstr ""
+msgstr "Costelinha de Porco"
 
 #: src/Item.cpp:1696
 msgid "What's the worst that could happen?!"
-msgstr ""
+msgstr "O que de pior poderia acontecer?!"
 
 #: src/Item.cpp:1705 src/Item.cpp:1714 src/Item.cpp:1723 src/Item.cpp:1732
 msgid "Rune Orb"
-msgstr ""
+msgstr "Orbe de Runa"
 
 #: src/Item.cpp:1706 src/Item.cpp:1715 src/Item.cpp:1724 src/Item.cpp:1733
 msgid "It's inscribed with pulsing magic runes."
-msgstr ""
+msgstr "Está inscrita com magia pulsante das Runas."
 
 #: src/Item.cpp:1741
 msgid "Backpack"
-msgstr ""
+msgstr "Mochila"
 
 #: src/Item.cpp:1742
 msgid "The belongings of an unfortunate traveler."
-msgstr ""
+msgstr "Os pertences de um aventureiro sem sorte."
 
 #: src/Item.cpp:1748
 msgid "Shopkeeper's Stash"
-msgstr ""
+msgstr "Saquinho do Vendedor"
 
 #: src/Item.cpp:1749
 msgid "It has to have SOMETHING valuable in it!..."
-msgstr ""
+msgstr "Tem que ter ALGO de valor nisto!..."
 
 #: src/Item.cpp:1755
 msgid "Roasted Chicken"
-msgstr ""
+msgstr "Galinha Assada"
 
 #: src/Item.cpp:1756
 msgid "Organic, Cage-free, Dungeon Raised Grade A Chicken."
-msgstr ""
+msgstr "Frango orgânico, sem gaiola, criadas em calabouços Classe A."
 
 #: src/Item.cpp:1762
 msgid "Rotten Chicken"
-msgstr ""
+msgstr "Galinha Podre"
 
 #: src/Item.cpp:1763
 msgid "Check the expiration date."
-msgstr ""
+msgstr "Confira a data de validade."
 
 #: src/Item.cpp:1769
 msgid "Cooked Eye"
-msgstr ""
+msgstr "Olho Cozido"
 
 #: src/Item.cpp:1770
 msgid "Juicy like a grape."
-msgstr ""
+msgstr "Suculento como uva."
 
 #: src/Item.cpp:1776
 msgid "Sashimi"
-msgstr ""
+msgstr "Sashimi"
 
 #: src/Item.cpp:1777
 msgid "Serve with soy sauce."
-msgstr ""
+msgstr "Servido com molho de soja."
 
 #: src/Item.cpp:1783
 msgid "Candy"
-msgstr ""
+msgstr "Doce"
 
 #: src/Item.cpp:1784
 msgid "Pure sugar goodness."
-msgstr ""
+msgstr "Maravilhoso puro açúcar."
 
 #: src/Item.cpp:1790
 msgid "Sack of Loot"
-msgstr ""
+msgstr "Saco de Pilhagem"
 
 #: src/Item.cpp:1791
 msgid "It could contain *anything*."
-msgstr ""
+msgstr "Pode contar \"alguma coisa\"."
 
 #: src/Item.cpp:1797
 msgid "Unarmed"
@@ -3171,44 +3209,44 @@ msgstr "não-Identificado"
 
 #: src/Item.cpp:4447
 msgid "99 Damage On Explosion"
-msgstr ""
+msgstr "99 de Dano em Explosões"
 
 #: src/Item.cpp:4451
 msgid "Deals 0 Damage"
-msgstr ""
+msgstr "Aplica 0 de Dano"
 
 #: src/Item.cpp:4459
 msgctxt "3-7 Damage"
 msgid "{1}-{2} Damage"
-msgstr "{1}-{2} Damage"
+msgstr "Dano {1}-{2}"
 
 #: src/Item.cpp:4474
 msgid "Charges"
-msgstr ""
+msgstr "Cargas"
 
 #: src/Item.cpp:4498
 msgid "Vorpal Attack Speed"
-msgstr ""
+msgstr "Vortice de Ataques"
 
 #: src/Item.cpp:4502
 msgid "Very Fast Attack Speed"
-msgstr ""
+msgstr "Ataque Super Rapido"
 
 #: src/Item.cpp:4506
 msgid "Fast Attack Speed"
-msgstr ""
+msgstr "Ataque Rapido"
 
 #: src/Item.cpp:4510
 msgid "Normal Attack Speed"
-msgstr ""
+msgstr "Ataque Normal"
 
 #: src/Item.cpp:4514
 msgid "Slow Attack Speed"
-msgstr ""
+msgstr "Ataque Lento"
 
 #: src/Item.cpp:4518
 msgid "Very Slow Attack Speed"
-msgstr ""
+msgstr "Ataque Muito Lento"
 
 #: src/Item.cpp:4615
 msgid "God Cursed!"
@@ -3225,7 +3263,7 @@ msgstr "Roubado"
 #: src/Item.cpp:4834
 msgctxt "item name order 1(prefix) 2(base item name) 3(suffix)"
 msgid "{1} {2} {3}"
-msgstr "{3} {2} {1}"
+msgstr "{1} {2} {3}"
 
 #: src/Item.cpp:4838
 msgctxt "item name order 1(prefix) 2(base item name)"
@@ -3523,7 +3561,7 @@ msgstr "Invocar Monstros"
 
 #: src/Skill.cpp:394
 msgid "Lightning"
-msgstr "Raio"
+msgstr "Tempestade"
 
 #: src/Skill.cpp:395
 msgid "Chain Lightning"
@@ -3597,15 +3635,14 @@ msgstr "Arremessar Osso"
 msgid "Whistle"
 msgstr "Assobio"
 
-# Deixei entre aspas porque não acho que combine com certos nomes de skil se botar "Livro de". Sujeito a mudança.
 #: src/Skill.cpp:508
 msgctxt "Skill book name"
 msgid "Book of {1}"
-msgstr "Livro de \"{1}\""
+msgstr "{1}"
 
 #: src/Skill.cpp:518
 msgid "Level: {1}"
-msgstr "Level: {1}"
+msgstr "Nivel {1}"
 
 #: src/AffinityDagger.cpp:17
 msgid "Anatomy Studies"
@@ -3613,7 +3650,7 @@ msgstr "Estudos de Anatomia"
 
 #: src/AffinityDagger.cpp:17
 msgid "Increased dagger damage and critical chance."
-msgstr "Aumenta o dano e chance critica de adagas."
+msgstr "Aumenta o dano e chance critica das adagas."
 
 #: src/AffinityDagger.cpp:18
 msgid "Dagger Tricks"
@@ -3625,7 +3662,7 @@ msgid ""
 "owner."
 msgstr ""
 "Segura pra Cima (⇧) e ataque para jogar sua adaga. Adagas jogadas irão "
-"retornar ao seu dono."
+"retornar para seu dono."
 
 #: src/AffinityDagger.cpp:19
 msgid "Dagger Mastery"
@@ -4148,7 +4185,7 @@ msgstr "Caçador"
 
 #: src/PlayerMenu.cpp:1799
 msgid "Died to {1}"
-msgstr "Morreu por {1}"
+msgstr "Morru para {1}"
 
 #: src/PlayerMenu.cpp:1806
 msgid "{1} Deaths to {2}"
@@ -4180,7 +4217,7 @@ msgstr "Morte Misteriosa"
 
 #: src/PlayerMenu.cpp:1891
 msgid "{1} Deaths as a {2}"
-msgstr "{1} Mortes para o(a) {2}"
+msgstr "{1} Mortes com {2}"
 
 #: src/PlayerMenu.cpp:1910
 msgctxt "Game over menu"
@@ -4250,7 +4287,7 @@ msgstr "Próximo nivel"
 
 #: src/PlayerMenu.cpp:2115
 msgid "Level up"
-msgstr "Subir level"
+msgstr "Subir Nivel"
 
 #: src/PlayerMenu.cpp:3481
 msgid "Configure"
@@ -4395,15 +4432,15 @@ msgstr "Movimente-se livremente enquanto conjura magias."
 
 #: src/Affinity.cpp:105
 msgid "Level {1} (NEXT)"
-msgstr "Level {1} (PRÓXIMO)"
+msgstr "Nivel {1} (PRÓXIMO)"
 
 #: src/Affinity.cpp:111
 msgid "Level {1} (MAXED)"
-msgstr "Level {1} (MÁXIMO)"
+msgstr "Nivel {1} (MÁXIMO)"
 
 #: src/Affinity.cpp:115
 msgid "Level {1} (LEARNED)"
-msgstr "Level {1} (APRENDIDO)"
+msgstr "Nivel {1} (APRENDIDO)"
 
 #: src/NetMenu.cpp:135
 msgid "Lobby Name"
@@ -4500,7 +4537,7 @@ msgstr "Adepto de Varinha"
 
 #: src/AffinityRod.cpp:15
 msgid "Increase rod recharge rate."
-msgstr "Aumenta a recarga das varinhas."
+msgstr "Aumenta a força de recarga das varinhas."
 
 #: src/AffinityRod.cpp:16
 msgid "Overcharge"
@@ -4508,7 +4545,7 @@ msgstr "Sobrecarga"
 
 #: src/AffinityRod.cpp:16
 msgid "Charge rod to increase damage."
-msgstr "Carregue o poder da Varinha para aumentar o dano."
+msgstr "Segure o poder da Varinha para aumentar seu dano."
 
 #: src/AffinityRod.cpp:18
 msgid "Spell Syphon"
@@ -4776,7 +4813,7 @@ msgstr ""
 #: src/AffinityStats.cpp:63
 msgctxt "+3 Total Strength"
 msgid "+{1} Total {2}"
-msgstr "+{2} Total {1}"
+msgstr "+{1} de {2}"
 
 #: src/AffinityStats.cpp:70
 msgid "Heavy Blows"
@@ -5288,7 +5325,7 @@ msgstr "Familiar da Vingança"
 
 #: src/ItemAttribute.cpp:385
 msgid "Death Protection"
-msgstr "Proteção de Morte"
+msgstr "Proteção da Morte"
 
 #: src/ItemAttribute.cpp:388
 msgid "Cling to Life"
@@ -5986,7 +6023,7 @@ msgstr "Venenoso"
 
 #: src/ItemAttribute.cpp:835
 msgid "+{1} strength"
-msgstr "+{1} força"
+msgstr "+{1} Força"
 
 #: src/ItemAttribute.cpp:836
 msgid "of Strength"
@@ -6002,7 +6039,7 @@ msgstr "da Enfraquecimento"
 
 #: src/ItemAttribute.cpp:848
 msgid "+{1} dexterity"
-msgstr "+{1} destreza"
+msgstr "+{1} Destreza"
 
 #: src/ItemAttribute.cpp:849
 msgid "of Dexterity"
@@ -6010,7 +6047,7 @@ msgstr "da Destreza"
 
 #: src/ItemAttribute.cpp:853
 msgid "-{1} dexterity"
-msgstr "-{1} destreza"
+msgstr "-{1} Destreza"
 
 #: src/ItemAttribute.cpp:854
 msgid "of Fumbling"
@@ -6018,7 +6055,7 @@ msgstr "do Desastrado"
 
 #: src/ItemAttribute.cpp:861
 msgid "+{1} vitality"
-msgstr "+{1} vitalidade"
+msgstr "+{1} Vitalidade"
 
 #: src/ItemAttribute.cpp:862
 msgid "of Vitality"
@@ -6026,7 +6063,7 @@ msgstr "da Vitalidade"
 
 #: src/ItemAttribute.cpp:866
 msgid "-{1} vitality"
-msgstr "-{1} vitalidade"
+msgstr "-{1} Vitalidade"
 
 #: src/ItemAttribute.cpp:867
 msgid "of Debilitation"
@@ -6034,7 +6071,7 @@ msgstr "da Decadência"
 
 #: src/ItemAttribute.cpp:874
 msgid "+{1} speed"
-msgstr "+{1} agilidade"
+msgstr "+{1} Agilidade"
 
 #: src/ItemAttribute.cpp:875
 msgid "of Speed"
@@ -6042,7 +6079,7 @@ msgstr "da Rapidez"
 
 #: src/ItemAttribute.cpp:879
 msgid "-{1} speed"
-msgstr "-{1} agilidade"
+msgstr "-{1} Agilidade"
 
 #: src/ItemAttribute.cpp:880
 msgid "of Lethargy"
@@ -6050,7 +6087,7 @@ msgstr "da Lentidão"
 
 #: src/ItemAttribute.cpp:887
 msgid "+{1} stability"
-msgstr "+{1} equilíbrio"
+msgstr "+{1} Equilíbrio"
 
 #: src/ItemAttribute.cpp:888
 msgid "of Stability"
@@ -6058,7 +6095,7 @@ msgstr "do Equilíbrio"
 
 #: src/ItemAttribute.cpp:892
 msgid "-{1} stability"
-msgstr "-{1} equilíbrio"
+msgstr "-{1} Equilíbrio"
 
 #: src/ItemAttribute.cpp:893
 msgid "of Unsteadiness"
@@ -6066,7 +6103,7 @@ msgstr "do Desequilíbrio"
 
 #: src/ItemAttribute.cpp:900
 msgid "+{1} intelligence"
-msgstr "+{1} inteligência"
+msgstr "+{1} Inteligência"
 
 #: src/ItemAttribute.cpp:901
 msgid "of Intelligence"
@@ -6074,7 +6111,7 @@ msgstr "da Sabedoria"
 
 #: src/ItemAttribute.cpp:905
 msgid "-{1} intelligence"
-msgstr "-{1} inteligência"
+msgstr "-{1} Inteligência"
 
 #: src/ItemAttribute.cpp:906
 msgid "of Stupidity"
@@ -6082,7 +6119,7 @@ msgstr "da Estupidez"
 
 #: src/ItemAttribute.cpp:913
 msgid "+{1} luck"
-msgstr "+{1} sorte"
+msgstr "+{1} Sorte"
 
 #: src/ItemAttribute.cpp:914
 msgid "of Luck"
@@ -6090,11 +6127,11 @@ msgstr "da Sorte"
 
 #: src/ItemAttribute.cpp:918
 msgid "-{1} luck"
-msgstr "-{1} sorte"
+msgstr "-{1} Sorte"
 
 #: src/ItemAttribute.cpp:919
 msgid "of Unluckiness"
-msgstr "do Azar"
+msgstr "da Azar"
 
 #: src/AffinityShadow.cpp:16
 msgid "Shadow"
@@ -6497,7 +6534,7 @@ msgstr "Derrotar o chefe de uma fase encherá completamente seu level."
 msgid ""
 "While spikes are a lethal threat, they can also be used against most enemies."
 msgstr ""
-"Embora os picos sejam uma ameaça letal, eles também podem ser usados contra "
+"Embora espinhos sejam uma ameaça letal, eles também podem ser usados contra "
 "a maioria dos inimigos."
 
 #: src/Client.cpp:9020
