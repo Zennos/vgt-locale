@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-14 23:55-0300\n"
+"PO-Revision-Date: 2021-01-15 14:01-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1420,109 +1420,110 @@ msgstr[1] "Flechas"
 
 #: src/Item.cpp:475
 msgid "Stone tipped, and fletched with an Ozir's feathers."
-msgstr ""
+msgstr "Pedra laçada e, um graveto com uma pena de Ozir's."
 
 #: src/Item.cpp:485
 msgid "Explosive Arrow"
 msgid_plural "Explosive Arrows"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Flecha Explosiva"
+msgstr[1] "Flechas Explosivas"
 
 #: src/Item.cpp:487
 msgid "A common arrow, with a bomb attached to the end of it."
-msgstr ""
+msgstr "Uma flecha comum, com uma bomba acoplada m sua cabeça."
 
 #: src/Item.cpp:495
 msgid "Potion of Regeneration"
-msgstr ""
+msgstr "Poção de Regeneração"
 
 #: src/Item.cpp:496
 msgid "Heals everything from papercuts to broken bones."
-msgstr ""
+msgstr "Cura tudo, desde cortes de papel até ossos quebrados."
 
 #: src/Item.cpp:497
 msgid "You begin to regenerate."
-msgstr ""
+msgstr "Você começou a se Regenerar."
 
 #: src/Item.cpp:500
 msgid "Potion of Poison"
-msgstr ""
+msgstr "Poção de Veneno"
 
 #: src/Item.cpp:501
 msgid "Best not drink this."
-msgstr ""
+msgstr "Melhor não beber isto."
 
 #: src/Item.cpp:502
 msgid "That tasted strange."
-msgstr ""
+msgstr "Isto tem um sabor estranho."
 
 #: src/Item.cpp:505
 msgid "Potion of Featherfall"
-msgstr ""
+msgstr "Poção de Leveza"
 
 #: src/Item.cpp:506
 msgid "Grants a feeling of weightlessness."
-msgstr ""
+msgstr "Garante leveza, como se não tivesse peso."
 
 #: src/Item.cpp:507
 msgid "Your body feels weightless."
-msgstr ""
+msgstr "Você sente seu corpo sem peso."
 
 #: src/Item.cpp:510
 msgid "Potion of Quickness"
-msgstr ""
+msgstr "Poção de Rapidez."
 
 #: src/Item.cpp:511
 msgid "The very essence of wind is stoppered in this flask."
-msgstr ""
+msgstr "Cada essência do vento está presa dentro deste frasco."
 
 #: src/Item.cpp:512
 msgid "You feel quicker."
-msgstr ""
+msgstr "Você se sente rápido."
 
 #: src/Item.cpp:515
 msgid "Potion of Defense"
-msgstr ""
+msgstr "Poção de Defesa"
 
 #: src/Item.cpp:516
 msgid "Drinking this hardens the skin."
-msgstr ""
+msgstr "Beber está poção deixa dura sua pele."
 
 #: src/Item.cpp:517
 msgid "Your skin hardens."
-msgstr ""
+msgstr "Sua pele enrijece."
 
 #: src/Item.cpp:520
 msgid "Potion of Vigor"
-msgstr ""
+msgstr "Poção de Vigor"
 
 #: src/Item.cpp:521
 msgid "It's imbued with the fortitude of a giant."
-msgstr ""
+msgstr "Está imbuída com a força de um gigante."
 
 #: src/Item.cpp:522
 msgid "You feel strong."
-msgstr ""
+msgstr "Você se sente forte."
 
 #: src/Item.cpp:525
 msgid "Potion of Magic"
-msgstr ""
+msgstr "Poção de Magia"
 
 #: src/Item.cpp:526
 msgid "Grants increased magic power and recharges your skills."
 msgstr ""
+"Garante aumento em seus poderes mágicos e recargas de suas habilidades."
 
 #: src/Item.cpp:527
 msgid "Magic courses through you."
-msgstr ""
+msgstr "Magia flui através de você."
 
 #: src/Item.cpp:530
 msgid "Potion of Strength"
-msgstr ""
+msgstr "Poção de Força"
 
 #: src/Item.cpp:531
 msgid "Increases your STR by one."
-msgstr ""
+msgstr "Aumenta sua FOR em +1."
 
 #: src/Item.cpp:532
 msgid "STR +1"
@@ -1530,11 +1531,11 @@ msgstr "FOR +1"
 
 #: src/Item.cpp:535
 msgid "Potion of Intelligence"
-msgstr ""
+msgstr "Poção de Inteligencia"
 
 #: src/Item.cpp:536
 msgid "Increases your INT by one."
-msgstr ""
+msgstr "Aumenta sua INT em +1."
 
 #: src/Item.cpp:537
 msgid "INT +1"
@@ -1542,11 +1543,11 @@ msgstr "INT +1"
 
 #: src/Item.cpp:540
 msgid "Potion of Dexterity"
-msgstr ""
+msgstr "Poção de Destreza"
 
 #: src/Item.cpp:541
 msgid "Increases your DEX by one."
-msgstr ""
+msgstr "Aumenta sua DES em +1."
 
 #: src/Item.cpp:542
 msgid "DEX +1"
@@ -1554,11 +1555,11 @@ msgstr "DES +1"
 
 #: src/Item.cpp:545
 msgid "Potion of Luck"
-msgstr ""
+msgstr "Poção de Sorte"
 
 #: src/Item.cpp:546
 msgid "Increases your LUK by one."
-msgstr ""
+msgstr "Aumenta sua SOR em +1."
 
 #: src/Item.cpp:547
 msgid "LUK +1"
@@ -1566,23 +1567,23 @@ msgstr "SOR +1"
 
 #: src/Item.cpp:550
 msgid "Potion of Vitality"
-msgstr ""
+msgstr "Poção de Vitalidade"
 
 #: src/Item.cpp:551
 msgid "Increases your VIT by one."
-msgstr ""
+msgstr "Aumenta sua VIT em +1."
 
 #: src/Item.cpp:552
 msgid "VIT +1"
-msgstr "VID +1"
+msgstr "VIT +1"
 
 #: src/Item.cpp:555
 msgid "Potion of Speed"
-msgstr ""
+msgstr "Poção de Agilidade"
 
 #: src/Item.cpp:556
 msgid "Increases your SPD by one."
-msgstr ""
+msgstr "Aumenta sua AGI em +1."
 
 #: src/Item.cpp:557
 msgid "SPD +1"
@@ -1590,11 +1591,11 @@ msgstr "AGI+ 1"
 
 #: src/Item.cpp:560
 msgid "Potion of Fire Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Fogo"
 
 #: src/Item.cpp:561
 msgid "Increases your Fire Res by one."
-msgstr ""
+msgstr "Aumenta sua Resistencia a Fogo em +1"
 
 #: src/Item.cpp:562
 msgid "FIRERES +1"
@@ -1602,11 +1603,11 @@ msgstr "RESFOGO +1"
 
 #: src/Item.cpp:565
 msgid "Potion of Cold Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Gelo"
 
 #: src/Item.cpp:566
 msgid "Increases your Cold Res by one."
-msgstr ""
+msgstr "Aumenta sua Resistencia a Gelo em +1"
 
 #: src/Item.cpp:567
 msgid "COLDRES +1"
@@ -1614,11 +1615,11 @@ msgstr "RESGELO +1"
 
 #: src/Item.cpp:570
 msgid "Potion of Lightning Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Eletricidade"
 
 #: src/Item.cpp:571
 msgid "Increases your Light Res by one."
-msgstr ""
+msgstr "Aumenta sua Resistencia a Eletricidade em +1"
 
 #: src/Item.cpp:572
 msgid "ELECRES +1"
@@ -1626,11 +1627,11 @@ msgstr "RESELEC +1"
 
 #: src/Item.cpp:575
 msgid "Potion of Poison Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Veneno"
 
 #: src/Item.cpp:576
 msgid "Increases your Poison Res by one."
-msgstr ""
+msgstr "Aumenta sua Resistencia a Veneno em +1"
 
 #: src/Item.cpp:577
 msgid "POISRES +1"
@@ -1638,111 +1639,111 @@ msgstr "RESVEN +1"
 
 #: src/Item.cpp:580
 msgid "Potion of Lower Strength"
-msgstr ""
+msgstr "Poção de Força Menor"
 
 #: src/Item.cpp:581
 msgid "Decreases your STR by one."
-msgstr ""
+msgstr "Diminui sua FOR em -1"
 
 #: src/Item.cpp:582
 msgid "STR -1"
-msgstr ""
+msgstr "FOR -1"
 
 #: src/Item.cpp:585
 msgid "Potion of Lower Intelligence"
-msgstr ""
+msgstr "Poção de Inteligência Menor "
 
 #: src/Item.cpp:586
 msgid "Decreases your INT by one."
-msgstr ""
+msgstr "Diminui sua INT em -1"
 
 #: src/Item.cpp:587
 msgid "INT -1"
-msgstr ""
+msgstr "INT -1"
 
 #: src/Item.cpp:590
 msgid "Potion of Lower Dexterity"
-msgstr ""
+msgstr "Poção de Destreza Menor"
 
 #: src/Item.cpp:591
 msgid "Decreases your DEX by one."
-msgstr ""
+msgstr "Diminui sua DES em -1"
 
 #: src/Item.cpp:592
 msgid "DEX -1"
-msgstr ""
+msgstr "DES -1"
 
 #: src/Item.cpp:595
 msgid "Potion of Lower Luck"
-msgstr ""
+msgstr "Poção de Sorte Menor"
 
 #: src/Item.cpp:596
 msgid "Decreases your LUK by one."
-msgstr ""
+msgstr "Diminui sua SOR em -1"
 
 #: src/Item.cpp:597
 msgid "LUK -1"
-msgstr ""
+msgstr "SOR -1"
 
 #: src/Item.cpp:600
 msgid "Potion of Lower Vitality"
-msgstr ""
+msgstr "Poção de Vitalidade Menor"
 
 #: src/Item.cpp:601
 msgid "Decreases your VIT by one."
-msgstr ""
+msgstr "Diminui sua VIT em -1"
 
 #: src/Item.cpp:602
 msgid "VIT -1"
-msgstr ""
+msgstr "VIT -1"
 
 #: src/Item.cpp:605
 msgid "Potion of Lower Fire Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Fogo Menor"
 
 #: src/Item.cpp:606
 msgid "Decreases your Fire Res by one."
-msgstr ""
+msgstr "Diminui sua Resistencia a Fogo em -1"
 
 #: src/Item.cpp:607
 msgid "FIRERES -1"
-msgstr ""
+msgstr "RESFOGO -1"
 
 #: src/Item.cpp:610
 msgid "Potion of Lower Cold Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Gelo Menor"
 
 #: src/Item.cpp:611
 msgid "Decreases your Cold Res by one."
-msgstr ""
+msgstr "Diminui sua Resistencia a Gelo em -1"
 
 #: src/Item.cpp:612
 msgid "COLDRES -1"
-msgstr ""
+msgstr "RESGELO -1"
 
 #: src/Item.cpp:615
 msgid "Potion of Lower Lightning Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Eletricidade Menor"
 
 #: src/Item.cpp:616
 msgid "Decreases your Light Res by one."
-msgstr ""
+msgstr "Diminui sua Resistencia a Eletricidade em -1"
 
 #: src/Item.cpp:617
 msgid "ELECRES -1"
-msgstr ""
+msgstr "RESELEC -1"
 
 #: src/Item.cpp:620
 msgid "Potion of Lower Poison Resistance"
-msgstr ""
+msgstr "Poção de Resistencia a Veneno Menor"
 
 #: src/Item.cpp:621
 msgid "Decreases your Poison Res by one."
-msgstr ""
+msgstr "Diminui sua Resistencia a Veneno em -1"
 
 #: src/Item.cpp:622
 msgid "POISRES -1"
-msgstr ""
+msgstr "RESVEN -1"
 
 #: src/Item.cpp:626
 msgid "Scroll of Magic Mapping"
@@ -1843,190 +1844,202 @@ msgstr "IDENTIFICAR"
 
 #: src/Item.cpp:671
 msgid "Wooden Club"
-msgstr ""
+msgstr "Clava de Madeira"
 
 #: src/Item.cpp:672
 msgid "It's a stout stick of wood, with nails sticking out of its blunt end."
 msgstr ""
+"Isto é um pedaço de porrete de madeira, com pregos acoplados em sua cabeça."
 
 #: src/Item.cpp:676
 msgid "Hammer"
-msgstr ""
+msgstr "Martelo"
 
 #: src/Item.cpp:677
 msgid "A crude hammer, its head fashioned from stone."
-msgstr ""
+msgstr "Um martelo cru, com sua cabeça esculpida em pedra."
 
 #: src/Item.cpp:681
 msgid "Flanged Mace"
-msgstr ""
+msgstr "Maça Junta"
 
 #: src/Item.cpp:682
 msgid "Not the spicy kind of mace."
-msgstr ""
+msgstr "Não é o tipo mais pontudo de maça."
 
 #: src/Item.cpp:686
 msgid "Morning Star"
-msgstr ""
+msgstr "Estrela da Manhã"
 
 #: src/Item.cpp:687
 msgid "Everything is better with spikes!"
-msgstr ""
+msgstr "Tudo fica melhor com espinhos!"
 
 #: src/Item.cpp:691
 msgid "War Hammer"
-msgstr ""
+msgstr "Martelo de Guerra"
 
 #: src/Item.cpp:692
 msgid "One blow from this would crush even the mightiest of armors."
 msgstr ""
+"Um movimento dessa coisa pode quebrar até mesmo as mais fortes armaduras."
 
 #: src/Item.cpp:696
 msgid "Bludgeon"
-msgstr ""
+msgstr "Bastinado"
 
 #: src/Item.cpp:697
 msgid "VERY difficult to clean..."
-msgstr ""
+msgstr "MUITO difícil de se limpar..."
 
 #: src/Item.cpp:701
 msgid "Spearheaded Baton"
-msgstr ""
+msgstr "Bastão Lanceiro"
 
 #: src/Item.cpp:702
 msgid "It looks like a spear, but swings like a club!"
-msgstr ""
+msgstr "Parece uma lança, mas se movimenta como uma clava!"
 
 #: src/Item.cpp:706
 msgid "Flail"
-msgstr ""
+msgstr "Mangual"
 
 #: src/Item.cpp:707
 msgid "Difficult to control, but it packs a punch."
-msgstr ""
+msgstr "Difícil de controlar, mas isso dói um bocado."
 
 #: src/Item.cpp:711
 msgid "Woodsman's Axe"
-msgstr ""
+msgstr "Machado de Lenhador"
 
 #: src/Item.cpp:712
 msgid "Ideal for chopping wood and foes alike."
-msgstr ""
+msgstr "Ideal para cortar madeira e inimigos também."
 
 #: src/Item.cpp:716
 msgid "Battle Axe"
-msgstr ""
+msgstr "Machado de Batalha"
 
 #: src/Item.cpp:717
 msgid "Heavy, yet perfectly balanced."
-msgstr ""
+msgstr "Pesado, mas perfeito para balanço."
 
 #: src/Item.cpp:721
 msgid "Lightning Wand"
-msgstr ""
+msgstr "Cajado de Raios"
 
 #: src/Item.cpp:722
 msgid ""
 "A tool which converts magic charges into electricity.  The device appears to "
 "be magically grounded."
 msgstr ""
+"Uma ferramenta que converte magia em cargas de Eletricidade. Um dispositivo "
+"aparentemente baseado em magia."
 
 #: src/Item.cpp:727
 msgid "Fire Wand"
-msgstr ""
+msgstr "Cajado de Fogo"
 
 #: src/Item.cpp:728
 msgid "A tool which converts magic charges into balls of fire."
-msgstr ""
+msgstr "Uma ferramenta que converte magia em cargas de Fogo."
 
 #: src/Item.cpp:733
 msgid "Ice Wand"
-msgstr ""
+msgstr "Cajado de Gelo"
 
 #: src/Item.cpp:734
 msgid "A tool which converts magic charges into shards of ice."
-msgstr ""
+msgstr "Uma ferramenta que converte magia em cargas de Gelo."
 
 #: src/Item.cpp:739
 msgid "Wand of Chaos"
-msgstr ""
+msgstr "Cajado do Caos"
 
 #: src/Item.cpp:740
 msgid ""
 "A tool which converts magic charges into unpredictable effects. Dangerous to "
 "the unlucky."
 msgstr ""
+"Uma ferramenta que converte magia em cargas imprevisíveis de Caos. Perigoso "
+"aos sem Sorte."
 
 #: src/Item.cpp:745
 msgid "Wand of Blink"
-msgstr ""
+msgstr "Cajado de Translocar"
 
 #: src/Item.cpp:746
 msgid ""
 "A tool which uses magic charges to teleport the wielder a short distance."
 msgstr ""
+"Uma ferramenta que usa magia para Teleportar o usuário a curtas e longas "
+"distancias."
 
 #: src/Item.cpp:751
 msgid "Wand of Pestilence"
-msgstr ""
+msgstr "Cajado de Pestilencia"
 
 #: src/Item.cpp:752
 msgid ""
 "A tool which converts magic charges into particularly foul toxic clouds."
-msgstr ""
+msgstr "Uma ferramenta que converte magia em cargas de fumaça toxica."
 
 #: src/Item.cpp:757
 msgid "Wand of Digging"
-msgstr ""
+msgstr "Cajado de Cavar"
 
 #: src/Item.cpp:758
 msgid "A tool which uses magic charges to dismantle terrain."
-msgstr ""
+msgstr "Uma ferramenta que usa magia para destrinchar terrenos."
 
 #: src/Item.cpp:763
 msgid "Wand of Healing"
-msgstr ""
+msgstr "Cajado de Cura"
 
 #: src/Item.cpp:764
 msgid "A tool which conjures magical healing orbs."
-msgstr ""
+msgstr "Uma ferramenta que conjura orbes de cura."
 
 #: src/Item.cpp:777
 msgid "Magic Rod"
-msgstr ""
+msgstr "Varinha Magica"
 
 #: src/Item.cpp:778
 msgid "A magic weapon that recharges from hitting enemies. Hold attack to use."
 msgstr ""
+"Uma arma magica que recarrega ao acertar inimigos. Segure Ataque para usar "
+"Cargas."
 
 #: src/Item.cpp:783
 msgid "Spacer Rod"
-msgstr ""
+msgstr "Varinha Espaçadora"
 
 #: src/Item.cpp:784 src/Item.cpp:790
 msgid ""
 "A magic weapon that recharges from hitting enemies.  Hold attack to use."
 msgstr ""
+"Uma arma que distribui duas orbes magicas que se entrelaçam até um alvo em "
+"frente. Segure ataque para Liberar."
 
 #: src/Item.cpp:789
 msgid "Wave Rod"
-msgstr ""
+msgstr "Varinha Arco-íris"
 
 #: src/Item.cpp:795
 msgid "Spear"
-msgstr ""
+msgstr "Lança"
 
 #: src/Item.cpp:796
 msgid "It's just a knife at the end of a stick."
-msgstr ""
+msgstr "É só uma faca no final de um bastãozinho."
 
 #: src/Item.cpp:800
 msgid "Caestus"
-msgstr ""
+msgstr "Soqueira"
 
 #: src/Item.cpp:801
 msgid "Drastically improve effectiveness of your punches."
-msgstr ""
+msgstr "Melhora drasticamente a eficácia dos seus Socos."
 
 #: src/Item.cpp:805
 msgid "Claw"
@@ -2038,11 +2051,11 @@ msgstr "Uma criação selvagem que dissipa carne em pedaços."
 
 #: src/Item.cpp:810
 msgid "Qatar"
-msgstr ""
+msgstr "Qatar"
 
 #: src/Item.cpp:811
 msgid "Hand-mounted blade that can be easily concealed."
-msgstr ""
+msgstr "Lâmina montada à mão que pode ser facilmente escondida."
 
 #: src/Item.cpp:815
 msgid "Copper Sword"
@@ -2054,37 +2067,39 @@ msgstr "Não é a mais afiada, mas faz seu trabalho."
 
 #: src/Item.cpp:820
 msgid "Steel Sword"
-msgstr ""
+msgstr "Espada de Aço"
 
 #: src/Item.cpp:821
 msgid "A perfectly balanced steel sword."
-msgstr ""
+msgstr "Uma espada de aço perfeitamente equilibrada."
 
 #: src/Item.cpp:825
 msgid "Broad Sword"
-msgstr ""
+msgstr "Espada Larga"
 
 #: src/Item.cpp:826
 msgid "A little heavy, but still quite sharp."
-msgstr ""
+msgstr "Um pouco pesada, mas ainda afiada."
 
 #: src/Item.cpp:830
 msgid "Dragon Slayer"
-msgstr ""
+msgstr "Matadora de Dragão"
 
 #: src/Item.cpp:831
 msgid "It's simply TOO BIG."
-msgstr ""
+msgstr "É simplesmente MUITO GRANDE."
 
 #: src/Item.cpp:835
 msgid "Bone Sword"
-msgstr ""
+msgstr "Espada de Ossos"
 
 #: src/Item.cpp:836
 msgid ""
 "Its jagged edge is carved from a large creature's bone. It looks well suited "
 "to ripping flesh."
 msgstr ""
+"Sua borda denteada é esculpida em um osso de uma grande criatura. Parece bem "
+"adequado para rasgar carne."
 
 #: src/Item.cpp:840 src/AffinityDagger.cpp:16
 msgid "Dagger"
@@ -2092,73 +2107,76 @@ msgstr "Adaga"
 
 #: src/Item.cpp:841
 msgid "Its small size belies its sharp point."
-msgstr ""
+msgstr "Seu tamanho pequeno desmente sua ponta afiada."
 
 #: src/Item.cpp:845
 msgid "Baselard"
-msgstr ""
+msgstr "Adaga Baselard"
 
 #: src/Item.cpp:846
 msgid "Its distinctive hilt fits easily in the hands."
-msgstr ""
+msgstr "Seu punho distinto se encaixa facilmente nas mãos."
 
 #: src/Item.cpp:850
 msgid "Glass Blade"
-msgstr ""
+msgstr "Adaga de Vidro"
 
 #: src/Item.cpp:851
 msgid "It has an exceptionally sharp edge."
-msgstr ""
+msgstr "Tem suas laminas excepcionalmente afiadas."
 
 #: src/Item.cpp:855
 msgid "Short Bow"
-msgstr ""
+msgstr "Arco Curto"
 
 #: src/Item.cpp:856
 msgid "A bow well-suited to a beginner archer."
-msgstr ""
+msgstr "Um arco bem versátil para arqueiros iniciantes."
 
 #: src/Item.cpp:860
 msgid "Longbow"
-msgstr ""
+msgstr "Arco Longo"
 
 #: src/Item.cpp:861
 msgid ""
 "Strung on the ends of a large piece of yew, this bow requires some strength "
 "to pull."
 msgstr ""
+"Amarrado nas pontas de um grande pedaço de teixo, este arco requer alguma "
+"força para puxar."
 
 #: src/Item.cpp:866
 msgid "Always ready to fire, as long as you reload it after shooting."
 msgstr ""
+"Sempre pronto para atirar, contanto que você recarregue após o disparo."
 
 #: src/Item.cpp:870
 msgid "Arm Cannon"
-msgstr ""
+msgstr "Canhão de Braço"
 
 #: src/Item.cpp:871
 msgid "Capable of destroying most military-grade biological AI constructs."
-msgstr ""
+msgstr "Capaz de Destruir a maioria da grade biológica dos constructos."
 
 #: src/Item.cpp:876
 msgid "Bomb"
-msgstr ""
+msgstr "Bomba"
 
 #: src/Item.cpp:877
 msgid "Packs quite a punch."
-msgstr ""
+msgstr "Faz um belo estrago."
 
 #: src/Item.cpp:885
 msgid "It always seems to come back to you.  Sometimes..."
-msgstr ""
+msgstr "Parece sempre voltar para você. As vezes..."
 
 #: src/Item.cpp:889
 msgid "Enchanted Boomerang"
-msgstr ""
+msgstr "Boomerang Encantado"
 
 #: src/Item.cpp:890
 msgid "It always seems to come back to you!"
-msgstr ""
+msgstr "Parece sempre voltar a você!"
 
 #: src/Item.cpp:894
 msgid "Snowball"
@@ -2166,15 +2184,15 @@ msgstr "Bola de Neve"
 
 #: src/Item.cpp:895
 msgid "Fly straight and true, hit hard and square!"
-msgstr ""
+msgstr "Voa reto e direto, acerta duro e certeiro!"
 
 #: src/Item.cpp:901
 msgid "Throwing Dagger"
-msgstr ""
+msgstr "Adaga de Arremesso"
 
 #: src/Item.cpp:902
 msgid "A short and thin dagger, designed to fly straight when thrown."
-msgstr ""
+msgstr "Uma adaga curta e afiada, designada para voar em arremessos."
 
 #: src/Item.cpp:909
 msgid "Kerchief"
@@ -3219,39 +3237,39 @@ msgstr "{1} {2}"
 
 #: src/AffinityPetUtility.cpp:12
 msgid "Pet Utility"
-msgstr ""
+msgstr "Utilidade Animal"
 
 #: src/AffinityPetUtility.cpp:13
 msgid "Loud Bark"
-msgstr ""
+msgstr "Latido Alto"
 
 #: src/AffinityPetUtility.cpp:13
 msgid "Your pet's barks are more effective."
-msgstr ""
+msgstr "Os latidos do seu animal são mais efetivos."
 
 #: src/AffinityPetUtility.cpp:14
 msgid "Unceasing Din"
-msgstr ""
+msgstr "Ruído Incessante"
 
 #: src/AffinityPetUtility.cpp:14
 msgid "Your pet can bark more often."
-msgstr ""
+msgstr "Seu animal late com mais frequência."
 
 #: src/AffinityPetUtility.cpp:15
 msgid "Noisy Passenger"
-msgstr ""
+msgstr "Passageiro Barulhento"
 
 #: src/AffinityPetUtility.cpp:15
 msgid "Your pet can bark at enemies while carried."
-msgstr ""
+msgstr "Seu animal pode latir enquanto carregado."
 
 #: src/AffinityPetUtility.cpp:16
 msgid "Bouncy Missile"
-msgstr ""
+msgstr "Míssil Saltitante"
 
 #: src/AffinityPetUtility.cpp:16
 msgid "Your pet bounces when thrown."
-msgstr ""
+msgstr "Seu animal quica quando arremessado."
 
 #: src/AffinitySword.cpp:13
 msgid "Sword"
@@ -3385,7 +3403,7 @@ msgstr "Jogue uma esfera magica incrivelmente fria."
 
 #: src/Skill.cpp:130
 msgid "Launch a burning mass of destruction."
-msgstr ""
+msgstr "Lança uma massa de chamas de destruição."
 
 #: src/Skill.cpp:140
 msgid "Charm a target enemy."
@@ -3447,11 +3465,11 @@ msgstr "Uma esquecida técnica desenvolvida por seres imortais."
 
 #: src/Skill.cpp:300
 msgid "Sheath your body in a holy shield of invulnerability."
-msgstr ""
+msgstr "Preenche seu corpo em um escudo sagrado de invulnerabilidade."
 
 #: src/Skill.cpp:309
 msgid "Attack with holy light."
-msgstr ""
+msgstr "Ataca com Luz Sagrada."
 
 #: src/Skill.cpp:318
 msgid "Throw a bone."
@@ -3459,11 +3477,11 @@ msgstr "Jogue seus ossos."
 
 #: src/Skill.cpp:326
 msgid "Raise shards of ice from the ground."
-msgstr ""
+msgstr "Projeta pedaços de gelo a partir do solo."
 
 #: src/Skill.cpp:334
 msgid "Ignite flammable elements."
-msgstr ""
+msgstr "Explode elementos inflamáveis."
 
 #: src/Skill.cpp:343
 msgid "Whistle for your companion."
@@ -3471,117 +3489,117 @@ msgstr "Chame pelo seu companheiro."
 
 #: src/Skill.cpp:386
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #: src/Skill.cpp:387 src/StatusEffect.cpp:145
 msgid "Fire Shield"
-msgstr ""
+msgstr "Escudo de Fogo"
 
 #: src/Skill.cpp:388
 msgid "Psychic Push"
-msgstr ""
+msgstr "Puxão Psíquico"
 
 #: src/Skill.cpp:389
 msgid "Portal"
-msgstr ""
+msgstr "Portal"
 
 #: src/Skill.cpp:390
 msgid "Iceball"
-msgstr ""
+msgstr "Congelar"
 
 #: src/Skill.cpp:391
 msgid "Fireball"
-msgstr ""
+msgstr "Bola de Fogo"
 
 #: src/Skill.cpp:392
 msgid "Charm"
-msgstr ""
+msgstr "Charme"
 
 #: src/Skill.cpp:393
 msgid "Summon Monster"
-msgstr ""
+msgstr "Invocar Monstros"
 
 #: src/Skill.cpp:394
 msgid "Lightning"
-msgstr ""
+msgstr "Raio"
 
 #: src/Skill.cpp:395
 msgid "Chain Lightning"
-msgstr ""
+msgstr "Corrente de Raio"
 
 #: src/Skill.cpp:396
 msgid "Spirits"
-msgstr ""
+msgstr "Espiritos"
 
 #: src/Skill.cpp:397 src/ItemAttribute.cpp:678
 msgid "Blink"
-msgstr ""
+msgstr "Translocar"
 
 #: src/Skill.cpp:398
 msgid "Magic Missile"
-msgstr ""
+msgstr "Misseis Magicos"
 
 #: src/Skill.cpp:399
 msgid "Telekinesis"
-msgstr ""
+msgstr "Telepatia"
 
 #: src/Skill.cpp:400
 msgid "Shockwave"
-msgstr ""
+msgstr "Impacto"
 
 #: src/Skill.cpp:401
 msgid "Blue Firebolt"
-msgstr ""
+msgstr "Disparo Azul"
 
 #: src/Skill.cpp:402
 msgid "Circle of Light"
-msgstr ""
+msgstr "Circulo de Luz"
 
 #: src/Skill.cpp:403
 msgid "Eleclance"
-msgstr ""
+msgstr "Eletrocutar"
 
 #: src/Skill.cpp:404
 msgid "Frost Nova"
-msgstr ""
+msgstr "Gelar"
 
 #: src/Skill.cpp:405
 msgid "Flame Pillar"
-msgstr ""
+msgstr "Pilar de Chamas"
 
 #: src/Skill.cpp:406 src/StatusEffect.cpp:169
 msgid "Evil Transformation"
-msgstr ""
+msgstr "Transformação Demoniaca"
 
 #: src/Skill.cpp:407
 msgid "Ice Spire"
-msgstr ""
+msgstr "Espiral de Gelo"
 
 #: src/Skill.cpp:408
 msgid "Flare Nova"
-msgstr ""
+msgstr "Nova Chama"
 
 #: src/Skill.cpp:409
 msgid "Holy Shield"
-msgstr ""
+msgstr "Escudo Sagrado"
 
 #: src/Skill.cpp:410
 msgid "Divine Weapon"
-msgstr ""
+msgstr "Arma Divina"
 
 #: src/Skill.cpp:411
 msgid "Throw Bone"
-msgstr ""
+msgstr "Arremessar Osso"
 
 #: src/Skill.cpp:412
 msgid "Whistle"
-msgstr ""
+msgstr "Assobio"
 
 # Deixei entre aspas porque não acho que combine com certos nomes de skil se botar "Livro de". Sujeito a mudança.
 #: src/Skill.cpp:508
 msgctxt "Skill book name"
 msgid "Book of {1}"
-msgstr "Livro \"{1}\""
+msgstr "Livro de \"{1}\""
 
 #: src/Skill.cpp:518
 msgid "Level: {1}"
@@ -4284,11 +4302,11 @@ msgstr "Segure o botão de Ataque para um ataque mais forte."
 #: src/AffinityClub.cpp:19
 msgctxt "club affinity"
 msgid "Shockwave"
-msgstr ""
+msgstr "Impacto"
 
 #: src/AffinityClub.cpp:19
 msgid "Fully charged attacks unleash a powerful shockwave."
-msgstr "Ataques totalmente carregados cria uma poderosa onda de pedra."
+msgstr "Ataques totalmente carregados criam uma poderosa Onda de Impacto."
 
 #: src/AffinityClub.cpp:20
 msgid "Faster Charge"
@@ -4493,20 +4511,19 @@ msgstr "Carregue o poder da Varinha para aumentar o dano."
 
 #: src/AffinityRod.cpp:18
 msgid "Spell Syphon"
-msgstr ""
+msgstr "Absorver Magia"
 
 #: src/AffinityRod.cpp:18
 msgid "Rods will recharge from spell damage."
-msgstr "Cargas das varinhas recarregarão ao dar dano."
+msgstr "Cargas das varinhas recarregarão ao dar dano com Magia."
 
 #: src/AffinityRod.cpp:19
 msgid "Leech Cast"
 msgstr "Sanguessuga"
 
-# Não sei como isso funciona no jogo.
 #: src/AffinityRod.cpp:19
 msgid "Auto-cast rods if attack hits an enemy."
-msgstr ""
+msgstr "Auto libera cargas da varinha se o ataque acertar um inimigo."
 
 #: src/AffinityRod.cpp:20
 msgid "Conductor"
@@ -4583,7 +4600,6 @@ msgstr "Em Chamas"
 msgid "You're on fire! Quick, find some water!"
 msgstr "Você está pegando fogo! Rápido, ache água!"
 
-# Confuso, estou sem contexto do jogo.
 #: src/StatusEffect.cpp:102
 msgid "The coldness of this strange fire burns your skin."
 msgstr "O frio deste estranho fogo queima sua pele."
@@ -4594,15 +4610,15 @@ msgstr "Você está completamente congelado."
 
 #: src/StatusEffect.cpp:113
 msgid "Fairy Fire"
-msgstr ""
+msgstr "Fogo de Fada"
 
 #: src/StatusEffect.cpp:119
 msgid "Corrupted Fairy Fire"
-msgstr ""
+msgstr "Fada do Fogo Corrompida"
 
 #: src/StatusEffect.cpp:124
 msgid "You feel like hitting something!"
-msgstr ""
+msgstr "Você sente como se tivesse acertado algo!"
 
 #: src/StatusEffect.cpp:129
 msgid "Sugar Rush"
@@ -4618,7 +4634,7 @@ msgstr "Encantado"
 
 #: src/StatusEffect.cpp:135
 msgid "You can't tell friend from foe!"
-msgstr ""
+msgstr "Você consegue distinguir amigos de inimigos!"
 
 #: src/StatusEffect.cpp:140
 msgid "Exhausted"
@@ -4706,7 +4722,7 @@ msgstr "Encantamento de Vento"
 
 #: src/StatusEffect.cpp:208
 msgid "Razor-sharp winds augment your attacks."
-msgstr ""
+msgstr "Os ventos de giletes afiadas melhoram seus ataques."
 
 #: src/StatusEffect.cpp:213
 msgid "Divine Aura"
@@ -5752,7 +5768,6 @@ msgid "Summon Lightning"
 msgstr "Invocar Raios"
 
 #: src/ItemAttribute.cpp:682
-#, fuzzy
 msgid "Thurisaz"
 msgstr "Thurisaz"
 
@@ -5765,9 +5780,8 @@ msgid "Rise"
 msgstr "Surgir"
 
 #: src/ItemAttribute.cpp:689
-#, fuzzy
 msgid "Increased chance of finding magic items"
-msgstr "Amigo dos Itens Magicos"
+msgstr "Aumenta a chance de encontrar itens magicos"
 
 #: src/ItemAttribute.cpp:690
 msgid "Lucky"
