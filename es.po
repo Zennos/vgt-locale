@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-14 21:17-0300\n"
+"PO-Revision-Date: 2021-01-14 23:55-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3160,7 +3160,7 @@ msgstr ""
 #: src/Item.cpp:4459
 msgctxt "3-7 Damage"
 msgid "{1}-{2} Damage"
-msgstr ""
+msgstr "{1}-{2} Damage"
 
 #: src/Item.cpp:4474
 msgid "Charges"
@@ -3435,7 +3435,7 @@ msgstr "Eletrocute inimigos a sua frente."
 
 #: src/Skill.cpp:268
 msgid "Deep-freeze your surroundings."
-msgstr "Congela ao seu arredor."
+msgstr "Congela ao seu redor."
 
 #: src/Skill.cpp:278
 msgid "Call forth a raging inferno before you."
@@ -3577,10 +3577,11 @@ msgstr ""
 msgid "Whistle"
 msgstr ""
 
+# Deixei entre aspas porque não acho que combine com certos nomes de skil se botar "Livro de". Sujeito a mudança.
 #: src/Skill.cpp:508
 msgctxt "Skill book name"
 msgid "Book of {1}"
-msgstr ""
+msgstr "Livro \"{1}\""
 
 #: src/Skill.cpp:518
 msgid "Level: {1}"
@@ -3622,27 +3623,27 @@ msgstr "Familiar 1"
 msgid ""
 "Gain a weak demonic familiar.\n"
 "Increases mana regen."
-msgstr ""
+msgstr "Ganhe um fraco demônio aliado. Aumenta regeneração de mana."
 
 #: src/AffinityDemon.cpp:19
 msgid "Familiar 2"
-msgstr ""
+msgstr "Familiar 2"
 
 #: src/AffinityDemon.cpp:19
 msgid ""
 "Gain a lesser demonic familiar.\n"
 "Familiar sometimes attacks enemies."
-msgstr ""
+msgstr "Ganhe um demônio aliado mediano. Eles podem atacar inimigos."
 
 #: src/AffinityDemon.cpp:20
 msgid "Familiar 3"
-msgstr ""
+msgstr "Familiar 3"
 
 #: src/AffinityDemon.cpp:20
 msgid ""
 "Gain a greater demonic familiar.\n"
 "Familiar's damage increased."
-msgstr ""
+msgstr "Ganhe um demônio aliado forte. Dano aumentado."
 
 #: src/ConfigGui.cpp:109
 msgid "Settings"
@@ -3935,7 +3936,8 @@ msgstr "Magia Rápida"
 
 #: src/PlayerMenu.cpp:1103
 msgid "When enabled, cast specific spell depending on direction held."
-msgstr "Quando ativo, lance magias específicas dependendo da direção segurada."
+msgstr ""
+"Quando ativo, conjure magias específicas dependendo da direção segurada."
 
 #: src/PlayerMenu.cpp:1107 src/PlayerMenu.cpp:3480
 msgid "Quick Swap"
@@ -4260,23 +4262,24 @@ msgstr "Opções"
 
 #: src/AffinityClub.cpp:16
 msgid "Club"
-msgstr ""
+msgstr "Clava"
 
 #: src/AffinityClub.cpp:17
 msgid "Fatiguing Blows"
-msgstr ""
+msgstr "Golpes Fadigantes"
 
 #: src/AffinityClub.cpp:17
 msgid "Club attacks deal more damage and stun enemies more."
-msgstr ""
+msgstr "Ataques com a Clava causam mais danos e atordoam mais os inimigos."
 
 #: src/AffinityClub.cpp:18
 msgid "Charged Attack"
-msgstr ""
+msgstr "Ataque Carregado"
 
+# Pode ser melhor
 #: src/AffinityClub.cpp:18
 msgid "Hold the attack button to charge up your swing."
-msgstr ""
+msgstr "Segure o botão de Ataque para um ataque mais forte."
 
 #: src/AffinityClub.cpp:19
 msgctxt "club affinity"
@@ -4285,61 +4288,67 @@ msgstr ""
 
 #: src/AffinityClub.cpp:19
 msgid "Fully charged attacks unleash a powerful shockwave."
-msgstr ""
+msgstr "Ataques totalmente carregados cria uma poderosa onda de pedra."
 
 #: src/AffinityClub.cpp:20
 msgid "Faster Charge"
-msgstr ""
+msgstr "Carregamento Rápido"
 
 #: src/AffinityClub.cpp:20
 msgid "Attacks charge up quicker."
-msgstr ""
+msgstr "Ataques carregam mais rápido."
 
 #: src/AffinityEnchant.cpp:12
 msgid "Enchant"
-msgstr ""
+msgstr "Encantamento"
 
 #: src/AffinityEnchant.cpp:13
 msgid "Novice Enchanter"
-msgstr ""
+msgstr "Feiticeiro Novato"
 
 #: src/AffinityEnchant.cpp:13
 msgid ""
 "Bestow a spell's power unto the user by pressing Interact during a fully-"
 "concentrated spell cast."
 msgstr ""
+"Concede o poder de se encantar com um elemento. Aperte o botão de Interagir "
+"enquanto o poder estiver totalmente carregado em suas mãos."
 
 #: src/AffinityEnchant.cpp:14
 msgid "Elemental Adept"
-msgstr ""
+msgstr "Adepto de Elementos"
 
 #: src/AffinityEnchant.cpp:14
 msgid ""
 "Higher tier spells bestow greater enchantments. Additionally, gain the "
 "ability to wield 2 elemental enchantments."
 msgstr ""
+"Grandes magias concedem grandes encantamentos! Adiciona a habilidade se "
+"encantar com 2 elementos."
 
 #: src/AffinityEnchant.cpp:15
 msgid "Rune Scribe"
-msgstr ""
+msgstr "Escritor de Runas"
 
 #: src/AffinityEnchant.cpp:15
 msgid ""
 "Etch elemental runes upon your equipped weapon. Additionally, gain the "
 "ability to wield 3 elemental enchantments."
 msgstr ""
+"Encante magias elementais em suas armas equipadas. Adiciona a habilidade de "
+"se encantar com 3 elementos."
 
 #: src/AffinityCaster.cpp:14
 msgid "Spellcaster"
-msgstr ""
+msgstr "Feiticeiro"
 
 #: src/AffinityCaster.cpp:15
 msgid "Recovery"
-msgstr ""
+msgstr "Recuperação"
 
 #: src/AffinityCaster.cpp:15
 msgid "Spell cooldowns are reduced by 25%."
-msgstr ""
+msgstr "Cooldown das magias reduzidas em 25%."
 
 #: src/AffinityCaster.cpp:16
 msgid "Critical Magic"
@@ -4347,23 +4356,23 @@ msgstr "Magia Crítica"
 
 #: src/AffinityCaster.cpp:16
 msgid "Chance to deal critical spell damage."
-msgstr ""
+msgstr "Suas magias tem chance de causar dano crítico."
 
 #: src/AffinityCaster.cpp:17
 msgid "Resilience"
-msgstr ""
+msgstr "Resiliência"
 
 #: src/AffinityCaster.cpp:17
 msgid "Spell casting cannot be interrupted."
-msgstr ""
+msgstr "Conjuração de magia não serão mais interrompida."
 
 #: src/AffinityCaster.cpp:18
 msgid "Spell Charge"
-msgstr ""
+msgstr "Magia Carregada"
 
 #: src/AffinityCaster.cpp:18
 msgid "Enables complete movement control while casting a spell."
-msgstr ""
+msgstr "Movimente-se livremente enquanto conjura magias."
 
 #: src/Affinity.cpp:105
 msgid "Level {1} (NEXT)"
@@ -4464,23 +4473,23 @@ msgstr "Chutado do Jogo. Razão: {1}"
 
 #: src/AffinityRod.cpp:14
 msgid "Rod"
-msgstr ""
+msgstr "Varinha"
 
 #: src/AffinityRod.cpp:15
 msgid "Rod Adept"
-msgstr ""
+msgstr "Adepto de Varinha"
 
 #: src/AffinityRod.cpp:15
 msgid "Increase rod recharge rate."
-msgstr ""
+msgstr "Aumenta a recarga das varinhas."
 
 #: src/AffinityRod.cpp:16
 msgid "Overcharge"
-msgstr ""
+msgstr "Sobrecarga"
 
 #: src/AffinityRod.cpp:16
 msgid "Charge rod to increase damage."
-msgstr ""
+msgstr "Carregue o poder da Varinha para aumentar o dano."
 
 #: src/AffinityRod.cpp:18
 msgid "Spell Syphon"
@@ -4488,96 +4497,100 @@ msgstr ""
 
 #: src/AffinityRod.cpp:18
 msgid "Rods will recharge from spell damage."
-msgstr ""
+msgstr "Cargas das varinhas recarregarão ao dar dano."
 
 #: src/AffinityRod.cpp:19
 msgid "Leech Cast"
-msgstr ""
+msgstr "Sanguessuga"
 
+# Não sei como isso funciona no jogo.
 #: src/AffinityRod.cpp:19
 msgid "Auto-cast rods if attack hits an enemy."
 msgstr ""
 
 #: src/AffinityRod.cpp:20
 msgid "Conductor"
-msgstr ""
+msgstr "Condutor"
 
 #: src/AffinityRod.cpp:20
 msgid "Automatically cast your current spell after overcharging rod."
 msgstr ""
+"Automaticamente conjura sua magia atual depois de sobrecarregar um ataque "
+"com uma Varinha."
 
 #: src/StatusEffect.cpp:58
 msgid "Regeneration"
-msgstr ""
+msgstr "Regeneração"
 
 #: src/StatusEffect.cpp:59
 msgid "Your injuries are rapidly healing."
-msgstr ""
+msgstr "Suas lesões rapidamente serão curadas."
 
 #: src/StatusEffect.cpp:62
 msgid "Magic Power"
-msgstr ""
+msgstr "Poder Magico"
 
 #: src/StatusEffect.cpp:63
 msgid "Your body courses with unbounded magical energy."
-msgstr ""
+msgstr "Você sentira uma poderosa energia magica em seu corpo."
 
 #: src/StatusEffect.cpp:69
 msgid "You'll continue to take damage until the poison has run its course."
-msgstr ""
+msgstr "Você continuara à sofrer dano até que o veneno acabe."
 
 #: src/StatusEffect.cpp:72
 msgid "Speedy"
-msgstr ""
+msgstr "Rapidez"
 
 #: src/StatusEffect.cpp:73
 msgid "You feel much quicker."
-msgstr ""
+msgstr "Você se sente rápido."
 
 #: src/StatusEffect.cpp:76
 msgid "Stone Skin"
-msgstr ""
+msgstr "Pele de Pedra"
 
 #: src/StatusEffect.cpp:77
 msgid "Your skin is rock hard."
-msgstr ""
+msgstr "Sua pele está mais forte."
 
 #: src/StatusEffect.cpp:81
 msgid "You feel much stronger."
-msgstr ""
+msgstr "Você se sente forte."
 
 #: src/StatusEffect.cpp:86
 msgid "Stunned"
-msgstr ""
+msgstr "Atordoado"
 
 #: src/StatusEffect.cpp:87
 msgid "You're too stunned to do anything."
-msgstr ""
+msgstr "Você não consegue fazer nada."
 
 #: src/StatusEffect.cpp:91 src/ItemAttribute.cpp:421
 msgid "Featherfall"
-msgstr ""
+msgstr "Leveza"
 
 #: src/StatusEffect.cpp:92
 msgid "Your body feels as light as a feather."
-msgstr ""
+msgstr "Você se sente leve como uma pena."
 
 #: src/StatusEffect.cpp:95 src/StatusEffect.cpp:101 src/ItemAttribute.cpp:550
 #: src/ItemAttribute.cpp:596 src/ItemAttribute.cpp:599
 msgid "Burning"
-msgstr ""
+msgstr "Em Chamas"
 
 #: src/StatusEffect.cpp:96
 msgid "You're on fire! Quick, find some water!"
-msgstr ""
+msgstr "Você está pegando fogo! Rápido, ache água!"
 
+# Confuso, estou sem contexto do jogo.
 #: src/StatusEffect.cpp:102
 msgid "The coldness of this strange fire burns your skin."
-msgstr ""
+msgstr "O frio deste estranho fogo queima sua pele."
 
 #: src/StatusEffect.cpp:108
 msgid "You're completely encased in ice."
-msgstr ""
+msgstr "Você está completamente congelado."
 
 #: src/StatusEffect.cpp:113
 msgid "Fairy Fire"
@@ -4593,15 +4606,15 @@ msgstr ""
 
 #: src/StatusEffect.cpp:129
 msgid "Sugar Rush"
-msgstr ""
+msgstr "Caféinado"
 
 #: src/StatusEffect.cpp:130
 msgid "You feel energy coursing through you!"
-msgstr ""
+msgstr "Você sente a energia em suas veias!"
 
 #: src/StatusEffect.cpp:134
 msgid "Charmed"
-msgstr ""
+msgstr "Encantado"
 
 #: src/StatusEffect.cpp:135
 msgid "You can't tell friend from foe!"
@@ -4609,87 +4622,87 @@ msgstr ""
 
 #: src/StatusEffect.cpp:140
 msgid "Exhausted"
-msgstr ""
+msgstr "Exausto"
 
 #: src/StatusEffect.cpp:141
 msgid "After berserking, you feel exhausted."
-msgstr ""
+msgstr "Depois da fúria do berserk, você se sente cansado."
 
 #: src/StatusEffect.cpp:146
 msgid "Flames surround your entire body!"
-msgstr ""
+msgstr "Fogo está ao redor de seu corpo todo!"
 
 #: src/StatusEffect.cpp:150
 msgid "Dead"
-msgstr ""
+msgstr "Morto"
 
 #: src/StatusEffect.cpp:151
 msgid "You're dead. Sorry."
-msgstr ""
+msgstr "Você morreu. Desculpe."
 
 #: src/StatusEffect.cpp:157
 msgid "Cursed"
-msgstr ""
+msgstr "Amaldiçoado"
 
 #: src/StatusEffect.cpp:163
 msgid "Slowed"
-msgstr ""
+msgstr "Lento"
 
 #: src/StatusEffect.cpp:164
 msgid "Your movements are slowed."
-msgstr ""
+msgstr "Seus movimentos estão lentos."
 
 #: src/StatusEffect.cpp:170
 msgid "The blood of your enemies rejuvenates you."
-msgstr ""
+msgstr "O sangue de seus inimigos te da vida."
 
 #: src/StatusEffect.cpp:174 src/ItemAttribute.cpp:353
 msgid "Unbounded Sight"
-msgstr ""
+msgstr "Visão Ilimitada"
 
 #: src/StatusEffect.cpp:175
 msgid "Your third eye is opened."
-msgstr ""
+msgstr "Seu terceiro olho está aberto."
 
 #: src/StatusEffect.cpp:179
 msgid "Breath Underwater"
-msgstr ""
+msgstr "Respiração Aquática"
 
 #: src/StatusEffect.cpp:184
 msgid "Freeze Immune"
-msgstr ""
+msgstr "Imune à Congelamento"
 
 #: src/StatusEffect.cpp:185
 msgid "Your body feels strangely warm."
-msgstr ""
+msgstr "Seu corpo está estranhamente caloroso."
 
 #: src/StatusEffect.cpp:189
 msgid "Fire Enchanted"
-msgstr ""
+msgstr "Encantamento de Fogo"
 
 #: src/StatusEffect.cpp:190
 msgid "Your hands surround everything you touch in fire."
-msgstr ""
+msgstr "Tudo que suas mãos toca entra em chamas."
 
 #: src/StatusEffect.cpp:195
 msgid "Ice Enchanted"
-msgstr ""
+msgstr "Encantamento de Gelo"
 
 #: src/StatusEffect.cpp:196
 msgid "Your hands have become unbearably cold."
-msgstr ""
+msgstr "Suas mãos estão muito geladas."
 
 #: src/StatusEffect.cpp:201
 msgid "Lightning Enchanted"
-msgstr ""
+msgstr "Encantamento de Choque"
 
 #: src/StatusEffect.cpp:202
 msgid "Lightning constantly arcs from your hands."
-msgstr ""
+msgstr "Suas mãos criam arcos elétricos."
 
 #: src/StatusEffect.cpp:207
 msgid "Wind Enchanted"
-msgstr ""
+msgstr "Encantamento de Vento"
 
 #: src/StatusEffect.cpp:208
 msgid "Razor-sharp winds augment your attacks."
@@ -4697,19 +4710,19 @@ msgstr ""
 
 #: src/StatusEffect.cpp:213
 msgid "Divine Aura"
-msgstr ""
+msgstr "Aura Divina"
 
 #: src/StatusEffect.cpp:214
 msgid "Holy aura surrounds your body."
-msgstr ""
+msgstr "Você sente uma aura divina ao seu redor."
 
 #: src/StatusEffect.cpp:219
 msgid "Holy Spirit"
-msgstr ""
+msgstr "Espirito Santo"
 
 #: src/StatusEffect.cpp:220
 msgid "God will grant you a second chance once all hitpoints are lost."
-msgstr ""
+msgstr "Deus irá te dar uma segunda chance assim que perder sua vida."
 
 #: src/StatusEffect.cpp:225 src/AffinityShadow.cpp:17
 msgid "Stealth"
@@ -4717,7 +4730,7 @@ msgstr "Furtividade"
 
 #: src/StatusEffect.cpp:226
 msgid "You are now one with the shadows."
-msgstr ""
+msgstr "Você é uma das sombras agora."
 
 #: src/StatusEffect.cpp:231 src/AffinityCQC.cpp:18
 msgid "Godfist"
@@ -4725,19 +4738,23 @@ msgstr "Punhos Divinos"
 
 #: src/StatusEffect.cpp:232
 msgid "You feel powerful energies surging into your fist!"
-msgstr ""
+msgstr "Você sente uma poderosa energia em seus punhos!"
 
 #: src/AffinityStats.cpp:30
 msgid ""
 "Dexterity increases your attack/cast speed and damage, especially with "
 "ranged weapons."
 msgstr ""
+"Destreza aumenta sua velocidade de ataque/conjuração e dano, especialmente "
+"em armas de longa distância."
 
 #: src/AffinityStats.cpp:40
 msgid ""
 "Intelligence increases your maximum spell charge, as well as your overall "
 "spell casting abilities."
 msgstr ""
+"Inteligência aumenta suas recargas magicas, assim como suas habilidades "
+"magicas."
 
 #: src/AffinityStats.cpp:63
 msgctxt "+3 Total Strength"
