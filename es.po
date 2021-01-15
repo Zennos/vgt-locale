@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-15 14:07-0300\n"
+"PO-Revision-Date: 2021-01-15 14:38-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -326,14 +326,14 @@ msgstr "Encontro marcado com a Morte"
 
 #: src/Background.cpp:122 src/ItemGenerator.cpp:505 src/Stats.cpp:151
 msgid "Heirloom"
-msgstr "Hernaça"
+msgstr "Herança"
 
 #: src/Background.cpp:123
 msgid ""
 "You're not sure how old this ring is, but it's been passed down within the "
 "family for generations."
 msgstr ""
-"Você não tem certeza do quão antigo esse anel é, mas certamente passou por "
+"Você não tem certeza de quão antigo esse anel é, mas certamente passou por "
 "gerações na Família."
 
 #: src/Background.cpp:124
@@ -2454,131 +2454,133 @@ msgstr "Cabeça de Dragão"
 
 #: src/Item.cpp:1124
 msgid "The head of a dragon."
-msgstr ""
+msgstr "Crânio de um Dragão."
 
 #: src/Item.cpp:1130
 msgid "Incomplete Ring"
-msgstr ""
+msgstr "Anel Incompleto"
 
 #: src/Item.cpp:1131
 msgid "The setting is missing its gemstone."
-msgstr ""
+msgstr "Sua composição falta alguma pedra preciosa."
 
 #: src/Item.cpp:1136
 msgid "Ring"
-msgstr ""
+msgstr "Anel"
 
 #: src/Item.cpp:1137
 msgid "A simple ring, set with a common gemstone."
-msgstr ""
+msgstr "Um anel simples, formado com pedras comuns."
 
 #: src/Item.cpp:1143
 msgid "Damaged Ring"
-msgstr ""
+msgstr "Anel Danificado"
 
 #: src/Item.cpp:1144
 msgid "Part of its stone is chipped."
-msgstr ""
+msgstr "Parte de sua pedra está lascada."
 
 #: src/Item.cpp:1150
 msgid "Gem Studded Ring"
-msgstr ""
+msgstr "Anel Gemado"
 
 #: src/Item.cpp:1151
 msgid "It's lined with several smaller gemstones."
-msgstr ""
+msgstr "Em seu contorno há varias pequenas gemas."
 
 #: src/Item.cpp:1157
 msgid "Wood Ring"
-msgstr ""
+msgstr "Anel da Floresta"
 
 #: src/Item.cpp:1164
 msgid "Leaf Ring"
-msgstr ""
+msgstr "Anel de Pena"
 
 #: src/Item.cpp:1165
 msgid "A tiny bunch of intricately carved leaves adorn this ring."
 msgstr ""
+"Um minúsculo ramo de folhas esculpidas intrincadamente adorna este anel."
 
 #: src/Item.cpp:1171
 msgid "Flower Ring"
-msgstr ""
+msgstr "Anel de Flores"
 
 #: src/Item.cpp:1172
 msgid "Flowers."
-msgstr ""
+msgstr "Flores."
 
 #: src/Item.cpp:1178
 msgid "Sun Ring"
-msgstr ""
+msgstr "Anel do Sol"
 
 #: src/Item.cpp:1179
 msgid "It gleams with yellow light."
-msgstr ""
+msgstr "Isto brilha com uma luz amarelada."
 
 #: src/Item.cpp:1185
 msgid "Bone Ring"
-msgstr ""
+msgstr "Anel de Osso"
 
 #: src/Item.cpp:1186
 msgid "A ring adorned with a bone."
-msgstr ""
+msgstr "Anel adornado com ossos."
 
 #: src/Item.cpp:1192
 msgid "Skull Ring"
-msgstr ""
+msgstr "Anel de Caveira"
 
 #: src/Item.cpp:1193
 msgid "The likeness of a human skull adorns this ring."
-msgstr ""
+msgstr "A semelhança de um crânio humano adorna este anel."
 
 #: src/Item.cpp:1199
 msgid "Star Ring"
-msgstr ""
+msgstr "Anel de Estrela"
 
 #: src/Item.cpp:1200
 msgid "A ring adorned with a star."
-msgstr ""
+msgstr "Um anel adornado com uma estrela."
 
 #: src/Item.cpp:1206
 msgid "Shield Ring"
-msgstr ""
+msgstr "Anel de Escudo"
 
 #: src/Item.cpp:1207
 msgid "A ring adorned with a shield."
-msgstr ""
+msgstr "Um anel adornado com um escudo."
 
 #: src/Item.cpp:1213
 msgid "Mystery Ring"
-msgstr ""
+msgstr "Anel Misterioso"
 
 #: src/Item.cpp:1214
 msgid "Who would make such a ring?"
-msgstr ""
+msgstr "Quem faria tal anel?"
 
 #: src/Item.cpp:1219
 msgid "Sword Ring"
-msgstr ""
+msgstr "Anel Espada"
 
 #: src/Item.cpp:1220
 msgid "A ring adorned with a sword."
-msgstr ""
+msgstr "Um anel adornado com uma espada."
 
 #: src/Item.cpp:1226
 msgid "Moon Ring"
-msgstr ""
+msgstr "Anel Lua"
 
 #: src/Item.cpp:1227
 msgid "The symbol of love and justice adorns this ring."
-msgstr ""
+msgstr "O símbolo de amor e justiça adorna esse anel."
 
 #: src/Item.cpp:1233
 msgid "Eye Ring"
-msgstr ""
+msgstr "Anel de Olho"
 
 #: src/Item.cpp:1234
 msgid "The eye on this ring meets your gaze no matter the angle you hold it."
 msgstr ""
+"O olho neste anel te encara, não importa o ângulo em que você o segure."
 
 #: src/Item.cpp:1241
 msgid "Breast Plate"
@@ -2610,7 +2612,7 @@ msgstr "Pele de Animal"
 
 #: src/Item.cpp:1260
 msgid "The pelt of some unfortunate beast."
-msgstr ""
+msgstr "A pele de algum animal sem sorte."
 
 #: src/Item.cpp:1265
 msgid "Reinforced Armor"
@@ -3023,11 +3025,11 @@ msgstr ""
 
 #: src/Item.cpp:1630
 msgid "Heirloom Ring"
-msgstr ""
+msgstr "Anel de Herança"
 
 #: src/Item.cpp:1631
 msgid "Your grandfather gave you this ring before he passed away."
-msgstr ""
+msgstr "Seu avô te deu este anel antes de falecer."
 
 #: src/Item.cpp:1639
 msgid "Grappling Hook"
@@ -4016,7 +4018,7 @@ msgid ""
 "Intelligence affects spell power as well as the number of spell charge each "
 "spell has."
 msgstr ""
-"Inteligência afeta seu poder magico, assim como o número de cargas magica."
+"Inteligência afeta seu poder magico, assim como o número de cargas magicas."
 
 #: src/PlayerMenu.cpp:1687 src/AffinityStats.cpp:44
 msgid "Luck"
@@ -4036,7 +4038,7 @@ msgstr "Defesa"
 
 #: src/PlayerMenu.cpp:1689
 msgid "Defense is how resistant you are to physical damage."
-msgstr "Defesa é o quão resistente você é para ataque físicos."
+msgstr "Defesa define quão resistente você é contra ataque físicos."
 
 #: src/PlayerMenu.cpp:1690
 msgid "Fire Resist"
@@ -4074,7 +4076,7 @@ msgstr ""
 
 #: src/PlayerMenu.cpp:1693
 msgid "Poison Resist"
-msgstr "Resistência a Veneno"
+msgstr "Resistência à Veneno"
 
 #: src/PlayerMenu.cpp:1693
 msgid ""
@@ -4294,7 +4296,6 @@ msgstr "Ataques com a Clava causam mais danos e atordoam mais os inimigos."
 msgid "Charged Attack"
 msgstr "Ataque Carregado"
 
-# Pode ser melhor
 #: src/AffinityClub.cpp:18
 msgid "Hold the attack button to charge up your swing."
 msgstr "Segure o botão de Ataque para um ataque mais forte."
@@ -4329,8 +4330,8 @@ msgid ""
 "Bestow a spell's power unto the user by pressing Interact during a fully-"
 "concentrated spell cast."
 msgstr ""
-"Concede o poder de se encantar com um elemento. Aperte o botão de Interagir "
-"enquanto o poder estiver totalmente carregado em suas mãos."
+"Concede o poder de se encantar com um elemento. Aperte o botão de "
+"[Interagir] enquanto o poder estiver totalmente carregado em suas mãos."
 
 #: src/AffinityEnchant.cpp:14
 msgid "Elemental Adept"
@@ -4366,7 +4367,7 @@ msgstr "Recuperação"
 
 #: src/AffinityCaster.cpp:15
 msgid "Spell cooldowns are reduced by 25%."
-msgstr "Cooldown das magias reduzidas em 25%."
+msgstr "Tempo de Conjuração das magias reduzido em 25%."
 
 #: src/AffinityCaster.cpp:16
 msgid "Critical Magic"
