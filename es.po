@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-13 21:43-0400\n"
-"PO-Revision-Date: 2021-01-15 14:01-0300\n"
+"PO-Revision-Date: 2021-01-15 14:07-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -261,7 +261,7 @@ msgstr "+3 Poções de Veneno"
 
 #: src/Background.cpp:97
 msgid "+1 POISRES"
-msgstr "+1 VENENO RES"
+msgstr "+1 de RESVEN"
 
 #: src/Background.cpp:98
 msgid "Poison Potions heal"
@@ -1470,7 +1470,7 @@ msgstr "Você sente seu corpo sem peso."
 
 #: src/Item.cpp:510
 msgid "Potion of Quickness"
-msgstr "Poção de Rapidez."
+msgstr "Poção de Rapidez"
 
 #: src/Item.cpp:511
 msgid "The very essence of wind is stoppered in this flask."
@@ -1595,7 +1595,7 @@ msgstr "Poção de Resistencia a Fogo"
 
 #: src/Item.cpp:561
 msgid "Increases your Fire Res by one."
-msgstr "Aumenta sua Resistencia a Fogo em +1"
+msgstr "Aumenta sua Resistencia a Fogo em +1."
 
 #: src/Item.cpp:562
 msgid "FIRERES +1"
@@ -1607,7 +1607,7 @@ msgstr "Poção de Resistencia a Gelo"
 
 #: src/Item.cpp:566
 msgid "Increases your Cold Res by one."
-msgstr "Aumenta sua Resistencia a Gelo em +1"
+msgstr "Aumenta sua Resistencia a Gelo em +1."
 
 #: src/Item.cpp:567
 msgid "COLDRES +1"
@@ -1619,7 +1619,7 @@ msgstr "Poção de Resistencia a Eletricidade"
 
 #: src/Item.cpp:571
 msgid "Increases your Light Res by one."
-msgstr "Aumenta sua Resistencia a Eletricidade em +1"
+msgstr "Aumenta sua Resistencia a Eletricidade em +1."
 
 #: src/Item.cpp:572
 msgid "ELECRES +1"
@@ -1631,7 +1631,7 @@ msgstr "Poção de Resistencia a Veneno"
 
 #: src/Item.cpp:576
 msgid "Increases your Poison Res by one."
-msgstr "Aumenta sua Resistencia a Veneno em +1"
+msgstr "Aumenta sua Resistencia a Veneno em +1."
 
 #: src/Item.cpp:577
 msgid "POISRES +1"
@@ -1643,7 +1643,7 @@ msgstr "Poção de Força Menor"
 
 #: src/Item.cpp:581
 msgid "Decreases your STR by one."
-msgstr "Diminui sua FOR em -1"
+msgstr "Diminui sua FOR em -1."
 
 #: src/Item.cpp:582
 msgid "STR -1"
@@ -1651,11 +1651,11 @@ msgstr "FOR -1"
 
 #: src/Item.cpp:585
 msgid "Potion of Lower Intelligence"
-msgstr "Poção de Inteligência Menor "
+msgstr "Poção de Inteligência Menor"
 
 #: src/Item.cpp:586
 msgid "Decreases your INT by one."
-msgstr "Diminui sua INT em -1"
+msgstr "Diminui sua INT em -1."
 
 #: src/Item.cpp:587
 msgid "INT -1"
@@ -1667,7 +1667,7 @@ msgstr "Poção de Destreza Menor"
 
 #: src/Item.cpp:591
 msgid "Decreases your DEX by one."
-msgstr "Diminui sua DES em -1"
+msgstr "Diminui sua DES em -1."
 
 #: src/Item.cpp:592
 msgid "DEX -1"
@@ -1679,7 +1679,7 @@ msgstr "Poção de Sorte Menor"
 
 #: src/Item.cpp:596
 msgid "Decreases your LUK by one."
-msgstr "Diminui sua SOR em -1"
+msgstr "Diminui sua SOR em -1."
 
 #: src/Item.cpp:597
 msgid "LUK -1"
@@ -1691,7 +1691,7 @@ msgstr "Poção de Vitalidade Menor"
 
 #: src/Item.cpp:601
 msgid "Decreases your VIT by one."
-msgstr "Diminui sua VIT em -1"
+msgstr "Diminui sua VIT em -1."
 
 #: src/Item.cpp:602
 msgid "VIT -1"
@@ -1703,7 +1703,7 @@ msgstr "Poção de Resistencia a Fogo Menor"
 
 #: src/Item.cpp:606
 msgid "Decreases your Fire Res by one."
-msgstr "Diminui sua Resistencia a Fogo em -1"
+msgstr "Diminui sua Resistencia a Fogo em -1."
 
 #: src/Item.cpp:607
 msgid "FIRERES -1"
@@ -1715,7 +1715,7 @@ msgstr "Poção de Resistencia a Gelo Menor"
 
 #: src/Item.cpp:611
 msgid "Decreases your Cold Res by one."
-msgstr "Diminui sua Resistencia a Gelo em -1"
+msgstr "Diminui sua Resistencia a Gelo em -1."
 
 #: src/Item.cpp:612
 msgid "COLDRES -1"
@@ -1727,7 +1727,7 @@ msgstr "Poção de Resistencia a Eletricidade Menor"
 
 #: src/Item.cpp:616
 msgid "Decreases your Light Res by one."
-msgstr "Diminui sua Resistencia a Eletricidade em -1"
+msgstr "Diminui sua Resistencia a Eletricidade em -1."
 
 #: src/Item.cpp:617
 msgid "ELECRES -1"
@@ -1739,7 +1739,7 @@ msgstr "Poção de Resistencia a Veneno Menor"
 
 #: src/Item.cpp:621
 msgid "Decreases your Poison Res by one."
-msgstr "Diminui sua Resistencia a Veneno em -1"
+msgstr "Diminui sua Resistencia a Veneno em -1."
 
 #: src/Item.cpp:622
 msgid "POISRES -1"
